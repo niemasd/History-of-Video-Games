@@ -2,7 +2,7 @@
 # Preface
 
 ```{note}
-Source Code: [`history_video_games/preface.md`](https://github.com/niemasd/https://github.com/niemasd/History-of-Video-Games/blob/main/history_video_games/preface.md)
+Source Code: [`history_video_games/preface.md`](https://github.com/niemasd/History-of-Video-Games/blob/main/history_video_games/preface.md)
 ```
 
 Thank you for reading *How to Teach Online*!

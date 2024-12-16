@@ -9,7 +9,7 @@ Source Code: [`history_video_games/consoles.md`](https://github.com/niemasd/Hist
 ## Sony
 
 [Sony](#consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.
-Originally named Tōkyō Tsūshin Kōgyō (東京通信工業),
+Originally named Tokyo Tsushin Kogyo,
 it was established on May 7, 1946,
 and it was renamed to [Sony](#consoles-sony) in January 1958 {cite:p}`sony_history_2021`.
 

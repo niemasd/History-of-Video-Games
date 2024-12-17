@@ -17,7 +17,7 @@ and it was renamed to [Sony](consoles-sony) in January 1958 {cite:p}`sony_histor
 ---
 name: fig-consoles-sony
 ---
-Sony logo (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony_logo.svg)). Credit: [Yasuo Kuroki](https://npo-plat.org/kuroki-yasuo-en.html)
+Sony logo (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony_logo.svg)). Credit: [Yasuo Kuroki](https://npo-plat.org/kuroki-yasuo-en.html)
 ```
 
 (consoles-sony-playstation)=
@@ -59,7 +59,7 @@ and in Australia on November 30, 2000.
 ---
 name: fig-consoles-sony-playstation-2
 ---
-Sony PlayStation 2 (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-2-slimline)=
@@ -72,7 +72,7 @@ was released on October 29, 2004.
 ---
 name: fig-consoles-sony-playstation-2-slimline
 ---
-Sony PlayStation 2 Slimline (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 Slimline (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-3)=

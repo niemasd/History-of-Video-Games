@@ -46,7 +46,7 @@ The [Sony PlayStation](consoles-sony-playstation) is released in Japan.
 name: fig-timeline-sony-playstation-with-controller-memcard-japan
 height: 200px
 ---
-Sony PlayStation with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-1995-09-09)=
@@ -58,7 +58,7 @@ The [Sony PlayStation](consoles-sony-playstation) is released in North America.
 name: fig-timeline-sony-playstation-with-controller-memcard-north-america
 height: 200px
 ---
-Sony PlayStation with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-1995-09-29)=
@@ -70,12 +70,20 @@ The [Sony PlayStation](consoles-sony-playstation) is released in Europe.
 name: fig-timeline-sony-playstation-with-controller-memcard-europe
 height: 200px
 ---
-Sony PlayStation with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000-03-04)=
 ## March 4, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Japan.
+
+```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
+---
+name: fig-consoles-sony-playstation-2-with-controller-memcard-japan
+height: 200px
+---
+Sony PlayStation 2 with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-2000-07-07)=
 ## July 7, 2000
@@ -86,7 +94,7 @@ The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [
 name: fig-consoles-sony-playstation-ps-one-with-controller-memcard
 height: 200px
 ---
-Sony PlayStation PS One with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation PS One with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000-10-26)=

@@ -11,7 +11,7 @@ Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony), is established by [Masa
 
 ```{figure} ../images/people/masaru-ibuka-akio-morita.jpg
 ---
-name: fig-people-masaru-ibuka-akio-morita
+name: fig-timeline-masaru-ibuka-akio-morita
 height: 200px
 ---
 [Mr. Morita](people-akio-morita) (age 26, then Managing Director) and [Mr. Ibuka](people-masaru-ibuka) (age 39, then Senior Managing Director) in May 1947 (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
@@ -19,7 +19,7 @@ height: 200px
 
 ```{figure} ../images/logos/tokyo-tsushin-kogyo-sign.jpg
 ---
-name: fig-logos-tokyo-tsushin-kogyo-sign
+name: fig-timeline-tokyo-tsushin-kogyo-sign
 height: 200px
 ---
 The Original Tokyo Tsushin Kogyo Corporation Sign (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/capsule/03/)).
@@ -28,6 +28,14 @@ The Original Tokyo Tsushin Kogyo Corporation Sign (from [Sony](https://www.sony.
 (timeline-1958-01)=
 ## January 1958 (day unknown)
 Tokyo Tsushin Kogyo changes its name to [Sony](consoles-sony) {cite:p}`sony_history_2021`.
+
+```{figure} ../images/logos/sony-history.jpg
+---
+name: fig-timeline-sony-history
+height: 200px
+---
+The evolution of the SONY logo from 1955 to 1973 (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-23.html)).
+```
 
 (timeline-1994-12-03)=
 ## December 3, 1994

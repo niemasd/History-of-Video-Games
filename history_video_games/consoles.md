@@ -40,3 +40,20 @@ was released on July 7, 2000.
 name: fig-consoles-sony-playstation-ps-one
 ---
 Sony PlayStation PS One (from [Wikipedia](https://en.wikipedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-2)=
+### PlayStation 2
+
+The [Sony PlayStation 2](consoles-sony-playstation-2) is a video game console developed by [Sony](#consoles-sony).
+It was released in Japan on March 4, 2000,
+in North America on October 26, 2000,
+in Europe on November 24, 2000,
+and in Australia on November 30, 2000.
+
+```{figure} ../images/consoles-sony-playstation-2.jpg
+---
+name: fig-consoles-sony-playstation-2
+---
+Sony PlayStation 2 (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```

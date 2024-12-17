@@ -48,3 +48,23 @@ Source Code: [`history_video_games/timeline.md`](https://github.com/niemasd/Hist
 (timeline-2004-10-29)=
 ## October 29, 2004
 * The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released
+
+(timeline-2006-11-11)=
+## November 11, 2006
+* The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Japan
+
+(timeline-2006-11-17)=
+## November 17, 2006
+* The [Sony PlayStation 3](consoles-sony-playstation-3) is released in North America
+
+(timeline-2007-03-23)=
+## March 23, 2007
+* The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Europe and Australasia
+
+(timeline-2009-09-01)=
+## September 1, 2009
+* The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released
+
+(timeline-2012-09-25)=
+## September 25, 2012
+* The [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim), an even smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released

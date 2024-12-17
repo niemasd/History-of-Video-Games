@@ -67,3 +67,43 @@ name: fig-consoles-sony-playstation-2-slimline
 ---
 Sony PlayStation 2 Slimline (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(consoles-sony-playstation-3)=
+### PlayStation 3
+The [Sony PlayStation 3](consoles-sony-playstation-3) is a video game console developed by [Sony](consoles-sony).
+It was released in Japan on November 11, 2006,
+in North America on November 17, 2006,
+and in Europe and Australasia on March 23, 2007.
+
+```{figure} ../images/consoles/sony-playstation-3.jpg
+---
+name: fig-consoles-sony-playstation-3
+---
+Sony PlayStation 3 (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-3-slim)=
+#### Slim
+A smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3),
+named the [Slim](consoles-sony-playstation-3-slim),
+was released on September 1, 2009.
+
+```{figure} ../images/consoles/sony-playstation-3-slim.jpg
+---
+name: fig-consoles-sony-playstation-3-slim
+---
+Sony PlayStation 3 Slim (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-Slim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-3-super-slim)=
+#### Super Slim
+An even smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3),
+named the [Super Slim](consoles-sony-playstation-3-super-slim),
+was released on September 25, 2012.
+
+```{figure} ../images/consoles/sony-playstation-3-super-slim.jpg
+---
+name: fig-consoles-sony-playstation-3-super-slim
+---
+Sony PlayStation 3 Super Slim (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-SuperSlim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```

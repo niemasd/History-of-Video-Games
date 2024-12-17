@@ -5,13 +5,7 @@
 Source Code: [`history_video_games/preface.md`](https://github.com/niemasd/History-of-Video-Games/blob/main/history_video_games/preface.md)
 ```
 
-Thank you for reading *How to Teach Online*!
-Whether you are a seasoned instructor or new to teaching,
-we hope you will learn some useful information that you will be able to incorporate into your classes!
-This resource will be broken down into individual sections focused on specific aspects of online teaching.
-We will try to provide multiple examples for each topic,
-and we will try to comment on feasibility and usefulness in the context of different disciplines,
-as some techniques and tools may lend themselves better to some types of courses than to others.
+Thank you for reading *History of Video Games*!
 
 (preface-about)=
 ## About

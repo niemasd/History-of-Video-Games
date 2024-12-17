@@ -57,3 +57,17 @@ name: fig-consoles-sony-playstation-2
 ---
 Sony PlayStation 2 (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(consoles-sony-playstation-2-slimline)=
+#### Slimline
+
+A smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2),
+named the [Slimline](consoles-sony-playstation-2-slimline),
+was released on October 29, 2004.
+
+```{figure} ../images/consoles-sony-playstation-2-slimline.jpg
+---
+name: fig-consoles-sony-playstation-2-slimline
+---
+Sony PlayStation 2 Slimline (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```

@@ -46,7 +46,7 @@ The [Sony PlayStation](consoles-sony-playstation) is released in Japan.
 name: fig-timeline-sony-playstation-with-controller-memcard-japan
 height: 200px
 ---
-Sony PlayStation with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-1995-09-09)=
@@ -58,7 +58,7 @@ The [Sony PlayStation](consoles-sony-playstation) is released in North America.
 name: fig-timeline-sony-playstation-with-controller-memcard-north-america
 height: 200px
 ---
-Sony PlayStation with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-1995-09-29)=
@@ -70,7 +70,7 @@ The [Sony PlayStation](consoles-sony-playstation) is released in Europe.
 name: fig-timeline-sony-playstation-with-controller-memcard-europe
 height: 200px
 ---
-Sony PlayStation with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000-03-04)=
@@ -79,10 +79,10 @@ The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Japan.
 
 ```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
 ---
-name: fig-consoles-sony-playstation-2-with-controller-memcard-japan
+name: fig-timeline-sony-playstation-2-with-controller-memcard-japan
 height: 200px
 ---
-Sony PlayStation 2 with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000-07-07)=
@@ -91,44 +91,116 @@ The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [
 
 ```{figure} ../images/consoles/sony-playstation-ps-one-with-controller-memcard.jpg
 ---
-name: fig-consoles-sony-playstation-ps-one-with-controller-memcard
+name: fig-timeline-sony-playstation-ps-one-with-controller-memcard
 height: 200px
 ---
-Sony PlayStation PS One with controller and memory card (from [Wikipedia](https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation PS One with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000-10-26)=
 ## October 26, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in North America.
 
+```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
+---
+name: fig-timeline-sony-playstation-2-with-controller-memcard-north-america
+height: 200px
+---
+Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2000-11-24)=
 ## November 24, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Europe.
+
+```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
+---
+name: fig-timeline-sony-playstation-2-with-controller-memcard-europe
+height: 200px
+---
+Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-2000-11-30)=
 ## November 30, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Australia.
 
+```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
+---
+name: fig-timeline-sony-playstation-2-with-controller-memcard-australia
+height: 200px
+---
+Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2004-10-29)=
 ## October 29, 2004
 The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released.
+
+```{figure} ../images/consoles/sony-playstation-2-slimline.jpg
+---
+name: fig-timeline-sony-playstation-2-slimline
+height: 200px
+---
+Sony PlayStation 2 Slimline (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-2006-11-11)=
 ## November 11, 2006
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Japan.
 
+```{figure} ../images/consoles/sony-playstation-3-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-3-with-controller-japan
+height: 200px
+---
+Sony PlayStation 3 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2006-11-17)=
 ## November 17, 2006
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in North America.
+
+```{figure} ../images/consoles/sony-playstation-3-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-3-with-controller-north-america
+height: 200px
+---
+Sony PlayStation 3 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-2007-03-23)=
 ## March 23, 2007
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Europe and Australasia.
 
+```{figure} ../images/consoles/sony-playstation-3-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-3-with-controller-europe-australasia
+height: 200px
+---
+Sony PlayStation 3 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2009-09-01)=
 ## September 1, 2009
 The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.
 
+```{figure} ../images/consoles/sony-playstation-3-slim-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-3-slim-with-controller
+height: 200px
+---
+Sony PlayStation 3 Slim with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-2001A-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2012-09-25)=
 ## September 25, 2012
 The [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim), an even smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.
+
+```{figure} ../images/consoles/sony-playstation-3-super-slim-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-3-super-slim-with-controller
+height: 200px
+---
+Sony PlayStation 3 Super Slim with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-4001B-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```

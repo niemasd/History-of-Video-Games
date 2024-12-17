@@ -17,7 +17,7 @@ and it was renamed to [Sony](consoles-sony) in January 1958 {cite:p}`sony_histor
 ---
 name: fig-consoles-sony
 ---
-Sony logo (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony_logo.svg)). Credit: [Yasuo Kuroki](https://npo-plat.org/kuroki-yasuo-en.html)
+Sony logo (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony_logo.svg)). Credit: [Yasuo Kuroki](https://npo-plat.org/kuroki-yasuo-en.html)
 ```
 
 (consoles-sony-playstation)=
@@ -31,7 +31,7 @@ and in Europe on September 29, 1995.
 ---
 name: fig-consoles-sony-playstation
 ---
-Sony PlayStation (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-5501-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-5501-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-ps-one)=
@@ -44,7 +44,7 @@ was released on July 7, 2000.
 ---
 name: fig-consoles-sony-playstation-ps-one
 ---
-Sony PlayStation PS One (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PSone-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation PS One (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PSone-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-2)=
@@ -59,7 +59,7 @@ and in Australia on November 30, 2000.
 ---
 name: fig-consoles-sony-playstation-2
 ---
-Sony PlayStation 2 (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-2-slimline)=
@@ -72,7 +72,7 @@ was released on October 29, 2004.
 ---
 name: fig-consoles-sony-playstation-2-slimline
 ---
-Sony PlayStation 2 Slimline (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 Slimline (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-3)=
@@ -86,7 +86,7 @@ and in Europe and Australasia on March 23, 2007.
 ---
 name: fig-consoles-sony-playstation-3
 ---
-Sony PlayStation 3 (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 3 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-3-slim)=
@@ -99,7 +99,7 @@ was released on September 1, 2009.
 ---
 name: fig-consoles-sony-playstation-3-slim
 ---
-Sony PlayStation 3 Slim (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-Slim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 3 Slim (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-Slim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-3-super-slim)=
@@ -112,5 +112,5 @@ was released on September 25, 2012.
 ---
 name: fig-consoles-sony-playstation-3-super-slim
 ---
-Sony PlayStation 3 Super Slim (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-SuperSlim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 3 Super Slim (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-SuperSlim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```

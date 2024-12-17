@@ -29,6 +29,3 @@ print("Built: %s" % datetime.now(timezone("America/Los_Angeles")).strftime("%B %
 
 The most recent version of this resource can be found as a [website](https://niema.net/History-of-Video-Games)
 or [PDF](https://github.com/niemasd/History-of-Video-Games/releases/latest/download/History-of-Video-Games.pdf).
-
-```{tableofcontents}
-```

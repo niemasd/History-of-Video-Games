@@ -7,7 +7,7 @@ Source Code: [`history_video_games/timeline.md`](https://github.com/niemasd/Hist
 
 (timeline-1946-05-07)=
 ## May 7, 1946
-* Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony), is established
+* Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony), is established by [Masaru Ibuka](people-masaru-ibuka) and [Akio Morita](people-akio-morita)
 
 (timeline-1958-01)=
 ## January 1958 (day unknown)

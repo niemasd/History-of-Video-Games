@@ -13,7 +13,7 @@ Source Code: [`history_video_games/people.md`](https://github.com/niemasd/Histor
 ---
 name: fig-people-masaru-ibuka
 ---
-Masaru Ibuka (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
+Masaru Ibuka in front of Shirokiya Department Store (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
 ```
 
 (people-akio-morita)=

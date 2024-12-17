@@ -41,13 +41,37 @@ The evolution of the SONY logo from 1955 to 1973 (from [Sony](https://www.sony.c
 ## December 3, 1994
 The [Sony PlayStation](consoles-sony-playstation) is released in Japan.
 
+```{figure} ../images/consoles/sony-playstation-with-controller-memcard.jpg
+---
+name: fig-timeline-sony-playstation-with-controller-memcard-japan
+height: 200px
+---
+Sony PlayStation with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1995-09-09)=
 ## September 9, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in North America.
 
+```{figure} ../images/consoles/sony-playstation-with-controller-memcard.jpg
+---
+name: fig-timeline-sony-playstation-with-controller-memcard-north-america
+height: 200px
+---
+Sony PlayStation with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1995-09-29)=
 ## September 29, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in Europe.
+
+```{figure} ../images/consoles/sony-playstation-with-controller-memcard.jpg
+---
+name: fig-timeline-sony-playstation-with-controller-memcard-europe
+height: 200px
+---
+Sony PlayStation with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-2000-03-04)=
 ## March 4, 2000
@@ -56,6 +80,14 @@ The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Japan.
 (timeline-2000-07-07)=
 ## July 7, 2000
 The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [Sony PlayStation](consoles-sony-playstation), is released.
+
+```{figure} ../images/consoles/sony-playstation-ps-one-with-controller-memcard.jpg
+---
+name: fig-consoles-sony-playstation-ps-one-with-controller-memcard
+height: 200px
+---
+Sony PlayStation PS One with controller and memory card (from [Wikipedia](https://en.wikipedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-2000-10-26)=
 ## October 26, 2000

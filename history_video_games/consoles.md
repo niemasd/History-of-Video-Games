@@ -31,7 +31,7 @@ and in Europe on September 29, 1995.
 ---
 name: fig-consoles-sony-playstation
 ---
-Sony PlayStation SCPH-1000 (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-5501-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-ps-one)=
@@ -44,7 +44,7 @@ was released on July 7, 2000.
 ---
 name: fig-consoles-sony-playstation-ps-one
 ---
-Sony PlayStation PS One (from [Wikipedia](https://en.wikipedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation PS One (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PSone-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-2)=
@@ -59,7 +59,7 @@ and in Australia on November 30, 2000.
 ---
 name: fig-consoles-sony-playstation-2
 ---
-Sony PlayStation 2 SCPH-30001 (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-2-slimline)=
@@ -72,7 +72,7 @@ was released on October 29, 2004.
 ---
 name: fig-consoles-sony-playstation-2-slimline
 ---
-Sony PlayStation 2 Slimline SCPH-70001 (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 Slimline (from [Wikipedia](https://en.wikipedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-3)=
@@ -86,7 +86,7 @@ and in Europe and Australasia on March 23, 2007.
 ---
 name: fig-consoles-sony-playstation-3
 ---
-Sony PlayStation 3 CECHA01 (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 3 (from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-3-slim)=

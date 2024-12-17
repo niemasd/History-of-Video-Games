@@ -240,3 +240,15 @@ height: 200px
 ---
 Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2016-11-10)=
+## November 10, 2016
+The [Sony PlayStation 4 Pro](consoles-sony-playstation-4-pro), an enhanced model of the [Sony PlayStation 4](consoles-sony-playstation-4), is released.
+
+```{figure} ../images/consoles/sony-playstation-4-pro.jpg
+---
+name: fig-timeline-sony-playstation-4-pro
+height: 200px
+---
+Sony PlayStation 4 Pro (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```

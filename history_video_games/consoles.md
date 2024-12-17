@@ -128,3 +128,16 @@ name: fig-consoles-sony-playstation-4
 ---
 Sony PlayStation 4 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-PS4-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(consoles-sony-playstation-4-pro)=
+#### Pro
+An enhanced model of the [Sony PlayStation 4](consoles-sony-playstation-4),
+named the [Pro](consoles-sony-playstation-4-pro),
+was released on [November 10, 2016](timeline-2016-11-10).
+
+```{figure} ../images/consoles/sony-playstation-4-pro.jpg
+---
+name: fig-consoles-sony-playstation-4-pro
+---
+Sony PlayStation 4 Pro (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```

@@ -204,3 +204,39 @@ height: 200px
 ---
 Sony PlayStation 3 Super Slim with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-4001B-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2013-11-15)=
+## November 15, 2013
+The [Sony PlayStation 4](consoles-sony-playstation-4) is released in North America.
+
+```{figure} ../images/consoles/sony-playstation-4-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-4-with-controller-north-america
+height: 200px
+---
+Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2013-11-29)=
+## November 29, 2013
+The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Europe, South America, and Australia.
+
+```{figure} ../images/consoles/sony-playstation-4-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-4-with-controller-europe-south-america-australia
+height: 200px
+---
+Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2014-02-22)=
+## February 22, 2014
+The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Japan.
+
+```{figure} ../images/consoles/sony-playstation-4-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-4-with-controller-japan
+height: 200px
+---
+Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```

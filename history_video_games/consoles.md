@@ -23,7 +23,6 @@ and in Europe on September 29, 1995.
 
 ```{figure} ../images/consoles-sony-playstation.jpg
 ---
-height: 300px
 name: fig-consoles-sony-playstation
 ---
 Sony PlayStation SCPH-1000 (from [Wikipedia](https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
@@ -38,7 +37,6 @@ was released on July 7, 2000.
 
 ```{figure} ../images/consoles-sony-playstation-ps-one.jpg
 ---
-height: 300px
 name: fig-consoles-sony-playstation-ps-one
 ---
 Sony PlayStation PS One (from [Wikipedia](https://en.wikipedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)

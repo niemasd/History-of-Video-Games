@@ -108,6 +108,24 @@ name: fig-consoles-sony-playstation-portable-2000
 Sony PlayStation Portable PSP-2000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-2000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-sony-playstation-portable-3000)=
+#### PSP-3000
+A slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable)
+with an improved LCD screen compared to the [PSP-2000](consoles-sony-playstation-portable-2000),
+named the [PSP-3000](consoles-sony-playstation-portable-3000)
+and marketed as the "PSP Slim & Lite" or "PSP Brite" in PAL regions,
+was released in North America on [October 14, 2008](timeline-2008-10-14),
+in Japan on [October 16, 2008](timeline-2008-10-16),
+in Europe on [October 17, 2008](timeline-2008-10-17),
+and in Australia on [October 23, 2008](timeline-2008-10-23).
+
+```{figure} ../images/consoles/sony-playstation-portable-3000.jpg
+---
+name: fig-consoles-sony-playstation-portable-3000
+---
+Sony PlayStation Portable PSP-3000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-3000-Silver.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony-playstation-3)=
 ### PlayStation 3
 The [Sony PlayStation 3](consoles-sony-playstation-3) is a video game console developed by [Sony](consoles-sony).

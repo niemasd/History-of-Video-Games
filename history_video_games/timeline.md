@@ -173,6 +173,30 @@ The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000
 ## September 14, 2007
 The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in the United Kingdom.
 
+(timeline-2008-10-14)=
+## October 14, 2008
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in North America.
+
+```{figure} ../images/consoles/sony-playstation-portable-3000.jpg
+---
+name: fig-timeline-sony-playstation-portable-3000
+height: 200px
+---
+Sony PlayStation Portable PSP-3000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-3000-Silver.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2008-10-16)=
+## October 16, 2008
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in Japan.
+
+(timeline-2008-10-17)=
+## October 17, 2008
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in Europe.
+
+(timeline-2008-10-23)=
+## October 23, 2008
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in Australia.
+
 (timeline-2009-09-01)=
 ## September 1, 2009
 The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.

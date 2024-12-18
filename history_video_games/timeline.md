@@ -147,7 +147,7 @@ The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Europe and 
 
 (timeline-2007-08-30)=
 ## August 30, 2007
-The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in Hong Kong.
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Hong Kong.
 
 ```{figure} ../images/consoles/sony-playstation-portable-2000.jpg
 ---
@@ -159,23 +159,23 @@ Sony PlayStation Portable PSP-2000 (from [Wikimedia Commons](https://commons.wik
 
 (timeline-2007-09-05)=
 ## September 5, 2007
-The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in Europe.
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Europe.
 
 (timeline-2007-09-06)=
 ## September 6, 2007
-The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in North America.
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in North America.
 
 (timeline-2007-09-12)=
 ## September 12, 2007
-The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in Australia.
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Australia.
 
 (timeline-2007-09-14)=
 ## September 14, 2007
-The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in the United Kingdom.
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in the United Kingdom.
 
 (timeline-2008-10-14)=
 ## October 14, 2008
-The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in North America.
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable) with an improved LCD screen compared to the [PSP-2000](consoles-sony-playstation-portable-2000), is released in North America.
 
 ```{figure} ../images/consoles/sony-playstation-portable-3000.jpg
 ---
@@ -187,15 +187,15 @@ Sony PlayStation Portable PSP-3000 (from [Wikimedia Commons](https://commons.wik
 
 (timeline-2008-10-16)=
 ## October 16, 2008
-The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in Japan.
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable) with an improved LCD screen compared to the [PSP-2000](consoles-sony-playstation-portable-2000), is released in Japan.
 
 (timeline-2008-10-17)=
 ## October 17, 2008
-The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in Europe.
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable) with an improved LCD screen compared to the [PSP-2000](consoles-sony-playstation-portable-2000), is released in Europe.
 
 (timeline-2008-10-23)=
 ## October 23, 2008
-The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) is released in Australia.
+The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable) with an improved LCD screen compared to the [PSP-2000](consoles-sony-playstation-portable-2000), is released in Australia.
 
 (timeline-2009-09-01)=
 ## September 1, 2009
@@ -211,7 +211,7 @@ Sony PlayStation 3 Slim with controller (from [Wikimedia Commons](https://common
 
 (timeline-2009-10-01)=
 ## October 1, 2009
-The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) is released in North America and Europe.
+The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go), a smaller and lighter redesign of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in North America and Europe.
 
 ```{figure} ../images/consoles/sony-playstation-portable-go-opened.jpg
 ---
@@ -223,11 +223,11 @@ Sony PlayStation Portable PSP Go (from [Wikimedia Commons](https://commons.wikim
 
 (timeline-2009-10-31)=
 ## October 31, 2009
-The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) is released in Japan.
+The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go), a smaller and lighter redesign of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Japan.
 
 (timeline-2011-10-26)=
 ## October 26, 2011
-The [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-street) is released.
+The [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-street), a budget-focused model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released.
 
 ```{figure} ../images/consoles/sony-playstation-portable-street.jpg
 ---

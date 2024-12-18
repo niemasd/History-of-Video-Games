@@ -225,6 +225,18 @@ Sony PlayStation Portable PSP Go (from [Wikimedia Commons](https://commons.wikim
 ## October 31, 2009
 The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) is released in Japan.
 
+(timeline-2011-10-26)=
+## October 26, 2011
+The [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-street) is released.
+
+```{figure} ../images/consoles/sony-playstation-portable-street.jpg
+---
+name: fig-timeline-sony-playstation-portable-street
+height: 200px
+---
+Illustration of Sony PlayStation Portable PSP Street (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg)). Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
+```
+
 (timeline-2012-09-25)=
 ## September 25, 2012
 The [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim), an even smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.

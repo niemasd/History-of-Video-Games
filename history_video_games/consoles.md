@@ -147,6 +147,19 @@ name: fig-consoles-sony-playstation-portable-go-opened
 Opened Sony PlayStation Portable PSP Go (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL-Open.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-sony-playstation-portable-street)=
+#### PSP Street
+A budget-focused model of the [Sony PlayStation Portable](consoles-sony-playstation-portable),
+named the [PSP Street](consoles-sony-playstation-portable-street),
+was released on [October 26, 2011](timeline-2011-10-26).
+
+```{figure} ../images/consoles/sony-playstation-portable-street.jpg
+---
+name: fig-consoles-sony-playstation-portable-street
+---
+Illustration of Sony PlayStation Portable PSP Street (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg)). Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
+```
+
 (consoles-sony-playstation-3)=
 ### PlayStation 3
 The [Sony PlayStation 3](consoles-sony-playstation-3) is a video game console developed by [Sony](consoles-sony).

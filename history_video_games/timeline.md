@@ -43,7 +43,7 @@ The [Sony PlayStation](consoles-sony-playstation) is released in Japan.
 
 ```{figure} ../images/consoles/sony-playstation-with-controller-memcard.jpg
 ---
-name: fig-timeline-sony-playstation-with-controller-memcard-japan
+name: fig-timeline-sony-playstation-with-controller-memcard
 height: 200px
 ---
 Sony PlayStation with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
@@ -53,25 +53,9 @@ Sony PlayStation with controller and memory card (from [Wikimedia Commons](https
 ## September 9, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in North America.
 
-```{figure} ../images/consoles/sony-playstation-with-controller-memcard.jpg
----
-name: fig-timeline-sony-playstation-with-controller-memcard-north-america
-height: 200px
----
-Sony PlayStation with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
-
 (timeline-1995-09-29)=
 ## September 29, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in Europe.
-
-```{figure} ../images/consoles/sony-playstation-with-controller-memcard.jpg
----
-name: fig-timeline-sony-playstation-with-controller-memcard-europe
-height: 200px
----
-Sony PlayStation with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
 
 (timeline-2000-03-04)=
 ## March 4, 2000
@@ -79,7 +63,7 @@ The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Japan.
 
 ```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
 ---
-name: fig-timeline-sony-playstation-2-with-controller-memcard-japan
+name: fig-timeline-sony-playstation-2-with-controller-memcard
 height: 200px
 ---
 Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
@@ -101,37 +85,13 @@ Sony PlayStation PS One with controller and memory card (from [Wikimedia Commons
 ## October 26, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in North America.
 
-```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
----
-name: fig-timeline-sony-playstation-2-with-controller-memcard-north-america
-height: 200px
----
-Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
-
 (timeline-2000-11-24)=
 ## November 24, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Europe.
 
-```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
----
-name: fig-timeline-sony-playstation-2-with-controller-memcard-europe
-height: 200px
----
-Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
-
 (timeline-2000-11-30)=
 ## November 30, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Australia.
-
-```{figure} ../images/consoles/sony-playstation-2-with-controller-memcard.jpg
----
-name: fig-timeline-sony-playstation-2-with-controller-memcard-australia
-height: 200px
----
-Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
 
 (timeline-2004-10-29)=
 ## October 29, 2004
@@ -151,7 +111,7 @@ The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Japan.
 
 ```{figure} ../images/consoles/sony-playstation-3-with-controller.jpg
 ---
-name: fig-timeline-sony-playstation-3-with-controller-japan
+name: fig-timeline-sony-playstation-3-with-controller
 height: 200px
 ---
 Sony PlayStation 3 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
@@ -161,25 +121,9 @@ Sony PlayStation 3 with controller (from [Wikimedia Commons](https://commons.wik
 ## November 17, 2006
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in North America.
 
-```{figure} ../images/consoles/sony-playstation-3-with-controller.jpg
----
-name: fig-timeline-sony-playstation-3-with-controller-north-america
-height: 200px
----
-Sony PlayStation 3 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
-
 (timeline-2007-03-23)=
 ## March 23, 2007
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Europe and Australasia.
-
-```{figure} ../images/consoles/sony-playstation-3-with-controller.jpg
----
-name: fig-timeline-sony-playstation-3-with-controller-europe-australasia
-height: 200px
----
-Sony PlayStation 3 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
 
 (timeline-2009-09-01)=
 ## September 1, 2009
@@ -211,7 +155,7 @@ The [Sony PlayStation 4](consoles-sony-playstation-4) is released in North Ameri
 
 ```{figure} ../images/consoles/sony-playstation-4-with-controller.jpg
 ---
-name: fig-timeline-sony-playstation-4-with-controller-north-america
+name: fig-timeline-sony-playstation-4-with-controller
 height: 200px
 ---
 Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
@@ -221,25 +165,9 @@ Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wik
 ## November 29, 2013
 The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Europe, South America, and Australia.
 
-```{figure} ../images/consoles/sony-playstation-4-with-controller.jpg
----
-name: fig-timeline-sony-playstation-4-with-controller-europe-south-america-australia
-height: 200px
----
-Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
-
 (timeline-2014-02-22)=
 ## February 22, 2014
 The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Japan.
-
-```{figure} ../images/consoles/sony-playstation-4-with-controller.jpg
----
-name: fig-timeline-sony-playstation-4-with-controller-japan
-height: 200px
----
-Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
 
 (timeline-2016-11-10)=
 ## November 10, 2016

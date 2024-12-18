@@ -126,6 +126,27 @@ name: fig-consoles-sony-playstation-portable-3000
 Sony PlayStation Portable PSP-3000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-3000-Silver.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-sony-playstation-portable-go)=
+#### PSP Go
+A smaller and lighter redesign of the [Sony PlayStation Portable](consoles-sony-playstation-portable),
+named the [PSP Go](consoles-sony-playstation-portable-go),
+was released in North America and Europe on [October 1, 2009](timeline-2009-10-01),
+and in Japan on [October 31, 2009](timeline-2009-10-31).
+
+```{figure} ../images/consoles/sony-playstation-portable-go-closed.jpg
+---
+name: fig-consoles-sony-playstation-portable-go-closed
+---
+Closed Sony PlayStation Portable PSP Go (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+```{figure} ../images/consoles/sony-playstation-portable-go-opened.jpg
+---
+name: fig-consoles-sony-playstation-portable-go-opened
+---
+Opened Sony PlayStation Portable PSP Go (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL-Open.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony-playstation-3)=
 ### PlayStation 3
 The [Sony PlayStation 3](consoles-sony-playstation-3) is a video game console developed by [Sony](consoles-sony).

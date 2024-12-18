@@ -209,6 +209,22 @@ height: 200px
 Sony PlayStation 3 Slim with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-2001A-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2009-10-01)=
+## October 1, 2009
+The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) is released in North America and Europe.
+
+```{figure} ../images/consoles/sony-playstation-portable-go-opened.jpg
+---
+name: fig-timeline-sony-playstation-portable-go
+height: 200px
+---
+Sony PlayStation Portable PSP Go (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL-Open.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2009-10-31)=
+## October 31, 2009
+The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) is released in Japan.
+
 (timeline-2012-09-25)=
 ## September 25, 2012
 The [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim), an even smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.

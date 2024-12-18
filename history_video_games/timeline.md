@@ -105,6 +105,26 @@ height: 200px
 Sony PlayStation 2 Slimline (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2004-12-12)=
+## December 12, 2004
+The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released in Japan.
+
+```{figure} ../images/consoles/sony-playstation-portable.jpg
+---
+name: fig-timeline-sony-playstation-portable
+height: 200px
+---
+Sony PlayStation Portable (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Psp-1000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2005-03-24)=
+## March 24, 2005
+The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released in North America.
+
+(timeline-2005-09-01)=
+## September 1, 2005
+The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released in PAL regions.
+
 (timeline-2006-11-11)=
 ## November 11, 2006
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Japan.
@@ -124,6 +144,34 @@ The [Sony PlayStation 3](consoles-sony-playstation-3) is released in North Ameri
 (timeline-2007-03-23)=
 ## March 23, 2007
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Europe and Australasia.
+
+(timeline-2007-08-30)=
+## August 30, 2007
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in Hong Kong.
+
+```{figure} ../images/consoles/sony-playstation-portable-2000.jpg
+---
+name: fig-timeline-sony-playstation-portable-2000
+height: 200px
+---
+Sony PlayStation Portable PSP-2000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-2000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2007-09-05)=
+## September 5, 2007
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in Europe.
+
+(timeline-2007-09-06)=
+## September 6, 2007
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in North America.
+
+(timeline-2007-09-12)=
+## September 12, 2007
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in Australia.
+
+(timeline-2007-09-14)=
+## September 14, 2007
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) is released in the United Kingdom.
 
 (timeline-2009-09-01)=
 ## September 1, 2009

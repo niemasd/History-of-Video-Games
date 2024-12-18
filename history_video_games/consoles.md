@@ -75,6 +75,39 @@ name: fig-consoles-sony-playstation-2-slimline
 Sony PlayStation 2 Slimline (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-sony-playstation-portable)=
+### PlayStation Portable
+The [Sony PlayStation Portable](consoles-sony-playstation-portable) is a video game console developed by [Sony](consoles-sony).
+The first revision was named the PSP-1000.
+It was released in Japan on [December 12, 2004](timeline-2004-12-12),
+in North America on [March 24, 2005](timeline-2005-03-24),
+and in PAL regions on [September 1, 2005](timeline-2005-09-01).
+
+```{figure} ../images/consoles/sony-playstation-portable.jpg
+---
+name: fig-consoles-sony-playstation-portable
+---
+Sony PlayStation Portable (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Psp-1000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-portable-2000)=
+#### PSP-2000
+A slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable),
+named the [PSP-2000](consoles-sony-playstation-portable-2000)
+and marketed as the "PSP Slim" in PAL regions,
+was released in Hong Kong on [August 30, 2007](timeline-2007-08-30),
+in Europe on [September 5, 2007](timeline-2007-09-05),
+in North America on [September 6, 2007](timeline-2007-09-06),
+in Australia on [September 12, 2007](timeline-2007-09-12),
+and in the United Kingdom on [September 14, 2007](timeline-2007-09-14).
+
+```{figure} ../images/consoles/sony-playstation-portable-2000.jpg
+---
+name: fig-consoles-sony-playstation-portable-2000
+---
+Sony PlayStation Portable PSP-2000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-2000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony-playstation-3)=
 ### PlayStation 3
 The [Sony PlayStation 3](consoles-sony-playstation-3) is a video game console developed by [Sony](consoles-sony).

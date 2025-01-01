@@ -212,7 +212,7 @@ Sony PlayStation 3 Super Slim (from [Wikimedia Commons](https://commons.wikimedi
 The [Sony PlayStation Vita](consoles-sony-playstation-vita) is a video game console developed by [Sony](consoles-sony).
 The first revision was named the PCH-1000.
 It was released in Japan on [December 17, 2011](timeline-2011-12-17),
-and internationally on [February 22, 2012](timeline-2012-02-22).
+and worldwide on [February 22, 2012](timeline-2012-02-22).
 
 ```{figure} ../images/consoles/sony-playstation-vita.jpg
 ---
@@ -291,4 +291,30 @@ was released on [November 10, 2016](timeline-2016-11-10).
 name: fig-consoles-sony-playstation-4-pro
 ---
 Sony PlayStation 4 Pro (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-5)=
+### PlayStation 5
+The [Sony PlayStation 5](consoles-sony-playstation-5) is a video game console developed by [Sony](consoles-sony).
+It was released in Australia, Japan, Korea, New Zealand, and North America on [November 12, 2020](timeline-2020-11-12),
+and worldwide on [November 19, 2020](timeline-2020-11-19).
+
+```{figure} ../images/consoles/sony-playstation-5-with-controller.jpg
+---
+name: fig-consoles-sony-playstation-5-with-controller
+---
+Sony PlayStation 5 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_and_white_Playstation_5_base_edition_with_controller.png)). Credit: [Howardcorn33](https://commons.wikimedia.org/wiki/User:Howardcorn33)
+```
+
+(consoles-sony-playstation-5-digital-edition)=
+#### Digital Edition
+A lower-cost digital-only variant of the [Sony PlayStation 5](consoles-sony-playstation-5) that lacked the optical disc drive,
+named the [Digital Edition](consoles-sony-playstation-5-digital-edition),
+was released simultaneously with the base model.
+
+```{figure} ../images/consoles/sony-playstation-5-digital-edition-with-controller.jpg
+---
+name: fig-consoles-sony-playstation-5-digital-edition-with-controller
+---
+Sony PlayStation 5 Digital Edition with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PS5DigitalEdition.png)). Credit: [Wfrmsf](https://commons.wikimedia.org/wiki/User:Wfrmsf)
 ```

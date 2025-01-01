@@ -279,7 +279,7 @@ Sony PlayStation Vita (from [Wikimedia Commons](https://commons.wikimedia.org/wi
 
 (timeline-2012-02-22)=
 ## February 22, 2012
-The [Sony PlayStation Vita](consoles-sony-playstation-vita) is released internationally.
+The [Sony PlayStation Vita](consoles-sony-playstation-vita) is released worldwide.
 
 (timeline-2012-09-25)=
 ## September 25, 2012
@@ -380,3 +380,27 @@ height: 200px
 ---
 Sony PlayStation 4 Pro (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2020-11-12)=
+## November 12, 2020
+The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) are released simultaneously in Australia, Japan, Korea, New Zealand, and North America.
+
+```{figure} ../images/consoles/sony-playstation-5-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-5-with-controller
+height: 200px
+---
+Sony PlayStation 5 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_and_white_Playstation_5_base_edition_with_controller.png)). Credit: [Howardcorn33](https://commons.wikimedia.org/wiki/User:Howardcorn33)
+```
+
+```{figure} ../images/consoles/sony-playstation-5-digital-edition-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-5-digital-edition-with-controller
+height: 200px
+---
+Sony PlayStation 5 Digital Edition with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PS5DigitalEdition.png)). Credit: [Wfrmsf](https://commons.wikimedia.org/wiki/User:Wfrmsf)
+```
+
+(timeline-2020-11-19)=
+## November 19, 2020
+The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) are released simultaneously worldwide.

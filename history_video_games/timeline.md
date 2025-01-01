@@ -390,7 +390,7 @@ The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Di
 name: fig-timeline-sony-playstation-5-with-controller
 height: 200px
 ---
-Sony PlayStation 5 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_and_white_Playstation_5_base_edition_with_controller.png)). Credit: [Howardcorn33](https://commons.wikimedia.org/wiki/User:Howardcorn33)
+Sony PlayStation 5 with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-front-with-dualsense.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 ```{figure} ../images/consoles/sony-playstation-5-digital-edition-with-controller.jpg
@@ -398,7 +398,7 @@ Sony PlayStation 5 with controller (from [Wikimedia Commons](https://commons.wik
 name: fig-timeline-sony-playstation-5-digital-edition-with-controller
 height: 200px
 ---
-Sony PlayStation 5 Digital Edition with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PS5DigitalEdition.png)). Credit: [Wfrmsf](https://commons.wikimedia.org/wiki/User:Wfrmsf)
+Sony PlayStation 5 Digital Edition with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-digital-edition-front-with-dualsense.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 (timeline-2020-11-19)=
@@ -408,3 +408,31 @@ The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Di
 (timeline-2023-11-10)=
 ## November 10, 2023
 The [Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) and [Sony PlayStation 5 Slim Digital Edition](consoles-sony-playstation-5-slim-digital-edition) are released simultaneously.
+
+```{figure} ../images/consoles/sony-playstation-5-slim-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-5-slim-with-controller
+height: 200px
+---
+Sony PlayStation 5 Slim with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Hero-3.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+```
+
+```{figure} ../images/consoles/sony-playstation-5-slim-digital-edition-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-5-slim-digital-edition-with-controller
+height: 200px
+---
+Sony PlayStation 5 Slim Digital Edition with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Digital-Hero3.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+```
+
+(timeline-2024-11-07)=
+## November 7, 2024
+The [Sony PlayStation 5 Pro](consoles-sony-playstation-5-pro), an enhanced model of the [Sony PlayStation 5](consoles-sony-playstation-5), is released worldwide.
+
+```{figure} ../images/consoles/sony-playstation-5-pro-with-controller.jpg
+---
+name: fig-timeline-sony-playstation-5-pro-with-controller
+height: 200px
+---
+Sony PlayStation 5 Pro with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/PlayStation_5_Pro?file=Ps5pro.webp)). Credit: [Bruhhed guy](https://playstation.fandom.com/wiki/User:Bruhhed_guy)
+```

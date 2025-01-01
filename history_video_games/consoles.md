@@ -299,11 +299,11 @@ The [Sony PlayStation 5](consoles-sony-playstation-5) is a video game console de
 It was released in Australia, Japan, Korea, New Zealand, and North America on [November 12, 2020](timeline-2020-11-12),
 and worldwide on [November 19, 2020](timeline-2020-11-19).
 
-```{figure} ../images/consoles/sony-playstation-5-with-controller.jpg
+```{figure} ../images/consoles/sony-playstation-5.jpg
 ---
-name: fig-consoles-sony-playstation-5-with-controller
+name: fig-consoles-sony-playstation-5
 ---
-Sony PlayStation 5 with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_and_white_Playstation_5_base_edition_with_controller.png)). Credit: [Howardcorn33](https://commons.wikimedia.org/wiki/User:Howardcorn33)
+Sony PlayStation 5 (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-laying-down-flat.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 (consoles-sony-playstation-5-digital-edition)=
@@ -312,11 +312,11 @@ A lower-cost digital-only variant of the [Sony PlayStation 5](consoles-sony-play
 named the [Digital Edition](consoles-sony-playstation-5-digital-edition),
 was released simultaneously with the base model.
 
-```{figure} ../images/consoles/sony-playstation-5-digital-edition-with-controller.jpg
+```{figure} ../images/consoles/sony-playstation-5-digital-edition.jpg
 ---
-name: fig-consoles-sony-playstation-5-digital-edition-with-controller
+name: fig-consoles-sony-playstation-5-digital-edition
 ---
-Sony PlayStation 5 Digital Edition with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PS5DigitalEdition.png)). Credit: [Wfrmsf](https://commons.wikimedia.org/wiki/User:Wfrmsf)
+Sony PlayStation 5 Digital Edition (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-digital-edition-laying-down-flat.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 (consoles-sony-playstation-5-slim)=
@@ -325,8 +325,35 @@ A smaller redesign of the [Sony PlayStation 5](consoles-sony-playstation-5),
 colloquially referred to as the [Slim](consoles-sony-playstation-5-slim),
 was released on [November 10, 2023](timeline-2023-11-10).
 
+```{figure} ../images/consoles/sony-playstation-5-slim.jpg
+---
+name: fig-consoles-sony-playstation-5-slim
+---
+Sony PlayStation 5 Slim (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Hero-1.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+```
+
 (consoles-sony-playstation-5-slim-digital-edition)=
 #### Slim Digital Edition
 A lower-cost digital-only variant of the [Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) that lacked the optical disc drive,
 named the [Digital Edition](consoles-sony-playstation-5-slim-digital-edition),
 was released simultaneously with the base model.
+
+```{figure} ../images/consoles/sony-playstation-5-slim-digital-edition.jpg
+---
+name: fig-consoles-sony-playstation-5-slim-digital-edition
+---
+Sony PlayStation 5 Slim Digital Edition (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Digital-Hero1.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+```
+
+(consoles-sony-playstation-5-pro)=
+#### Pro
+An enhanced model of the [Sony PlayStation 5](consoles-sony-playstation-5),
+named the [Pro](consoles-sony-playstation-5-pro),
+was released worldwide on [November 7, 2024](timeline-2024-11-07).
+
+```{figure} ../images/consoles/sony-playstation-5-pro.jpg
+---
+name: fig-consoles-sony-playstation-5-pro
+---
+Sony PlayStation 5 Pro (from [PlayStation Wiki](https://playstation.fandom.com/wiki/PlayStation_5_Pro?file=Ps5proitself.webp)). Credit: [Bruhhed guy](https://playstation.fandom.com/wiki/User:Bruhhed_guy)
+```

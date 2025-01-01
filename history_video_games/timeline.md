@@ -71,7 +71,7 @@ Sony PlayStation 2 with controller and memory card (from [Wikimedia Commons](htt
 
 (timeline-2000-07-07)=
 ## July 7, 2000
-The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [Sony PlayStation](consoles-sony-playstation), is released.
+The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [Sony PlayStation](consoles-sony-playstation), is released in Japan.
 
 ```{figure} ../images/consoles/sony-playstation-ps-one-with-controller-memcard.jpg
 ---
@@ -81,6 +81,14 @@ height: 200px
 Sony PlayStation PS One with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2000-09-19)=
+## September 19, 2000
+The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [Sony PlayStation](consoles-sony-playstation), is released in North America.
+
+
+(timeline-2000-09-29)=
+## September 29, 2000
+The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [Sony PlayStation](consoles-sony-playstation), is released in Europe.
 (timeline-2000-10-26)=
 ## October 26, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in North America.
@@ -95,15 +103,23 @@ The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Australia.
 
 (timeline-2004-10-29)=
 ## October 29, 2004
-The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released.
+The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released in Europe.
 
-```{figure} ../images/consoles/sony-playstation-2-slimline.jpg
+```{figure} ../images/consoles/sony-playstation-2-slimline-with-controller-memcard.jpg
 ---
-name: fig-timeline-sony-playstation-2-slimline
+name: fig-timeline-sony-playstation-2-slimline-with-controller-memcard
 height: 200px
 ---
-Sony PlayStation 2 Slimline (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Sony PlayStation 2 Slimline with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2004-11-03)=
+## November 3, 2004
+The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released in Japan.
+
+(timeline-2004-11-25)=
+## November 25, 2004
+The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released in North America.
 
 (timeline-2004-12-12)=
 ## December 12, 2004
@@ -165,6 +181,10 @@ The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000
 ## September 6, 2007
 The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in North America.
 
+(timeline-2007-09-07)=
+## September 7, 2007
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in South Korea.
+
 (timeline-2007-09-12)=
 ## September 12, 2007
 The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Australia.
@@ -172,6 +192,10 @@ The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000
 (timeline-2007-09-14)=
 ## September 14, 2007
 The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in the United Kingdom.
+
+(timeline-2007-09-20)=
+## September 20, 2007
+The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Japan.
 
 (timeline-2008-10-14)=
 ## October 14, 2008
@@ -199,7 +223,7 @@ The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000
 
 (timeline-2009-09-01)=
 ## September 1, 2009
-The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.
+The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released in North America and Europe.
 
 ```{figure} ../images/consoles/sony-playstation-3-slim-with-controller.jpg
 ---
@@ -208,6 +232,10 @@ height: 200px
 ---
 Sony PlayStation 3 Slim with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-2001A-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2009-09-03)=
+## September 3, 2009
+The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released in Japan, Australia, and New Zealand.
 
 (timeline-2009-10-01)=
 ## October 1, 2009
@@ -237,6 +265,22 @@ height: 200px
 Illustration of Sony PlayStation Portable PSP Street (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg)). Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
 ```
 
+(timeline-2011-12-17)=
+## December 17, 2011
+The [Sony PlayStation Vita](consoles-sony-playstation-vita) is released in Japan.
+
+```{figure} ../images/consoles/sony-playstation-vita.jpg
+---
+name: fig-timeline-sony-playstation-vita
+height: 200px
+---
+Sony PlayStation Vita (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-1101-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2012-02-22)=
+## February 22, 2012
+The [Sony PlayStation Vita](consoles-sony-playstation-vita) is released internationally.
+
 (timeline-2012-09-25)=
 ## September 25, 2012
 The [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim), an even smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.
@@ -247,6 +291,30 @@ name: fig-timeline-sony-playstation-3-super-slim-with-controller
 height: 200px
 ---
 Sony PlayStation 3 Super Slim with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-4001B-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2013-10-10)=
+## October 10, 2013
+The [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000), a slimmer and enhanced model of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Japan.
+
+```{figure} ../images/consoles/sony-playstation-vita-2000.jpg
+---
+name: fig-timeline-sony-playstation-vita-2000
+height: 200px
+---
+Sony PlayStation Vita PCH-2000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-2001-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2013-11-14)=
+## November 14, 2013
+The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Japan.
+
+```{figure} ../images/consoles/sony-playstation-vita-tv.jpg
+---
+name: fig-timeline-sony-playstation-vita-tv
+height: 200px
+---
+Sony PlayStation TV (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-TV-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2013-11-15)=
@@ -265,9 +333,41 @@ Sony PlayStation 4 with controller (from [Wikimedia Commons](https://commons.wik
 ## November 29, 2013
 The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Europe, South America, and Australia.
 
+(timeline-2014-01-16)=
+## January 16, 2014
+The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Asia.
+
+(timeline-2014-02-07)=
+## February 7, 2014
+The [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000), a slimmer and enhanced model of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Europe.
+
 (timeline-2014-02-22)=
 ## February 22, 2014
 The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Japan.
+
+(timeline-2014-05-06)=
+## May 6, 2014
+The [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000), a slimmer and enhanced model of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in North America.
+
+(timeline-2014-10-14)=
+## October 14, 2014
+The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in North America.
+
+(timeline-2014-11-14)=
+## November 14, 2014
+The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Europe and Australia.
+
+(timeline-2016-09-15)=
+## September 15, 2016
+The [Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim), a smaller redesign of the [Sony PlayStation 4](consoles-sony-playstation-4), is released.
+
+```{figure} ../images/consoles/sony-playstation-4-slim.jpg
+---
+name: fig-timeline-sony-playstation-4-slim
+height: 200px
+---
+Sony PlayStation 4 Slim (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-BL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-2016-11-10)=
 ## November 10, 2016

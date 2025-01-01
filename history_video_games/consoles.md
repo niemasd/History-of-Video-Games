@@ -38,7 +38,9 @@ Sony PlayStation (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fi
 #### PS One
 A smaller redesign of the [Sony PlayStation](consoles-sony-playstation),
 named the [PS One](consoles-sony-playstation-ps-one),
-was released on [July 7, 2000](timeline-2000-07-07).
+was released in Japan on [July 7, 2000](timeline-2000-07-07),
+in North America on [September 19, 2000](timeline-2000-09-19),
+and in Europe on [September 29, 2000](timeline-2000-09-29).
 
 ```{figure} ../images/consoles/sony-playstation-ps-one.jpg
 ---
@@ -66,7 +68,9 @@ Sony PlayStation 2 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/
 #### Slimline
 A smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2),
 named the [Slimline](consoles-sony-playstation-2-slimline),
-was released on [October 29, 2004](timeline-2004-10-29).
+was released in Europe on [October 29, 2004](timeline-2004-10-29),
+in Japan on [November 3, 2004](timeline-2004-11-03),
+and in North America on [November 25, 2004](timeline-2004-11-25).
 
 ```{figure} ../images/consoles/sony-playstation-2-slimline.jpg
 ---
@@ -98,8 +102,10 @@ and marketed as the "PSP Slim" in PAL regions,
 was released in Hong Kong on [August 30, 2007](timeline-2007-08-30),
 in Europe on [September 5, 2007](timeline-2007-09-05),
 in North America on [September 6, 2007](timeline-2007-09-06),
+in South Korea on [September 7, 2007](timeline-2007-09-07),
 in Australia on [September 12, 2007](timeline-2007-09-12),
-and in the United Kingdom on [September 14, 2007](timeline-2007-09-14).
+in the United Kingdom on [September 14, 2007](timeline-2007-09-14),
+and in Japan on [September 20, 2007](timeline-2007-09-20).
 
 ```{figure} ../images/consoles/sony-playstation-portable-2000.jpg
 ---
@@ -178,7 +184,8 @@ Sony PlayStation 3 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/
 #### Slim
 A smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3),
 named the [Slim](consoles-sony-playstation-3-slim),
-was released on [September 1, 2009](timeline-2009-09-01).
+was released in North America and Europe on [September 1, 2009](timeline-2009-09-01),
+and in Japan, Australia, and New Zealand on [September 3, 2009](timeline-2009-09-03).
 
 ```{figure} ../images/consoles/sony-playstation-3-slim.jpg
 ---
@@ -200,6 +207,52 @@ name: fig-consoles-sony-playstation-3-super-slim
 Sony PlayStation 3 Super Slim (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-SuperSlim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-sony-playstation-vita)=
+### PlayStation Vita
+The [Sony PlayStation Vita](consoles-sony-playstation-vita) is a video game console developed by [Sony](consoles-sony).
+The first revision was named the PCH-1000.
+It was released in Japan on [December 17, 2011](timeline-2011-12-17),
+and internationally on [February 22, 2012](timeline-2012-02-22).
+
+```{figure} ../images/consoles/sony-playstation-vita.jpg
+---
+name: fig-consoles-sony-playstation-vita
+---
+Sony PlayStation Vita (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-1101-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-vita-2000)=
+#### PCH-2000
+A slimmer and enhanced model of the [Sony PlayStation Vita](consoles-sony-playstation-vita),
+named the [PCH-2000](consoles-sony-playstation-vita-2000)
+and commonly referred to as the "PS Vita Slim",
+was released in Japan on [October 10, 2013](timeline-2013-10-10),
+in Europe on [February 7, 2014](timeline-2014-02-07),
+and in North America on [May 6, 2014](timeline-2014-05-06).
+
+```{figure} ../images/consoles/sony-playstation-vita-2000.jpg
+---
+name: fig-consoles-sony-playstation-vita-2000
+---
+Sony PlayStation Vita PCH-2000 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-2001-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-vita-tv)=
+#### PlayStation TV
+A non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita),
+named the [PlayStation TV](consoles-sony-playstation-vita-tv),
+was released in Japan on [November 14, 2013](timeline-2013-11-14),
+in Asia on [January 16, 2014](timeline-2014-01-16),
+in North America on [October 14, 2014](timeline-2014-10-14),
+and in Europe and Australia on [November 14, 2014](timeline-2014-11-14).
+
+```{figure} ../images/consoles/sony-playstation-vita-tv.jpg
+---
+name: fig-consoles-sony-playstation-vita-tv
+---
+Sony PlayStation TV (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-TV-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony-playstation-4)=
 ### PlayStation 4
 The [Sony PlayStation 4](consoles-sony-playstation-4) is a video game console developed by [Sony](consoles-sony).
@@ -212,6 +265,19 @@ and in Japan on [February 22, 2014](timeline-2014-02-22).
 name: fig-consoles-sony-playstation-4
 ---
 Sony PlayStation 4 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-PS4-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-sony-playstation-4-slim)=
+#### Slim
+A smaller redesign of the [Sony PlayStation 4](consoles-sony-playstation-4),
+named the [Slim](consoles-sony-playstation-4-slim),
+was released on [September 15, 2016](timeline-2016-09-15).
+
+```{figure} ../images/consoles/sony-playstation-4-slim.jpg
+---
+name: fig-consoles-sony-playstation-4-slim
+---
+Sony PlayStation 4 Slim (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-BL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony-playstation-4-pro)=

@@ -404,3 +404,7 @@ Sony PlayStation 5 Digital Edition with controller (from [Wikimedia Commons](htt
 (timeline-2020-11-19)=
 ## November 19, 2020
 The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) are released simultaneously worldwide.
+
+(timeline-2023-11-10)=
+## November 10, 2023
+The [Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) and [Sony PlayStation 5 Slim Digital Edition](consoles-sony-playstation-5-slim-digital-edition) are released simultaneously.

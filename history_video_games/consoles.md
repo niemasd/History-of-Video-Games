@@ -318,3 +318,15 @@ name: fig-consoles-sony-playstation-5-digital-edition-with-controller
 ---
 Sony PlayStation 5 Digital Edition with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PS5DigitalEdition.png)). Credit: [Wfrmsf](https://commons.wikimedia.org/wiki/User:Wfrmsf)
 ```
+
+(consoles-sony-playstation-5-slim)=
+#### Slim
+A smaller redesign of the [Sony PlayStation 5](consoles-sony-playstation-5),
+colloquially referred to as the [Slim](consoles-sony-playstation-5-slim),
+was released on [November 10, 2023](timeline-2023-11-10).
+
+(consoles-sony-playstation-5-slim-digital-edition)=
+#### Slim Digital Edition
+A lower-cost digital-only variant of the [Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) that lacked the optical disc drive,
+named the [Digital Edition](consoles-sony-playstation-5-slim-digital-edition),
+was released simultaneously with the base model.

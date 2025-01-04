@@ -5,9 +5,23 @@
 Source Code: [`history_video_games/consoles.md`](https://github.com/niemasd/History-of-Video-Games/blob/main/history_video_games/consoles.md)
 ```
 
+(consoles-nintendo)=
+## Nintendo
+[Nintendo](consoles-nintendo) is a Japanese multinational video game company headquartered in Kyoto, Japan.
+Originally named Nintendo Koppai,
+it was established on [September 23, 1889](timeline-1889-09-23)
+by [Fusajiro Yamauchi](people-fusajiro-yamauchi).
+In [1933](timeline-1933),
+[Sekiryo Kaneda](people-sekiryo-kaneda) (also known as Sekiryo Yamauchi)
+established a joint venture company named Yamauchi Nintendo & Co. {cite:p}`sheff_game_2011`,
+and in [1947](timeline-1947),
+he established a distibution company named Marufuku Co., Ltd. {cite:p}`nintendo_nintendo_2024`.
+The company was renamed to Nintendo Playing Card Co., Ltd. in [1951](timeline-1951) {cite:p}`nintendo_nintendo_2024`,
+and it was renamed to Nintendo Co., Ltd. in [1963](timeline-1963) {cite:p}`nintendo_nintendo_2024`.
+
 (consoles-sony)=
 ## Sony
-[Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.
+[Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo, Japan.
 Originally named Tokyo Tsushin Kogyo,
 it was established on [May 7, 1946](timeline-1946-05-07)
 by [Masaru Ibuka](people-masaru-ibuka) and [Akio Morita](people-akio-morita),

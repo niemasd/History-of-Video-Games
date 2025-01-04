@@ -5,6 +5,34 @@
 Source Code: [`history_video_games/timeline.md`](https://github.com/niemasd/History-of-Video-Games/blob/main/history_video_games/timeline.md)
 ```
 
+(timeline-1889-09-23)=
+## September 23, 1889
+Nintendo Koppai, now known as [Nintendo](consoles-nintendo), is established by [Fusajiro Yamauchi](people-fusajiro-yamauchi).
+
+```{figure} ../images/places/nintendo-headquarters-1889.jpg
+---
+name: fig-timeline-nintendo-headquarters-1889
+height: 200px
+---
+Nintendo Koppai's first headquarters in Kyoto, Japan in 1889 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_1889.jpg)). Credit: [Haiko Honten](http://www.haiko.co.jp)
+```
+
+(timeline-1933)=
+## 1933 (month and day unknown)
+Nintendo Koppai, now known as [Nintendo](consoles-nintendo), is established as an unlimited partnership named Yamauchi Nintendo & Co. by [Sekiryo Kaneda](people-sekiryo-kaneda) {cite:p}`nintendo_nintendo_2024`.
+
+(timeline-1947)=
+## 1947 (month and day unknown)
+Marufuku Co., Ltd. is established by [Sekiryo Kaneda](people-sekiryo-kaneda) to distribute the hanafuda cards produced by Yamauchi Nintendo & Co., now known as [Nintendo](consoles-nintendo) {cite:p}`nintendo_nintendo_2024`.
+
+(timeline-1951)=
+## 1951 (month and day unknown)
+Yamauchi Nintendo & Co., now known as [Nintendo](consoles-nintendo), is renamed to Nintendo Playing Card Co., Ltd. {cite:p}`nintendo_nintendo_2024`.
+
+(timeline-1963)=
+## 1963 (month and day unknown)
+Nintendo Playing Card Co., Ltd. changes its name to [Nintendo](consoles-nintendo) {cite:p}`nintendo_nintendo_2024`.
+
 (timeline-1946-05-07)=
 ## May 7, 1946
 Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony), is established by [Masaru Ibuka](people-masaru-ibuka) and [Akio Morita](people-akio-morita).

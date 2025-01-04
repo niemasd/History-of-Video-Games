@@ -5,9 +5,37 @@
 Source Code: [`history_video_games/consoles.md`](https://github.com/niemasd/History-of-Video-Games/blob/main/history_video_games/consoles.md)
 ```
 
+(consoles-atari)=
+## Atari
+[Atari](consoles-atari) was an American video game developer and home computer company founded in Sunnyvale, California.
+It was founded on [June 27, 1972](timeline-1972-06-27)
+by [Nolan Bushnell](people-nolan-bushnell) and [Ted Dabney](people-ted-dabney).
+
+```{figure} ../images/logos/atari.jpg
+---
+name: fig-consoles-atari
+height: 200px
+---
+[Atari](consoles-atari) logo (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atari_logo_alt.svg)). Credit: [Atari](https://atari.com/)
+```
+
+(consoles-atari-pong)=
+### Pong
+The [Atari Pong](consoles-atari-pong) is an arcade cabinet developed by [Atari](consoles-atari).
+It was released in North America on [November 29, 1972](timeline-1972-11-29),
+and in Japan on [November 1973](timeline-1973-11).
+
+```{figure} ../images/consoles/atari-pong.jpg
+---
+name: fig-consoles-atari-pong
+height: 200px
+---
+[Atari Pong](consoles-atari-pong) arcade cabinet (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg)). Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
+```
+
 (consoles-nintendo)=
 ## Nintendo
-[Nintendo](consoles-nintendo) is a Japanese multinational video game company headquartered in Kyoto, Japan.
+[Nintendo](consoles-nintendo) is a Japanese multinational video game company headquartered in Kyoto.
 Originally named Nintendo Koppai,
 it was established on [September 23, 1889](timeline-1889-09-23)
 by [Fusajiro Yamauchi](people-fusajiro-yamauchi).
@@ -19,6 +47,14 @@ he established a distibution company named Marufuku Co., Ltd. {cite:p}`nintendo_
 The company was renamed to Nintendo Playing Card Co., Ltd. in [1951](timeline-1951) {cite:p}`nintendo_nintendo_2024`,
 and it was renamed to Nintendo Co., Ltd. in [1963](timeline-1963) {cite:p}`nintendo_nintendo_2024`.
 
+```{figure} ../images/logos/nintendo.jpg
+---
+name: fig-consoles-nintendo
+height: 200px
+---
+[Nintendo](consoles-nintendo) logo (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)). Credit: [Nintendo](http://www.nintendo.com)
+```
+
 (consoles-nintendo-color-tv-game-6)=
 ### Color TV-Game 6
 The [Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6) is a video game console developed by [Nintendo](consoles-nintendo).
@@ -29,13 +65,14 @@ It was released in Japan on [June 1, 1977](timeline-1977-06-01).
 ```{figure} ../images/consoles/nintendo-color-tv-game-6.jpg
 ---
 name: fig-consoles-nintendo-color-tv-game-6
+height: 200px
 ---
 [Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Color_TV_game_6_(Cut_out).jpg)). Credit: [Chapuisat](https://www.flickr.com/people/47967705@N02/)
 ```
 
 (consoles-sony)=
 ## Sony
-[Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo, Japan.
+[Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.
 Originally named Tokyo Tsushin Kogyo,
 it was established on [May 7, 1946](timeline-1946-05-07)
 by [Masaru Ibuka](people-masaru-ibuka) and [Akio Morita](people-akio-morita),
@@ -44,6 +81,7 @@ and it was renamed to [Sony](consoles-sony) in [January 1958](timeline-1958-01) 
 ```{figure} ../images/logos/sony.jpg
 ---
 name: fig-consoles-sony
+height: 200px
 ---
 [Sony](consoles-sony) logo (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony_logo.svg)). Credit: [Yasuo Kuroki](https://npo-plat.org/kuroki-yasuo-en.html)
 ```
@@ -58,6 +96,7 @@ and in Europe on [September 29, 1995](timeline-1995-09-29).
 ```{figure} ../images/consoles/sony-playstation.jpg
 ---
 name: fig-consoles-sony-playstation
+height: 200px
 ---
 [Sony PlayStation](consoles-sony-playstation) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-5501-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -73,6 +112,7 @@ and in Europe on [September 29, 2000](timeline-2000-09-29).
 ```{figure} ../images/consoles/sony-playstation-ps-one.jpg
 ---
 name: fig-consoles-sony-playstation-ps-one
+height: 200px
 ---
 [Sony PlayStation PS One](consoles-sony-playstation-ps-one) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PSone-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -88,6 +128,7 @@ and in Australia on [November 30, 2000](timeline-2000-11-30).
 ```{figure} ../images/consoles/sony-playstation-2.jpg
 ---
 name: fig-consoles-sony-playstation-2
+height: 200px
 ---
 [Sony PlayStation 2](consoles-sony-playstation-2) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -103,6 +144,7 @@ and in North America on [November 25, 2004](timeline-2004-11-25).
 ```{figure} ../images/consoles/sony-playstation-2-slimline.jpg
 ---
 name: fig-consoles-sony-playstation-2-slimline
+height: 200px
 ---
 [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -118,6 +160,7 @@ and in PAL regions on [September 1, 2005](timeline-2005-09-01).
 ```{figure} ../images/consoles/sony-playstation-portable.jpg
 ---
 name: fig-consoles-sony-playstation-portable
+height: 200px
 ---
 [Sony PlayStation Portable](consoles-sony-playstation-portable) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Psp-1000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -138,6 +181,7 @@ and in Japan on [September 20, 2007](timeline-2007-09-20).
 ```{figure} ../images/consoles/sony-playstation-portable-2000.jpg
 ---
 name: fig-consoles-sony-playstation-portable-2000
+height: 200px
 ---
 [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-2000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -156,6 +200,7 @@ and in Australia on [October 23, 2008](timeline-2008-10-23).
 ```{figure} ../images/consoles/sony-playstation-portable-3000.jpg
 ---
 name: fig-consoles-sony-playstation-portable-3000
+height: 200px
 ---
 [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-3000-Silver.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -170,6 +215,7 @@ and in Japan on [October 31, 2009](timeline-2009-10-31).
 ```{figure} ../images/consoles/sony-playstation-portable-go-closed.jpg
 ---
 name: fig-consoles-sony-playstation-portable-go-closed
+height: 200px
 ---
 Closed [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -177,6 +223,7 @@ Closed [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go)
 ```{figure} ../images/consoles/sony-playstation-portable-go-opened.jpg
 ---
 name: fig-consoles-sony-playstation-portable-go-opened
+height: 200px
 ---
 Opened [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL-Open.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -190,6 +237,7 @@ was released on [October 26, 2011](timeline-2011-10-26).
 ```{figure} ../images/consoles/sony-playstation-portable-street.jpg
 ---
 name: fig-consoles-sony-playstation-portable-street
+height: 200px
 ---
 Illustration of [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-street) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg)). Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
 ```
@@ -204,6 +252,7 @@ and in Europe and Australasia on [March 23, 2007](timeline-2007-03-23).
 ```{figure} ../images/consoles/sony-playstation-3.jpg
 ---
 name: fig-consoles-sony-playstation-3
+height: 200px
 ---
 [Sony PlayStation 3](consoles-sony-playstation-3) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -218,6 +267,7 @@ and in Japan, Australia, and New Zealand on [September 3, 2009](timeline-2009-09
 ```{figure} ../images/consoles/sony-playstation-3-slim.jpg
 ---
 name: fig-consoles-sony-playstation-3-slim
+height: 200px
 ---
 [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-Slim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -231,6 +281,7 @@ was released on [September 25, 2012](timeline-2012-09-25).
 ```{figure} ../images/consoles/sony-playstation-3-super-slim.jpg
 ---
 name: fig-consoles-sony-playstation-3-super-slim
+height: 200px
 ---
 [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-PS3-SuperSlim-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -245,6 +296,7 @@ and worldwide on [February 22, 2012](timeline-2012-02-22).
 ```{figure} ../images/consoles/sony-playstation-vita.jpg
 ---
 name: fig-consoles-sony-playstation-vita
+height: 200px
 ---
 [Sony PlayStation Vita](consoles-sony-playstation-vita) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-1101-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -261,6 +313,7 @@ and in North America on [May 6, 2014](timeline-2014-05-06).
 ```{figure} ../images/consoles/sony-playstation-vita-2000.jpg
 ---
 name: fig-consoles-sony-playstation-vita-2000
+height: 200px
 ---
 [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-2001-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -277,6 +330,7 @@ and in Europe and Australia on [November 14, 2014](timeline-2014-11-14).
 ```{figure} ../images/consoles/sony-playstation-vita-tv.jpg
 ---
 name: fig-consoles-sony-playstation-vita-tv
+height: 200px
 ---
 [Sony PlayStation TV](consoles-sony-playstation-vita-tv) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-TV-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -291,6 +345,7 @@ and in Japan on [February 22, 2014](timeline-2014-02-22).
 ```{figure} ../images/consoles/sony-playstation-4.jpg
 ---
 name: fig-consoles-sony-playstation-4
+height: 200px
 ---
 [Sony PlayStation 4](consoles-sony-playstation-4) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-PS4-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -304,6 +359,7 @@ was released on [September 15, 2016](timeline-2016-09-15).
 ```{figure} ../images/consoles/sony-playstation-4-slim.jpg
 ---
 name: fig-consoles-sony-playstation-4-slim
+height: 200px
 ---
 [Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-BL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -317,6 +373,7 @@ was released on [November 10, 2016](timeline-2016-11-10).
 ```{figure} ../images/consoles/sony-playstation-4-pro.jpg
 ---
 name: fig-consoles-sony-playstation-4-pro
+height: 200px
 ---
 [Sony PlayStation 4 Pro](consoles-sony-playstation-4-pro) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
@@ -330,6 +387,7 @@ and worldwide on [November 19, 2020](timeline-2020-11-19).
 ```{figure} ../images/consoles/sony-playstation-5.jpg
 ---
 name: fig-consoles-sony-playstation-5
+height: 200px
 ---
 [Sony PlayStation 5](consoles-sony-playstation-5) (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-laying-down-flat.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
@@ -343,6 +401,7 @@ was released simultaneously with the base model.
 ```{figure} ../images/consoles/sony-playstation-5-digital-edition.jpg
 ---
 name: fig-consoles-sony-playstation-5-digital-edition
+height: 200px
 ---
 [Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-digital-edition-laying-down-flat.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
@@ -356,6 +415,7 @@ was released on [November 10, 2023](timeline-2023-11-10).
 ```{figure} ../images/consoles/sony-playstation-5-slim.jpg
 ---
 name: fig-consoles-sony-playstation-5-slim
+height: 200px
 ---
 [Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Hero-1.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
@@ -369,6 +429,7 @@ was released simultaneously with the base model.
 ```{figure} ../images/consoles/sony-playstation-5-slim-digital-edition.jpg
 ---
 name: fig-consoles-sony-playstation-5-slim-digital-edition
+height: 200px
 ---
 [Sony PlayStation 5 Slim Digital Edition](consoles-sony-playstation-5-slim-digital-edition) (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Digital-Hero1.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
@@ -382,6 +443,7 @@ was released worldwide on [November 7, 2024](timeline-2024-11-07).
 ```{figure} ../images/consoles/sony-playstation-5-pro.jpg
 ---
 name: fig-consoles-sony-playstation-5-pro
+height: 200px
 ---
 [Sony PlayStation 5 Pro](consoles-sony-playstation-5-pro) (from [PlayStation Wiki](https://playstation.fandom.com/wiki/PlayStation_5_Pro?file=Ps5proitself.webp)). Credit: [Bruhhed guy](https://playstation.fandom.com/wiki/User:Bruhhed_guy)
 ```

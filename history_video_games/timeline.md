@@ -33,6 +33,22 @@ Yamauchi Nintendo & Co., now known as [Nintendo](consoles-nintendo), is renamed 
 ## 1963 (month and day unknown)
 Nintendo Playing Card Co., Ltd. changes its name to [Nintendo](consoles-nintendo) {cite:p}`nintendo_nintendo_2024`.
 
+```{figure} ../images/logos/nintendo-playing-card-co-sign.jpg
+---
+name: fig-timeline-nintendo-playing-card-co-sign
+height: 200px
+---
+The sign of Nintendo Playing Card Co., now known as [Nintendo](consoles-nintendo) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_former_headquarter_plate_Kyoto.jpg)). Credit: [Eckhard Pecher](https://commons.wikimedia.org/wiki/User:Arcimboldo)
+```
+
+```{figure} ../images/logos/nintendo.jpg
+---
+name: fig-timeline-nintendo
+height: 200px
+---
+[Nintendo](consoles-nintendo) logo (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)). Credit: [Nintendo](http://www.nintendo.com)
+```
+
 (timeline-1946-05-07)=
 ## May 7, 1946
 Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony), is established by [Masaru Ibuka](people-masaru-ibuka) and [Akio Morita](people-akio-morita).
@@ -64,6 +80,26 @@ height: 200px
 ---
 The evolution of the [Sony](consoles-sony) logo from 1955 to 1973 (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-23.html)).
 ```
+
+(timeline-1972-06-27)=
+## June 27, 1972
+[Atari](consoles-atari) is founded by [Nolan Bushnell](people-nolan-bushnell) and [Ted Dabney](people-ted-dabney).
+
+(timeline-1972-11-29)=
+## November 29, 1972
+The [Atari Pong](consoles-atari-pong) arcade cabinet is released in North America.
+
+```{figure} ../images/consoles/atari-pong.jpg
+---
+name: fig-timeline-atari-pong
+height: 200px
+---
+[Atari Pong](consoles-atari-pong) arcade cabinet (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg)). Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
+```
+
+(timeline-1973-11)=
+## November 1973 (day unknown)
+The [Atari Pong](consoles-atari-pong) arcade cabinet is released in Japan.
 
 (timeline-1977-06-01)=
 ## June 1, 1977

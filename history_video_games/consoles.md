@@ -194,7 +194,7 @@ A top-loading redesign of the [Nintendo Family Computer](consoles-nintendo-famil
 named the [NES-101](consoles-nintendo-family-computer-nes-101),
 was released in North America on [October 15, 1993](timeline-1993-10-15),
 and in Japan on [December 1, 1993](timeline-1993-12-01).
-It was also known as the New-style NES, the New NES, and the Top Loader,
+It was also known as the New-Style NES, the New NES, and the Top Loader,
 and it was officially called the New Famicom in Japan.
 
 ```{figure} ../images/consoles/nintendo-family-computer-nes-101-usa.jpg
@@ -217,6 +217,71 @@ Japanese [Nintendo NES-101](consoles-nintendo-family-computer-nes-101)
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-super-famicom)=
+### Super Famicom
+The [Nintendo Super Famicom](consoles-nintendo-super-famicom) (SFC) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [November 21, 1990](timeline-1990-11-21).
+
+```{figure} ../images/consoles/nintendo-super-famicom.jpg
+---
+name: fig-consoles-nintendo-super-famicom
+height: 200px
+---
+[Nintendo Super Famicom](consoles-nintendo-super-famicom)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Super-Famicom-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-super-famicom-super-nintendo-entertainment-system)=
+#### Super Nintendo Entertainment System
+The [Nintendo Super Famicom](consoles-nintendo-super-famicom) was redesigned and released outside of Japan
+as the [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system) (SNES),
+officially abbreviated as the Super NES and colloquially known as the Super Nintendo.
+It was released in North America on [August 23, 1991](timeline-1991-08-23),
+in Europe on [April 11, 1992](timeline-1992-04-11),
+in Chile on [June 8, 1992](timeline-1992-06-08),
+in Australia on [July 3, 1992](timeline-1992-07-03),
+in Brazil on [August 30, 1993](timeline-1993-08-30),
+and in Russia on [November 15, 1994](timeline-1994-11-15).
+
+```{figure} ../images/consoles/nintendo-super-famicom-super-nintendo-entertainment-system.jpg
+---
+name: fig-consoles-nintendo-super-famicom-super-nintendo-entertainment-system
+height: 200px
+---
+[Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Super-NES-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-super-famicom-sns-101)=
+#### SNS-101
+A cost-reduced redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+named the [SNS-101](consoles-nintendo-super-famicom-sns-101),
+was released in North America on [October 20, 1997](timeline-1997-10-20),
+and in Japan on [March 27, 1998](timeline-1998-03-27).
+It was also known as the New-Style Super NES in North America,
+and as the Super Famicom Jr. in Japan.
+
+```{figure} ../images/consoles/nintendo-super-famicom-sns-101-usa.jpg
+---
+name: fig-consoles-nintendo-super-famicom-sns-101-usa
+height: 200px
+---
+North American [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Super-NES-Console-101-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+```{figure} ../images/consoles/nintendo-super-famicom-sns-101-jpn.jpg
+---
+name: fig-consoles-nintendo-super-famicom-sns-101-jpn
+height: 200px
+---
+Japanese [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101)
+(from [Centre for Computing History](https://www.computinghistory.org.uk/det/43039/Nintendo-Super-Famicom-Jr/)).
+```
+
 (consoles-sony)=
 ## Sony
 [Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.
@@ -237,7 +302,7 @@ Credit: [Yasuo Kuroki](https://npo-plat.org/kuroki-yasuo-en.html)
 
 (consoles-sony-playstation)=
 ### PlayStation
-The [Sony PlayStation](consoles-sony-playstation) is a video game console developed by [Sony](consoles-sony).
+The [Sony PlayStation](consoles-sony-playstation) (PSX) is a video game console developed by [Sony](consoles-sony).
 It was released in Japan on [December 3, 1994](timeline-1994-12-03),
 in North America on [September 9, 1995](timeline-1995-09-09),
 and in Europe on [September 29, 1995](timeline-1995-09-29).
@@ -272,7 +337,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-sony-playstation-2)=
 ### PlayStation 2
-The [Sony PlayStation 2](consoles-sony-playstation-2) is a video game console developed by [Sony](consoles-sony).
+The [Sony PlayStation 2](consoles-sony-playstation-2) (PS2) is a video game console developed by [Sony](consoles-sony).
 It was released in Japan on [March 4, 2000](timeline-2000-03-04),
 in North America on [October 26, 2000](timeline-2000-10-26),
 in Europe on [November 24, 2000](timeline-2000-11-24),
@@ -308,7 +373,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-sony-playstation-portable)=
 ### PlayStation Portable
-The [Sony PlayStation Portable](consoles-sony-playstation-portable) is a video game console developed by [Sony](consoles-sony).
+The [Sony PlayStation Portable](consoles-sony-playstation-portable) (PSP) is a video game console developed by [Sony](consoles-sony).
 The first revision was named the PSP-1000.
 It was released in Japan on [December 12, 2004](timeline-2004-12-12),
 in North America on [March 24, 2005](timeline-2005-03-24),
@@ -413,7 +478,7 @@ Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
 
 (consoles-sony-playstation-3)=
 ### PlayStation 3
-The [Sony PlayStation 3](consoles-sony-playstation-3) is a video game console developed by [Sony](consoles-sony).
+The [Sony PlayStation 3](consoles-sony-playstation-3) (PS3) is a video game console developed by [Sony](consoles-sony).
 It was released in Japan on [November 11, 2006](timeline-2006-11-11),
 in North America on [November 17, 2006](timeline-2006-11-17),
 and in Europe and Australasia on [March 23, 2007](timeline-2007-03-23).
@@ -463,7 +528,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-sony-playstation-vita)=
 ### PlayStation Vita
-The [Sony PlayStation Vita](consoles-sony-playstation-vita) is a video game console developed by [Sony](consoles-sony).
+The [Sony PlayStation Vita](consoles-sony-playstation-vita) (PS Vita) is a video game console developed by [Sony](consoles-sony).
 The first revision was named the PCH-1000.
 It was released in Japan on [December 17, 2011](timeline-2011-12-17),
 and worldwide on [February 22, 2012](timeline-2012-02-22).
@@ -500,7 +565,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (consoles-sony-playstation-vita-tv)=
 #### PlayStation TV
 A non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita),
-named the [PlayStation TV](consoles-sony-playstation-vita-tv),
+named the [PlayStation TV](consoles-sony-playstation-vita-tv) (PS TV),
 was released in Japan on [November 14, 2013](timeline-2013-11-14),
 in Asia on [January 16, 2014](timeline-2014-01-16),
 in North America on [October 14, 2014](timeline-2014-10-14),
@@ -518,7 +583,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-sony-playstation-4)=
 ### PlayStation 4
-The [Sony PlayStation 4](consoles-sony-playstation-4) is a video game console developed by [Sony](consoles-sony).
+The [Sony PlayStation 4](consoles-sony-playstation-4) (PS4) is a video game console developed by [Sony](consoles-sony).
 It was released in North America on [November 15, 2013](timeline-2013-11-15),
 in Europe, South America, and Australia on [November 29, 2013](timeline-2013-11-29),
 and in Japan on [February 22, 2014](timeline-2014-02-22).
@@ -566,7 +631,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-sony-playstation-5)=
 ### PlayStation 5
-The [Sony PlayStation 5](consoles-sony-playstation-5) is a video game console developed by [Sony](consoles-sony).
+The [Sony PlayStation 5](consoles-sony-playstation-5) (PS5) is a video game console developed by [Sony](consoles-sony).
 It was released in Australia, Japan, Korea, New Zealand, and North America on [November 12, 2020](timeline-2020-11-12),
 and worldwide on [November 19, 2020](timeline-2020-11-19).
 

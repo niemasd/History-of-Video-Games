@@ -236,6 +236,60 @@ The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-e
 a redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
 is released in Europe.
 
+(timeline-1990-11-21)=
+## November 21, 1990
+The [Nintendo Super Famicom](consoles-nintendo-super-famicom) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-super-famicom-with-controller.jpg
+---
+name: fig-timeline-nintendo-super-famicom-with-controller
+height: 200px
+---
+[Nintendo Super Famicom](consoles-nintendo-super-famicom) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Super-Famicom-Set-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1991-08-23)=
+## August 23, 1991
+The [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system),
+a redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in North America.
+
+```{figure} ../images/consoles/nintendo-super-famicom-super-nintendo-entertainment-system-with-controller.jpg
+---
+name: fig-consoles-nintendo-super-famicom-super-nintendo-entertainment-system-with-controller
+height: 200px
+---
+[Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SNES-Mod1-Console-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1992-04-11)=
+## April 11, 1992
+The [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system),
+a redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in Europe.
+
+(timeline-1992-06-08)=
+## June 8, 1992
+The [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system),
+a redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in Chile.
+
+(timeline-1992-07-03)=
+## July 3, 1992
+The [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system),
+a redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in Australia.
+
+(timeline-1993-08-30)=
+## August 30, 1992
+The [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system),
+a redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in Brazil.
+
 (timeline-1993-10-15)=
 ## October 15, 1993
 The [Nintendo NES-101](consoles-nintendo-family-computer-nes-101),
@@ -268,6 +322,12 @@ Japanese [Nintendo NES-101](consoles-nintendo-family-computer-nes-101)
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1994-11-15)=
+## November 15, 1994
+The [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system),
+a redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in Russia.
+
 (timeline-1994-12-03)=
 ## December 3, 1994
 The [Sony PlayStation](consoles-sony-playstation) is released in Japan.
@@ -289,6 +349,38 @@ The [Sony PlayStation](consoles-sony-playstation) is released in North America.
 (timeline-1995-09-29)=
 ## September 29, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in Europe.
+
+(timeline-1997-10-20)=
+## October 20, 1997
+The [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101),
+a cost-reduced redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in North America.
+
+```{figure} ../images/consoles/nintendo-super-famicom-sns-101-usa-with-controller.jpg
+---
+name: fig-consoles-nintendo-super-famicom-sns-101-usa-with-controller
+height: 200px
+---
+North American [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SNES-Model-2-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1998-03-27)=
+## March 27, 1998
+The [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101),
+a cost-reduced redesign of the [Nintendo Super Famicom](consoles-nintendo-super-famicom),
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-super-famicom-sns-101-jpn-with-controller.jpg
+---
+name: fig-consoles-nintendo-super-famicom-sns-101-jpn-with-controller
+height: 200px
+---
+Japanese [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SuperFamicom_jr.jpg)).
+Credit: [Muband](https://en.wikipedia.org/wiki/ja:User:Muband)
+```
 
 (timeline-2000-03-04)=
 ## March 4, 2000

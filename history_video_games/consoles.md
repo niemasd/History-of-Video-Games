@@ -170,6 +170,28 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-family-computer-nintendo-entertainment-system)=
+#### Nintendo Entertainment System
+The [Nintendo Family Computer](consoles-nintendo-family-computer) was redesigned and released outside of Japan as
+the [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system).
+It was released in North America on [October 18, 1985](timeline-1985-10-18),
+in Scandinavia on [September 1986](timeline-1986-09),
+and in Europe throughout [1987](timeline-1987).
+
+```{figure} ../images/consoles/nintendo-family-computer-nintendo-entertainment-system.jpg
+---
+name: fig-consoles-nintendo-family-computer-nintendo-entertainment-system
+height: 200px
+---
+[Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Entertainment-System-NES-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-family-computer-top-loader)=
+#### Top Loader
+TODO
+
 (consoles-sony)=
 ## Sony
 [Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.

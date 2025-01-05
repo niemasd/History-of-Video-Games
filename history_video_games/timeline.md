@@ -200,13 +200,41 @@ The [Nintendo Family Computer](consoles-nintendo-family-computer) is released in
 
 ```{figure} ../images/consoles/nintendo-family-computer-with-controller.jpg
 ---
-name: fig-consoles-nintendo-family-computer-with-controller
+name: fig-timeline-nintendo-family-computer-with-controller
 height: 200px
 ---
 [Nintendo Family Computer](consoles-nintendo-family-computer) with controller
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Famicom-Console-Set-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-1985-10-18)=
+## October 18, 1985
+The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system),
+a redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
+is released in North America.
+
+```{figure} ../images/consoles/nintendo-family-computer-nintendo-entertainment-system-with-controller.jpg
+---
+name: fig-timeline-nintendo-family-computer-nintendo-entertainment-system
+height: 200px
+---
+[Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1986-09)=
+## September 1986 (day unknown)
+The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system),
+a redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
+is released in Scandinavia.
+
+(timeline-1987)=
+## 1987 (day and month unknown)
+The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system),
+a redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
+is released in Europe.
 
 (timeline-1994-12-03)=
 ## December 3, 1994

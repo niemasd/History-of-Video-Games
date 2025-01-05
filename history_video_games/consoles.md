@@ -338,23 +338,45 @@ height: 200px
 (from [DKOldies](https://www.dkoldies.com/wii-system-console-only-white)).
 ```
 
-(consoles-nintendo-wii-rvl-101)=
-#### RVL-101
+(consoles-nintendo-wii-family-edition)=
+#### Family Edition
 A cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
-named the [RVL-101](consoles-nintendo-wii-rvl-101)
-and sometime referred to as the Wii Family Edition,
+named the [Family Edition](consoles-nintendo-wii-family-edition) (model RVL-101),
 was released in North America on [October 23, 2011](timeline-2011-10-23),
 in Europe on [November 4, 2011](timeline-2011-11-04),
 and in Australia on [November 11, 2011](timeline-2011-11-11).
 It removed the GameCube controller ports and memory card slots.
 
-```{figure} ../images/consoles/nintendo-wii-rvl-101.jpg
+```{figure} ../images/consoles/nintendo-wii-family-edition.jpg
 ---
-name: fig-consoles-nintendo-wii-rvl-101
+name: fig-consoles-nintendo-wii-family-edition
 height: 200px
 ---
-[Nintendo RVL-101](consoles-nintendo-wii-rvl-101)
-(from [GameCops](https://gamecops.com/products/nintendo-wii-black-video-game-console-system-bundle-online-rvl-101-wiimote-zelda)).
+[Nintendo Wii Family Edition](consoles-nintendo-wii-family-edition)
+(from [GameCops](https://gamecops.com/products/nintendo-wii-black-video-game-console-system-bundle-online-family-edition-wiimote-zelda)).
+```
+
+(consoles-nintendo-wii-mini)=
+#### Mini
+A smaller redesign of the [Nintendo Wii](consoles-nintendo-wii),
+named the [Mini](consoles-nintendo-wii-mini) (model RVL-201),
+was released in Canada on [December 7, 2012](timeline-2012-12-07),
+in Europe on [March 15, 2013](timeline-2013-03-15),
+in the United Kingdom on [March 22, 2013](timeline-2013-03-22),
+and in North America on [November 17, 2013](timeline-2013-11-17).
+In addition to lack of GameCube support like the [Family Edition](consoles-nintendo-wii-family-edition),
+it removed Wi-Fi support and online connectivity,
+the SD card slot,
+and support for 480p and component video output.
+
+```{figure} ../images/consoles/nintendo-wii-mini.jpg
+---
+name: fig-consoles-nintendo-wii-mini
+height: 200px
+---
+[Nintendo Wii Mini](consoles-nintendo-wii-mini)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Wii-Mini-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony)=

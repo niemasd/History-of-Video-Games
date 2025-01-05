@@ -689,16 +689,16 @@ The [Nintendo Wii](consoles-nintendo-wii) is released in Hong Kong.
 
 (timeline-2011-10-23)=
 ## October 23, 2011
-The [Nintendo RVL-101](consoles-nintendo-wii-rvl-101),
+The [Nintendo Wii Family Edition](consoles-nintendo-wii-family-edition),
 a cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
 is released in North America.
 
-```{figure} ../images/consoles/nintendo-wii-rvl-101-with-controller.jpg
+```{figure} ../images/consoles/nintendo-wii-family-edition-with-controller.jpg
 ---
-name: fig-consoles-nintendo-wii-rvl-101-with-controller
+name: fig-consoles-nintendo-wii-family-edition-with-controller
 height: 200px
 ---
-[Nintendo RVL-101](consoles-nintendo-wii-rvl-101) with controller
+[Nintendo Wii Family Edition](consoles-nintendo-wii-family-edition) with controller
 (from [retroplace](https://www.retroplace.com/en/games/200818--nintendo-wii)).
 ```
 
@@ -718,13 +718,13 @@ Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
 
 (timeline-2011-11-04)=
 ## November 4, 2011
-The [Nintendo RVL-101](consoles-nintendo-wii-rvl-101),
+The [Nintendo Wii Family Edition](consoles-nintendo-wii-family-edition),
 a cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
 is released in Europe.
 
 (timeline-2011-11-11)=
 ## November 11, 2011
-The [Nintendo RVL-101](consoles-nintendo-wii-rvl-101),
+The [Nintendo Wii Family Edition](consoles-nintendo-wii-family-edition),
 a cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
 is released in Australia.
 
@@ -759,6 +759,34 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-4001B-wController-L.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2012-12-07)=
+## December 7, 2012
+The [Nintendo Wii Mini](consoles-nintendo-wii-mini),
+a smaller redesign of the [Nintendo Wii](consoles-nintendo-wii),
+is released in Canada.
+
+```{figure} ../images/consoles/nintendo-wii-mini-with-controller.jpg
+---
+name: fig-timeline-nintendo-wii-mini-with-controller
+height: 200px
+---
+[Nintendo Wii Mini](consoles-nintendo-wii-mini)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wii-Mini-Console-Set-H.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2013-03-15)=
+## March 15, 2013
+The [Nintendo Wii Mini](consoles-nintendo-wii-mini),
+a smaller redesign of the [Nintendo Wii](consoles-nintendo-wii),
+is released in Europe.
+
+(timeline-2013-03-22)=
+## March 22, 2013
+The [Nintendo Wii Mini](consoles-nintendo-wii-mini),
+a smaller redesign of the [Nintendo Wii](consoles-nintendo-wii),
+is released in the United Kingdom.
 
 (timeline-2013-10-10)=
 ## October 10, 2013
@@ -801,6 +829,12 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2013-11-17)=
+## November 17, 2013
+The [Nintendo Wii Mini](consoles-nintendo-wii-mini),
+a smaller redesign of the [Nintendo Wii](consoles-nintendo-wii),
+is released in North America.
 
 (timeline-2013-11-29)=
 ## November 29, 2013

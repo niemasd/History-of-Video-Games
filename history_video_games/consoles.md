@@ -299,6 +299,25 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-gamecube)=
+### Nintendo GameCube
+The [Nintendo GameCube](consoles-nintendo-gamecube) (abbreviated NGC or GCN) is a video console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [September 14, 2001](timeline-2001-09-14),
+in North America on [November 18, 2001](timeline-2001-11-18),
+in Europe on [May 3, 2002](timeline-2002-05-03),
+in Australia on [May 17, 2002](timeline-2002-05-17),
+and in Ukraine on [April 16, 2003](timeline-2003-04-16).
+
+```{figure} ../images/consoles/nintendo-gamecube.jpg
+---
+name: fig-consoles-nintendo-gamecube
+height: 200px
+---
+[Nintendo GameCube](consoles-nintendo-gamecube)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-GameCube-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony)=
 ## Sony
 [Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.

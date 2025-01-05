@@ -453,6 +453,36 @@ The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Europe.
 ## November 30, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Australia.
 
+(timeline-2001-09-14)=
+## September 14, 2001
+The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-gamecube-with-controller-memcard.jpg
+---
+name: fig-consoles-nintendo-gamecube-with-controller-memcard
+height: 200px
+---
+[Nintendo GameCube](consoles-nintendo-gamecube) with controller and memory card
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GameCube-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2001-11-18)=
+## November 18, 2001
+The [Nintendo GameCube](consoles-nintendo-gamecube) is released in North America.
+
+(timeline-2002-05-03)=
+## May 3, 2002
+The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Europe.
+
+(timeline-2002-05-17)=
+## May 17, 2002
+The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Australia.
+
+(timeline-2003-04-16)=
+## April 16, 2003
+The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Ukraine.
+
 (timeline-2004-10-29)=
 ## October 29, 2004
 The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released in Europe.

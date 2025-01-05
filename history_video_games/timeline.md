@@ -545,6 +545,32 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ## November 17, 2006
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in North America.
 
+(timeline-2006-11-19)=
+## November 19, 2006
+The [Nintendo Wii](consoles-nintendo-wii) is released in North America.
+
+```{figure} ../images/consoles/nintendo-wii-with-controller.jpg
+---
+name: fig-timeline-nintendo-wii-with-controller
+height: 200px
+---
+[Nintendo Wii](consoles-nintendo-wii) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wii-console.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2006-12-02)=
+## December 2, 2006
+The [Nintendo Wii](consoles-nintendo-wii) is released in Japan.
+
+(timeline-2006-12-07)=
+## December 7, 2006
+The [Nintendo Wii](consoles-nintendo-wii) is released in Australia.
+
+(timeline-2006-12-08)=
+## December 8, 2006
+The [Nintendo Wii](consoles-nintendo-wii) is released in Europe.
+
 (timeline-2007-03-23)=
 ## March 23, 2007
 The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Europe and Australasia.
@@ -586,6 +612,14 @@ The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000
 (timeline-2007-09-20)=
 ## September 20, 2007
 The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Japan.
+
+(timeline-2008-04-26)=
+## April 26, 2008
+The [Nintendo Wii](consoles-nintendo-wii) is released in South Korea.
+
+(timeline-2008-07-12)=
+## July 12, 2008
+The [Nintendo Wii](consoles-nintendo-wii) is released in Taiwan.
 
 (timeline-2008-10-14)=
 ## October 14, 2008
@@ -648,6 +682,10 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (timeline-2009-10-31)=
 ## October 31, 2009
 The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go), a smaller and lighter redesign of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Japan.
+
+(timeline-2009-12-12)=
+## December 12, 2009
+The [Nintendo Wii](consoles-nintendo-wii) is released in Hong Kong.
 
 (timeline-2011-10-26)=
 ## October 26, 2011

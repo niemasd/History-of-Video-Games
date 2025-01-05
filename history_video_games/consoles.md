@@ -300,7 +300,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-nintendo-gamecube)=
-### Nintendo GameCube
+### GameCube
 The [Nintendo GameCube](consoles-nintendo-gamecube) (abbreviated NGC or GCN) is a video console developed by [Nintendo](consoles-nintendo).
 It was released in Japan on [September 14, 2001](timeline-2001-09-14),
 in North America on [November 18, 2001](timeline-2001-11-18),
@@ -316,6 +316,26 @@ height: 200px
 [Nintendo GameCube](consoles-nintendo-gamecube)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-GameCube-Console-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-wii)=
+### Wii
+The [Nintendo Wii](consoles-nintendo-wii) is a video console developed by [Nintendo](consoles-nintendo).
+It was released in North America on [November 19, 2006](timeline-2006-11-19),
+in Japan on [December 2, 2006](timeline-2006-12-02),
+in Australia on [December 7, 2006](timeline-2006-12-07),
+in Europe on [December 8, 2006](timeline-2006-12-08),
+in South Korea on [April 26, 2008](timeline-2008-04-26),
+in Taiwan on [July 12, 2008](timeline-2008-07-12),
+and in Hong Kong in [December 12, 2009](timeline-2009-12-12).
+
+```{figure} ../images/consoles/nintendo-wii.jpg
+---
+name: fig-consoles-nintendo-wii
+height: 200px
+---
+[Nintendo Wii](consoles-nintendo-wii)
+(from [DKOldies](https://www.dkoldies.com/wii-system-console-only-white)).
 ```
 
 (consoles-sony)=

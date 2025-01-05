@@ -139,20 +139,34 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
-(consoles-nintendo-computer-tv-game)=
+(consoles-nintendo-color-tv-game-computer-tv-game)=
 #### Computer TV-Game
-The [Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game) is a video game console developed by [Nintendo](consoles-nintendo).
+The [Nintendo Computer TV-Game](consoles-nintendo-color-tv-game-computer-tv-game) is a video game console developed by [Nintendo](consoles-nintendo).
 It has an Othello game.
 It was released in Japan on [December 12, 1980](timeline-1980-12-12).
 
-```{figure} ../images/consoles/nintendo-computer-tv-game.jpg
+```{figure} ../images/consoles/nintendo-color-tv-game-computer-tv-game.jpg
 ---
-name: fig-consoles-nintendo-computer-tv-game
+name: fig-consoles-nintendo-color-tv-game-computer-tv-game
 height: 200px
 ---
-[Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game)
+[Nintendo Computer TV-Game](consoles-nintendo-color-tv-game-computer-tv-game)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-TV-Game-Computer.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-game-and-watch)=
+### Game & Watch
+The [Nintendo Game & Watch](consoles-nintendo-game-and-watch) is a series of video game consoles developed by [Nintendo](consoles-nintendo).
+
+```{figure} ../images/logos/nintendo-game-and-watch.jpg
+---
+name: fig-consoles-nintendo-game-and-watch
+height: 200px
+---
+[Nintendo Game & Watch](consoles-nintendo-game-and-watch) logo
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_and_watch_logo.svg)).
+Credit: [Nintendo](http://www.nintendo.com)
 ```
 
 (consoles-nintendo-family-computer)=

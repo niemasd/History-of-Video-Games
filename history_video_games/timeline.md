@@ -182,14 +182,14 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (timeline-1980-12-12)=
 ## December 12, 1980
-The [Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game) is released in Japan.
+The [Nintendo Computer TV-Game](consoles-nintendo-color-tv-game-computer-tv-game) is released in Japan.
 
-```{figure} ../images/consoles/nintendo-computer-tv-game.jpg
+```{figure} ../images/consoles/nintendo-color-tv-game-computer-tv-game.jpg
 ---
-name: fig-timeline-nintendo-computer-tv-game
+name: fig-timeline-nintendo-color-tv-game-computer-tv-game
 height: 200px
 ---
-[Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game)
+[Nintendo Computer TV-Game](consoles-nintendo-color-tv-game-computer-tv-game)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-TV-Game-Computer.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```

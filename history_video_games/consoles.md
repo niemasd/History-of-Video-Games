@@ -54,7 +54,7 @@ and it was renamed to Nintendo Co., Ltd. in [1963](timeline-1963) {cite:p}`ninte
 ```{figure} ../images/logos/nintendo.jpg
 ---
 name: fig-consoles-nintendo
-height: 200px
+height: 80px
 ---
 [Nintendo](consoles-nintendo) logo
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)).
@@ -379,6 +379,23 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-wii-u)=
+### Wii U
+The [Nintendo Wii U](consoles-nintendo-wii-u) is a video console developed by [Nintendo](consoles-nintendo).
+It was released in North America on [November 18, 2012](timeline-2012-11-18),
+in PAL regions on [November 30, 2012](timeline-2012-11-30),
+and in Japan on [December 8, 2012](timeline-2012-12-08).
+
+```{figure} ../images/consoles/nintendo-wii-u.jpg
+---
+name: fig-consoles-nintendo-wii-u
+height: 200px
+---
+[Nintendo Wii U](consoles-nintendo-wii-u)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Wii-U-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony)=
 ## Sony
 [Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.
@@ -390,7 +407,7 @@ and it was renamed to [Sony](consoles-sony) in [January 1958](timeline-1958-01) 
 ```{figure} ../images/logos/sony.jpg
 ---
 name: fig-consoles-sony
-height: 200px
+height: 80px
 ---
 [Sony](consoles-sony) logo
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony_logo.svg)).

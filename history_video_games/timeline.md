@@ -31,10 +31,6 @@ Marufuku Co., Ltd. is established by [Sekiryo Kaneda](people-sekiryo-kaneda) to 
 ## 1951 (month and day unknown)
 Yamauchi Nintendo & Co., now known as [Nintendo](consoles-nintendo), is renamed to Nintendo Playing Card Co., Ltd. {cite:p}`nintendo_nintendo_2024`.
 
-(timeline-1963)=
-## 1963 (month and day unknown)
-Nintendo Playing Card Co., Ltd. changes its name to [Nintendo](consoles-nintendo) {cite:p}`nintendo_nintendo_2024`.
-
 ```{figure} ../images/logos/nintendo-playing-card-co-sign.jpg
 ---
 name: fig-timeline-nintendo-playing-card-co-sign
@@ -45,10 +41,14 @@ The sign of Nintendo Playing Card Co., now known as [Nintendo](consoles-nintendo
 Credit: [Eckhard Pecher](https://commons.wikimedia.org/wiki/User:Arcimboldo)
 ```
 
+(timeline-1963)=
+## 1963 (month and day unknown)
+Nintendo Playing Card Co., Ltd. changes its name to [Nintendo](consoles-nintendo) {cite:p}`nintendo_nintendo_2024`.
+
 ```{figure} ../images/logos/nintendo.jpg
 ---
 name: fig-timeline-nintendo
-height: 200px
+height: 80px
 ---
 [Nintendo](consoles-nintendo) logo
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)).
@@ -760,6 +760,24 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2012-11-18)=
+## November 18, 2012
+The [Nintendo Wii U](consoles-nintendo-wii-u) is released in North America.
+
+```{figure} ../images/consoles/nintendo-wii-u-with-controller.jpg
+---
+name: fig-timeline-nintendo-wii-u-with-controller
+height: 200px
+---
+[Nintendo Wii U](consoles-nintendo-wii-u)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wii_U_Console_and_Gamepad.png)).
+Credit: [Takimata](https://commons.wikimedia.org/wiki/User:Takimata)
+```
+
+(timeline-2012-11-30)=
+## November 30, 2012
+The [Nintendo Wii U](consoles-nintendo-wii-u) is released in PAL regions.
+
 (timeline-2012-12-07)=
 ## December 7, 2012
 The [Nintendo Wii Mini](consoles-nintendo-wii-mini),
@@ -775,6 +793,10 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wii-Mini-Console-Set-H.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2012-12-08)=
+## December 8, 2012
+The [Nintendo Wii U](consoles-nintendo-wii-u) is released in Japan.
 
 (timeline-2013-03-15)=
 ## March 15, 2013

@@ -687,6 +687,21 @@ The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go), a
 ## December 12, 2009
 The [Nintendo Wii](consoles-nintendo-wii) is released in Hong Kong.
 
+(timeline-2011-10-23)=
+## October 23, 2011
+The [Nintendo RVL-101](consoles-nintendo-wii-rvl-101),
+a cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
+is released in North America.
+
+```{figure} ../images/consoles/nintendo-wii-rvl-101-with-controller.jpg
+---
+name: fig-consoles-nintendo-wii-rvl-101-with-controller
+height: 200px
+---
+[Nintendo RVL-101](consoles-nintendo-wii-rvl-101) with controller
+(from [retroplace](https://www.retroplace.com/en/games/200818--nintendo-wii)).
+```
+
 (timeline-2011-10-26)=
 ## October 26, 2011
 The [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-street), a budget-focused model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released.
@@ -700,6 +715,18 @@ Illustration of [Sony PlayStation Portable PSP Street](consoles-sony-playstation
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg)).
 Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
 ```
+
+(timeline-2011-11-04)=
+## November 4, 2011
+The [Nintendo RVL-101](consoles-nintendo-wii-rvl-101),
+a cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
+is released in Europe.
+
+(timeline-2011-11-11)=
+## November 11, 2011
+The [Nintendo RVL-101](consoles-nintendo-wii-rvl-101),
+a cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
+is released in Australia.
 
 (timeline-2011-12-17)=
 ## December 17, 2011

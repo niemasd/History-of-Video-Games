@@ -338,6 +338,25 @@ height: 200px
 (from [DKOldies](https://www.dkoldies.com/wii-system-console-only-white)).
 ```
 
+(consoles-nintendo-wii-rvl-101)=
+#### RVL-101
+A cost-reduced redesign of the [Nintendo Wii](consoles-nintendo-wii),
+named the [RVL-101](consoles-nintendo-wii-rvl-101)
+and sometime referred to as the Wii Family Edition,
+was released in North America on [October 23, 2011](timeline-2011-10-23),
+in Europe on [November 4, 2011](timeline-2011-11-04),
+and in Australia on [November 11, 2011](timeline-2011-11-11).
+It removed the GameCube controller ports and memory card slots.
+
+```{figure} ../images/consoles/nintendo-wii-rvl-101.jpg
+---
+name: fig-consoles-nintendo-wii-rvl-101
+height: 200px
+---
+[Nintendo RVL-101](consoles-nintendo-wii-rvl-101)
+(from [GameCops](https://gamecops.com/products/nintendo-wii-black-video-game-console-system-bundle-online-rvl-101-wiimote-zelda)).
+```
+
 (consoles-sony)=
 ## Sony
 [Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.

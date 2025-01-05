@@ -14,7 +14,9 @@ Nintendo Koppai, now known as [Nintendo](consoles-nintendo), is established by [
 name: fig-timeline-nintendo-headquarters-1889
 height: 200px
 ---
-The first headquarters of Nintendo Koppai, now known as [Nintendo](consoles-nintendo), in Kyoto, Japan in 1889 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_1889.jpg)). Credit: [Haiko Honten](http://www.haiko.co.jp)
+The first headquarters of Nintendo Koppai, now known as [Nintendo](consoles-nintendo), in Kyoto, Japan in 1889
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_1889.jpg)).
+Credit: [Haiko Honten](http://www.haiko.co.jp)
 ```
 
 (timeline-1933)=
@@ -38,7 +40,9 @@ Nintendo Playing Card Co., Ltd. changes its name to [Nintendo](consoles-nintendo
 name: fig-timeline-nintendo-playing-card-co-sign
 height: 200px
 ---
-The sign of Nintendo Playing Card Co., now known as [Nintendo](consoles-nintendo) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_former_headquarter_plate_Kyoto.jpg)). Credit: [Eckhard Pecher](https://commons.wikimedia.org/wiki/User:Arcimboldo)
+The sign of Nintendo Playing Card Co., now known as [Nintendo](consoles-nintendo)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_former_headquarter_plate_Kyoto.jpg)).
+Credit: [Eckhard Pecher](https://commons.wikimedia.org/wiki/User:Arcimboldo)
 ```
 
 ```{figure} ../images/logos/nintendo.jpg
@@ -46,7 +50,9 @@ The sign of Nintendo Playing Card Co., now known as [Nintendo](consoles-nintendo
 name: fig-timeline-nintendo
 height: 200px
 ---
-[Nintendo](consoles-nintendo) logo (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)). Credit: [Nintendo](http://www.nintendo.com)
+[Nintendo](consoles-nintendo) logo
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)).
+Credit: [Nintendo](http://www.nintendo.com)
 ```
 
 (timeline-1946-05-07)=
@@ -58,7 +64,10 @@ Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony), is established by [Masa
 name: fig-timeline-masaru-ibuka-akio-morita
 height: 200px
 ---
-[Mr. Morita](people-akio-morita) (age 26, then Managing Director) and [Mr. Ibuka](people-masaru-ibuka) (age 39, then Senior Managing Director) in May 1947 (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
+[Mr. Morita](people-akio-morita) (age 26, then Managing Director)
+and [Mr. Ibuka](people-masaru-ibuka) (age 39, then Senior Managing Director)
+in May 1947
+(from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
 ```
 
 ```{figure} ../images/logos/tokyo-tsushin-kogyo-sign.jpg
@@ -66,7 +75,8 @@ height: 200px
 name: fig-timeline-tokyo-tsushin-kogyo-sign
 height: 200px
 ---
-The original sign of Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony) (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/capsule/03/)).
+The original sign of Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony)
+(from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/capsule/03/)).
 ```
 
 (timeline-1958-01)=
@@ -78,12 +88,24 @@ Tokyo Tsushin Kogyo changes its name to [Sony](consoles-sony) {cite:p}`sony_hist
 name: fig-timeline-sony-history
 height: 200px
 ---
-The evolution of the [Sony](consoles-sony) logo from 1955 to 1973 (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-23.html)).
+The evolution of the [Sony](consoles-sony) logo from 1955 to 1973
+(from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-23.html)).
 ```
 
 (timeline-1972-06-27)=
 ## June 27, 1972
 [Atari](consoles-atari) is founded by [Nolan Bushnell](people-nolan-bushnell) and [Ted Dabney](people-ted-dabney).
+
+```{figure} ../images/people/atari-founders-employees.jpg
+---
+name: fig-timeline-atari-founders-employees
+height: 200px
+---
+[Atari](consoles-atari) founders and employees in 1972:
+[Ted Dabney](people-ted-dabney) (left), [Nolan Bushnell](people-nolan-bushnell), Fred Marincic, and Allan Alcorn (right)
+(from [Computer History Museum](https://www.computerhistory.org/revolution/computer-games/16/185/769)).
+Credit: Allan Alcorn
+```
 
 (timeline-1972-11-29)=
 ## November 29, 1972

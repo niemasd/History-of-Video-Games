@@ -9,9 +9,29 @@ Source Code: [`history_video_games/people.md`](https://github.com/niemasd/Histor
 ## Nolan Bushnell
 [Nolan Bushnell](people-nolan-bushnell) (born February 5, 1943) was a co-founder of [Atari](consoles-atari).
 
+```{figure} ../images/people/nolan-bushnell.jpg
+---
+name: fig-people-nolan-bushnell
+height: 200px
+---
+[Nolan Bushnell](people-nolan-bushnell)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nolan_Bushnell_2013_(3x4_cropped).jpg)).
+Credit: [Tech Cocktail](https://www.flickr.com/people/20935403@N05)
+```
+
 (people-ted-dabney)=
 ## Ted Dabney
 [Ted Dabney](people-ted-dabney) (May 2, 1937 - May 26, 2018) was a co-founder of [Atari](consoles-atari).
+
+```{figure} ../images/people/ted-dabney.jpg
+---
+name: fig-people-ted-dabney
+height: 200px
+---
+[Ted Dabney](people-ted-dabney)
+(from [YouTube](https://youtu.be/6arAY7cUa5I?si=UecMftJ3CT1as3-e)).
+Credit: [Computer History Museum](https://computerhistory.org/)
+```
 
 (people-masaru-ibuka)=
 ## Masaru Ibuka
@@ -22,7 +42,8 @@ Source Code: [`history_video_games/people.md`](https://github.com/niemasd/Histor
 name: fig-people-masaru-ibuka
 height: 200px
 ---
-Masaru Ibuka in front of Shirokiya Department Store (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
+[Masaru Ibuka](people-masaru-ibuka) in front of Shirokiya Department Store
+(from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
 ```
 
 (people-sekiryo-kaneda)=
@@ -41,7 +62,9 @@ and took the Yamauchi family name {cite:p}`gorges_1889-1980_2017`.
 name: fig-people-akio-morita
 height: 200px
 ---
-Akio Morita (from [Wikipedia](https://en.wikipedia.org/wiki/File:Morita_Akio.jpg)).
+[Akio Morita](people-akio-morita)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Morita_Akio.jpg)).
+Credit: [President Inc.](https://www.president.co.jp/)
 ```
 
 (people-fusajiro-yamauchi)=

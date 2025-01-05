@@ -116,7 +116,9 @@ The [Atari Pong](consoles-atari-pong) arcade cabinet is released in North Americ
 name: fig-timeline-atari-pong
 height: 200px
 ---
-[Atari Pong](consoles-atari-pong) arcade cabinet (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg)). Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
+[Atari Pong](consoles-atari-pong) arcade cabinet
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg)).
+Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
 ```
 
 (timeline-1973-11)=
@@ -132,7 +134,23 @@ The [Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6) is released in
 name: fig-timeline-nintendo-color-tv-game-6
 height: 200px
 ---
-[Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Color_TV_game_6_(Cut_out).jpg)). Credit: [Chapuisat](https://www.flickr.com/people/47967705@N02/)
+[Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Color_TV_game_6_(Cut_out).jpg)).
+Credit: [Chapuisat](https://www.flickr.com/people/47967705@N02/)
+```
+
+(timeline-1977-06-08)=
+## June 8, 1977
+The [Nintendo Color TV-Game 15](consoles-nintendo-color-tv-game-15) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-color-tv-game-15.jpg
+---
+name: fig-timeline-nintendo-color-tv-game-15
+height: 200px
+---
+[Nintendo Color TV-Game 15](consoles-nintendo-color-tv-game-15)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Color_TV-Game_15_(Cut_out).jpg)).
+Credit: [Greg Dunlap](https://www.flickr.com/people/74785688@N00)
 ```
 
 (timeline-1994-12-03)=
@@ -144,7 +162,9 @@ The [Sony PlayStation](consoles-sony-playstation) is released in Japan.
 name: fig-timeline-sony-playstation-with-controller-memcard
 height: 200px
 ---
-[Sony PlayStation](consoles-sony-playstation) with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation](consoles-sony-playstation) with controller and memory card
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-1995-09-09)=
@@ -164,7 +184,9 @@ The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Japan.
 name: fig-timeline-sony-playstation-2-with-controller-memcard
 height: 200px
 ---
-[Sony PlayStation 2](consoles-sony-playstation-2) with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 2](consoles-sony-playstation-2) with controller and memory card
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-30001-wController-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000-07-07)=
@@ -176,7 +198,9 @@ The [Sony PS One](consoles-sony-playstation-ps-one), a smaller redesign of the [
 name: fig-timeline-sony-playstation-ps-one-with-controller-memcard
 height: 200px
 ---
-[Sony PlayStation PS One](consoles-sony-playstation-ps-one) with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation PS One](consoles-sony-playstation-ps-one) with controller and memory card
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000-09-19)=
@@ -209,7 +233,9 @@ The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a small
 name: fig-timeline-sony-playstation-2-slimline-with-controller-memcard
 height: 200px
 ---
-[Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline) with controller and memory card (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline) with controller and memory card
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2004-11-03)=
@@ -229,7 +255,9 @@ The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released 
 name: fig-timeline-sony-playstation-portable
 height: 200px
 ---
-[Sony PlayStation Portable](consoles-sony-playstation-portable) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Psp-1000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation Portable](consoles-sony-playstation-portable)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Psp-1000.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2005-03-24)=
@@ -249,7 +277,9 @@ The [Sony PlayStation 3](consoles-sony-playstation-3) is released in Japan.
 name: fig-timeline-sony-playstation-3-with-controller
 height: 200px
 ---
-[Sony PlayStation 3](consoles-sony-playstation-3) with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 3](consoles-sony-playstation-3) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2006-11-17)=
@@ -269,7 +299,9 @@ The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000
 name: fig-timeline-sony-playstation-portable-2000
 height: 200px
 ---
-[Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-2000.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-2000.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2007-09-05)=
@@ -305,7 +337,9 @@ The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000
 name: fig-timeline-sony-playstation-portable-3000
 height: 200px
 ---
-[Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-3000-Silver.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-3000-Silver.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2008-10-16)=
@@ -329,7 +363,9 @@ The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redes
 name: fig-timeline-sony-playstation-3-slim-with-controller
 height: 200px
 ---
-[Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim) with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-2001A-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-2001A-wController-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2009-09-03)=
@@ -345,7 +381,9 @@ The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go), a
 name: fig-timeline-sony-playstation-portable-go
 height: 200px
 ---
-[Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL-Open.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP-Go-FL-Open.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2009-10-31)=
@@ -361,7 +399,9 @@ The [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-st
 name: fig-timeline-sony-playstation-portable-street
 height: 200px
 ---
-Illustration of [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-street) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg)). Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
+Illustration of [Sony PlayStation Portable PSP Street](consoles-sony-playstation-portable-street)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg)).
+Credit: [Tokyoship](https://commons.wikimedia.org/wiki/User:Tokyoship)
 ```
 
 (timeline-2011-12-17)=
@@ -373,7 +413,9 @@ The [Sony PlayStation Vita](consoles-sony-playstation-vita) is released in Japan
 name: fig-timeline-sony-playstation-vita
 height: 200px
 ---
-[Sony PlayStation Vita](consoles-sony-playstation-vita) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-1101-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation Vita](consoles-sony-playstation-vita)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-1101-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2012-02-22)=
@@ -389,7 +431,9 @@ The [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim), an 
 name: fig-timeline-sony-playstation-3-super-slim-with-controller
 height: 200px
 ---
-[Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim) with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-4001B-wController-L.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-4001B-wController-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2013-10-10)=
@@ -401,7 +445,9 @@ The [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000), a sli
 name: fig-timeline-sony-playstation-vita-2000
 height: 200px
 ---
-[Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-2001-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-Vita-2001-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2013-11-14)=
@@ -413,7 +459,9 @@ The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable con
 name: fig-timeline-sony-playstation-vita-tv
 height: 200px
 ---
-[Sony PlayStation TV](consoles-sony-playstation-vita-tv) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-TV-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation TV](consoles-sony-playstation-vita-tv)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PlayStation-TV-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2013-11-15)=
@@ -425,7 +473,9 @@ The [Sony PlayStation 4](consoles-sony-playstation-4) is released in North Ameri
 name: fig-timeline-sony-playstation-4-with-controller
 height: 200px
 ---
-[Sony PlayStation 4](consoles-sony-playstation-4) with controller (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 4](consoles-sony-playstation-4) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2013-11-29)=
@@ -465,7 +515,9 @@ The [Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim), a smaller redes
 name: fig-timeline-sony-playstation-4-slim
 height: 200px
 ---
-[Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-BL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-BL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2016-11-10)=
@@ -477,7 +529,9 @@ The [Sony PlayStation 4 Pro](consoles-sony-playstation-4-pro), an enhanced model
 name: fig-timeline-sony-playstation-4-pro
 height: 200px
 ---
-[Sony PlayStation 4 Pro](consoles-sony-playstation-4-pro) (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg)). Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 4 Pro](consoles-sony-playstation-4-pro)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2020-11-12)=
@@ -489,7 +543,9 @@ The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Di
 name: fig-timeline-sony-playstation-5-with-controller
 height: 200px
 ---
-[Sony PlayStation 5](consoles-sony-playstation-5) with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-front-with-dualsense.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+[Sony PlayStation 5](consoles-sony-playstation-5) with controller
+(from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-front-with-dualsense.webp)).
+Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 ```{figure} ../images/consoles/sony-playstation-5-digital-edition-with-controller.jpg
@@ -497,7 +553,9 @@ height: 200px
 name: fig-timeline-sony-playstation-5-digital-edition-with-controller
 height: 200px
 ---
-[Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-digital-edition-front-with-dualsense.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+[Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) with controller
+(from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-digital-edition-front-with-dualsense.webp)).
+Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 (timeline-2020-11-19)=
@@ -513,7 +571,9 @@ The [Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) and [Sony PlaySt
 name: fig-timeline-sony-playstation-5-slim-with-controller
 height: 200px
 ---
-[Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Hero-3.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+[Sony PlayStation 5 Slim](consoles-sony-playstation-5-slim) with controller
+(from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Hero-3.webp)).
+Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 ```{figure} ../images/consoles/sony-playstation-5-slim-digital-edition-with-controller.jpg
@@ -521,7 +581,9 @@ height: 200px
 name: fig-timeline-sony-playstation-5-slim-digital-edition-with-controller
 height: 200px
 ---
-[Sony PlayStation 5 Slim Digital Edition](consoles-sony-playstation-5-slim-digital-edition) with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Digital-Hero3.webp)). Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
+[Sony PlayStation 5 Slim Digital Edition](consoles-sony-playstation-5-slim-digital-edition) with controller
+(from [PlayStation Wiki](https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Digital-Hero3.webp)).
+Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 ```
 
 (timeline-2024-11-07)=
@@ -533,5 +595,7 @@ The [Sony PlayStation 5 Pro](consoles-sony-playstation-5-pro), an enhanced model
 name: fig-timeline-sony-playstation-5-pro-with-controller
 height: 200px
 ---
-[Sony PlayStation 5 Pro](consoles-sony-playstation-5-pro) with controller (from [PlayStation Wiki](https://playstation.fandom.com/wiki/PlayStation_5_Pro?file=Ps5pro.webp)). Credit: [Bruhhed guy](https://playstation.fandom.com/wiki/User:Bruhhed_guy)
+[Sony PlayStation 5 Pro](consoles-sony-playstation-5-pro) with controller
+(from [PlayStation Wiki](https://playstation.fandom.com/wiki/PlayStation_5_Pro?file=Ps5pro.webp)).
+Credit: [Bruhhed guy](https://playstation.fandom.com/wiki/User:Bruhhed_guy)
 ```

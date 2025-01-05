@@ -61,10 +61,24 @@ height: 200px
 Credit: [Nintendo](http://www.nintendo.com)
 ```
 
+(consoles-nintendo-color-tv-game)=
+### Color TV-Game
+The [Nintendo Color TV-Game](consoles-nintendo-color-tv-game) is a series of video game consoles developed by [Nintendo](consoles-nintendo).
+
+```{figure} ../images/logos/nintendo-color-tv-game.jpg
+---
+name: fig-consoles-nintendo-color-tv-game
+height: 80px
+---
+[Nintendo Color TV-Game](consoles-nintendo-color-tv-game) logo
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Color_TV_Game_logo.svg)).
+Credit: [Nintendo](http://www.nintendo.com)
+```
+
 (consoles-nintendo-color-tv-game-6)=
-### Color TV-Game 6
+#### Color TV-Game 6
 The [Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6) is a video game console developed by [Nintendo](consoles-nintendo).
-It had 6 variations of [Pong](consoles-atari-pong):
+It has 6 variations of [Pong](consoles-atari-pong):
 Tennis, Hockey, and Volleyball in Singles or Doubles mode.
 It was released in Japan on [June 1, 1977](timeline-1977-06-01).
 
@@ -79,9 +93,9 @@ Credit: [Chapuisat](https://www.flickr.com/people/47967705@N02/)
 ```
 
 (consoles-nintendo-color-tv-game-15)=
-### Color TV-Game 15
+#### Color TV-Game 15
 The [Nintendo Color TV-Game 15](consoles-nintendo-color-tv-game-15) is a video game console developed by [Nintendo](consoles-nintendo).
-It had 15 variations of [Pong](consoles-atari-pong).
+It has 15 variations of [Pong](consoles-atari-pong).
 It was released in Japan on [June 8, 1977](timeline-1977-06-08).
 
 ```{figure} ../images/consoles/nintendo-color-tv-game-15.jpg
@@ -92,6 +106,53 @@ height: 200px
 [Nintendo Color TV-Game 15](consoles-nintendo-color-tv-game-15)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Color_TV-Game_15_(Cut_out).jpg)).
 Credit: [Greg Dunlap](https://www.flickr.com/people/74785688@N00)
+```
+
+(consoles-nintendo-color-tv-game-racing-112)=
+#### Color TV-Game Racing 112
+The [Nintendo Color TV-Game Racing 112](consoles-nintendo-color-tv-game-racing-112) is a video game console developed by [Nintendo](consoles-nintendo).
+It has a racing game.
+It was released in Japan on [June 8, 1978](timeline-1978-06-08).
+
+```{figure} ../images/consoles/nintendo-color-tv-game-racing-112.jpg
+---
+name: fig-consoles-nintendo-color-tv-game-racing-112
+height: 200px
+---
+[Nintendo Color TV-Game Racing 112](consoles-nintendo-color-tv-game-racing-112)
+(from [Centre for Computing History](https://www.computinghistory.org.uk/det/58228/Color-TV-Game-Racing-112/)).
+```
+
+(consoles-nintendo-color-tv-game-block-breaker)=
+#### Color TV-Game Block Breaker
+The [Nintendo Color TV-Game Block Breaker](consoles-nintendo-color-tv-game-block-breaker) is a video game console developed by [Nintendo](consoles-nintendo).
+It has a game based on Breakout.
+It was released in Japan on [April 23, 1979](timeline-1979-04-23).
+
+```{figure} ../images/consoles/nintendo-color-tv-game-block-breaker.jpg
+---
+name: fig-consoles-nintendo-color-tv-game-block-breaker
+height: 200px
+---
+[Nintendo Color TV-Game Block Breaker](consoles-nintendo-color-tv-game-block-breaker)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Color-TV-Game-Blockbreaker-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-computer-tv-game)=
+#### Computer TV-Game
+The [Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game) is a video game console developed by [Nintendo](consoles-nintendo).
+It has an Othello game.
+It was released in Japan on [December 12, 1980](timeline-1980-12-12).
+
+```{figure} ../images/consoles/nintendo-computer-tv-game.jpg
+---
+name: fig-consoles-nintendo-computer-tv-game
+height: 200px
+---
+[Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-TV-Game-Computer.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-sony)=

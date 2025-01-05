@@ -153,6 +153,47 @@ height: 200px
 Credit: [Greg Dunlap](https://www.flickr.com/people/74785688@N00)
 ```
 
+(timeline-1978-06-08)=
+## June 8, 1978
+The [Nintendo Color TV-Game Racing 112](consoles-nintendo-color-tv-game-racing-112) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-color-tv-game-racing-112.jpg
+---
+name: fig-timeline-nintendo-color-tv-game-racing-112
+height: 200px
+---
+[Nintendo Color TV-Game Racing 112](consoles-nintendo-color-tv-game-racing-112)
+(from [Centre for Computing History](https://www.computinghistory.org.uk/det/58228/Color-TV-Game-Racing-112/)).
+```
+
+(timeline-1979-04-23)=
+## April 23, 1979
+The [Nintendo Color TV-Game Block Breaker](consoles-nintendo-color-tv-game-block-breaker) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-color-tv-game-block-breaker.jpg
+---
+name: fig-timeline-nintendo-color-tv-game-block-breaker
+height: 200px
+---
+[Nintendo Color TV-Game Block Breaker](consoles-nintendo-color-tv-game-block-breaker)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Color-TV-Game-Blockbreaker-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1980-12-12)=
+## December 12, 1980
+The [Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-computer-tv-game.jpg
+---
+name: fig-timeline-nintendo-computer-tv-game
+height: 200px
+---
+[Nintendo Computer TV-Game](consoles-nintendo-computer-tv-game)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-TV-Game-Computer.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1994-12-03)=
 ## December 3, 1994
 The [Sony PlayStation](consoles-sony-playstation) is released in Japan.

@@ -483,8 +483,7 @@ name: fig-consoles-sony-playstation-4-slim
 height: 200px
 ---
 [Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-BL.jpg)).
-Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+(from [Amazon](https://www.amazon.com/PS4-Slim-PlayStation-4/dp/B01GVQVQH2)).
 ```
 
 (consoles-sony-playstation-4-pro)=

@@ -551,14 +551,13 @@ The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable con
 ## September 15, 2016
 The [Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim), a smaller redesign of the [Sony PlayStation 4](consoles-sony-playstation-4), is released.
 
-```{figure} ../images/consoles/sony-playstation-4-slim.jpg
+```{figure} ../images/consoles/sony-playstation-4-slim-with-controller.jpg
 ---
-name: fig-timeline-sony-playstation-4-slim
+name: fig-timeline-sony-playstation-4-slim-with-controller
 height: 200px
 ---
-[Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-BL.jpg)).
-Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+[Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim) with controller
+(from [GameStop](https://www.gamestop.com/consoles-hardware/playstation-4/consoles/products/sony-playstation-4-slim-console-black-1tb/10147719-10147719.html)).
 ```
 
 (timeline-2016-11-10)=

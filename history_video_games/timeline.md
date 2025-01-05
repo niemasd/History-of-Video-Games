@@ -350,6 +350,28 @@ The [Sony PlayStation](consoles-sony-playstation) is released in North America.
 ## September 29, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in Europe.
 
+(timeline-1996-06-23)=
+## June 23, 1996
+The [Nintendo 64](consoles-nintendo-64) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-64-with-controller.jpg
+---
+name: fig-timeline-nintendo-64-with-controller
+height: 200px
+---
+[Nintendo 64](consoles-nintendo-64) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-64-wController-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1996-09-29)=
+## September 29, 1996
+The [Nintendo 64](consoles-nintendo-64) is released in North America.
+
+(timeline-1997-03-01)=
+## March 1, 1997
+The [Nintendo 64](consoles-nintendo-64) is released in Australia and Europe.
+
 (timeline-1997-10-20)=
 ## October 20, 1997
 The [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101),

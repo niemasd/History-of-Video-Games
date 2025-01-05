@@ -282,6 +282,23 @@ Japanese [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101)
 (from [Centre for Computing History](https://www.computinghistory.org.uk/det/43039/Nintendo-Super-Famicom-Jr/)).
 ```
 
+(consoles-nintendo-64)=
+### Nintendo 64
+The [Nintendo 64](consoles-nintendo-64) (N64) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [June 23, 1996](timeline-1996-06-23),
+in North America on [September 29, 1996](timeline-1996-09-29),
+and in Australia and Europe on [March 1, 1997](timeline-1997-03-01).
+
+```{figure} ../images/consoles/nintendo-64.jpg
+---
+name: fig-consoles-nintendo-64
+height: 200px
+---
+[Nintendo 64](consoles-nintendo-64)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-64-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony)=
 ## Sony
 [Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.

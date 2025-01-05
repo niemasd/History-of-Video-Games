@@ -194,6 +194,20 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1983-07-15)=
+## July 15, 1983
+The [Nintendo Family Computer](consoles-nintendo-family-computer) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-family-computer-with-controller.jpg
+---
+name: fig-consoles-nintendo-family-computer-with-controller
+height: 200px
+---
+[Nintendo Family Computer](consoles-nintendo-family-computer) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Famicom-Console-Set-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1994-12-03)=
 ## December 3, 1994
 The [Sony PlayStation](consoles-sony-playstation) is released in Japan.

@@ -155,6 +155,21 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-family-computer)=
+### Family Computer
+The [Nintendo Family Computer](consoles-nintendo-family-computer) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [July 15, 1983](timeline-1983-07-15).
+
+```{figure} ../images/consoles/nintendo-family-computer.jpg
+---
+name: fig-consoles-nintendo-family-computer
+height: 200px
+---
+[Nintendo Family Computer](consoles-nintendo-family-computer)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Famicom-Console-Bare-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-sony)=
 ## Sony
 [Sony](consoles-sony) is a Japanese multinational conglomerate headquartered in Minato, Tokyo.

@@ -216,7 +216,7 @@ is released in North America.
 
 ```{figure} ../images/consoles/nintendo-family-computer-nintendo-entertainment-system-with-controller.jpg
 ---
-name: fig-timeline-nintendo-family-computer-nintendo-entertainment-system
+name: fig-timeline-nintendo-family-computer-nintendo-entertainment-system-with-controller
 height: 200px
 ---
 [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system) with controller
@@ -235,6 +235,38 @@ is released in Scandinavia.
 The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system),
 a redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
 is released in Europe.
+
+(timeline-1993-10-15)=
+## October 15, 1993
+The [Nintendo NES-101](consoles-nintendo-family-computer-nes-101),
+a top-loading redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
+is released in North America.
+
+```{figure} ../images/consoles/nintendo-family-computer-nes-101-usa-with-controller.jpg
+---
+name: fig-timeline-nintendo-family-computer-nes-101-usa-with-controller
+height: 200px
+---
+North American [Nintendo NES-101](consoles-nintendo-family-computer-nes-101) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NES-101-Console-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1993-12-01)=
+## December 1, 1993
+The [Nintendo NES-101](consoles-nintendo-family-computer-nes-101),
+a top-loading redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
+is released in Japan as the New Famicom.
+
+```{figure} ../images/consoles/nintendo-family-computer-nes-101-jpn.jpg
+---
+name: fig-timeline-nintendo-family-computer-nes-101-jpn
+height: 200px
+---
+Japanese [Nintendo NES-101](consoles-nintendo-family-computer-nes-101)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-AV-Famicom-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (timeline-1994-12-03)=
 ## December 3, 1994

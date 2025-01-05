@@ -157,7 +157,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-family-computer)=
 ### Family Computer
-The [Nintendo Family Computer](consoles-nintendo-family-computer) is a video game console developed by [Nintendo](consoles-nintendo).
+The [Nintendo Family Computer](consoles-nintendo-family-computer) (Famicom) is a video game console developed by [Nintendo](consoles-nintendo).
 It was released in Japan on [July 15, 1983](timeline-1983-07-15).
 
 ```{figure} ../images/consoles/nintendo-family-computer.jpg
@@ -173,7 +173,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (consoles-nintendo-family-computer-nintendo-entertainment-system)=
 #### Nintendo Entertainment System
 The [Nintendo Family Computer](consoles-nintendo-family-computer) was redesigned and released outside of Japan as
-the [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system).
+the [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system) (NES).
 It was released in North America on [October 18, 1985](timeline-1985-10-18),
 in Scandinavia on [September 1986](timeline-1986-09),
 and in Europe throughout [1987](timeline-1987).
@@ -188,9 +188,34 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
-(consoles-nintendo-family-computer-top-loader)=
-#### Top Loader
-TODO
+(consoles-nintendo-family-computer-nes-101)=
+#### NES-101
+A top-loading redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
+named the [NES-101](consoles-nintendo-family-computer-nes-101),
+was released in North America on [October 15, 1993](timeline-1993-10-15),
+and in Japan on [December 1, 1993](timeline-1993-12-01).
+It was also known as the New-style NES, the New NES, and the Top Loader,
+and it was officially called the New Famicom in Japan.
+
+```{figure} ../images/consoles/nintendo-family-computer-nes-101-usa.jpg
+---
+name: fig-consoles-nintendo-family-computer-nes-101-usa
+height: 200px
+---
+North American [Nintendo NES-101](consoles-nintendo-family-computer-nes-101)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-NES-TL-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+```{figure} ../images/consoles/nintendo-family-computer-nes-101-jpn.jpg
+---
+name: fig-consoles-nintendo-family-computer-nes-101-jpn
+height: 200px
+---
+Japanese [Nintendo NES-101](consoles-nintendo-family-computer-nes-101)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-AV-Famicom-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-sony)=
 ## Sony

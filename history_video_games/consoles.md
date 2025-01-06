@@ -251,13 +251,92 @@ height: 200px
 Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 ```
 
+(consoles-nintendo-game-and-watch-silver-judge)=
+##### Judge
+[Judge](consoles-nintendo-game-and-watch-silver-judge)
+is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
+It was released on [October 4, 1980](timeline-1980-10-04).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-judge.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-silver-judge
+height: 200px
+---
+[Nintendo Game & Watch Silver: Judge](consoles-nintendo-game-and-watch-silver-judge), purple and green versions
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JudgeGameandWatch.jpg)).
+Credit: IsaMill
+```
+
 (consoles-nintendo-game-and-watch-gold)=
 #### Gold
 [Gold](consoles-nintendo-game-and-watch-gold) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
 
+(consoles-nintendo-game-and-watch-gold-manhole)=
+##### Manhole
+[Manhole](consoles-nintendo-game-and-watch-gold-manhole)
+is a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series.
+It was released on [January 29, 1981](timeline-1981-01-29).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-gold-manhole.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-gold-manhole
+height: 200px
+---
+[Nintendo Game & Watch Gold: Manhole](consoles-nintendo-game-and-watch-gold-manhole)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manhole_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
+```
+
+(consoles-nintendo-game-and-watch-gold-helmet)=
+##### Helmet
+[Helmet](consoles-nintendo-game-and-watch-gold-helmet), known as Headache in the United Kingdom,
+is a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series.
+It was released on [February 21, 1981](timeline-1981-02-21).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-gold-helmet.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-gold-helmet
+height: 200px
+---
+[Nintendo Game & Watch Gold: Helmet](consoles-nintendo-game-and-watch-gold-helmet)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Helmet_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Jesmar](https://commons.wikimedia.org/wiki/User:Jesmar)
+```
+
+(consoles-nintendo-game-and-watch-gold-lion)=
+##### Lion
+[Lion](consoles-nintendo-game-and-watch-gold-lion)
+is a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series.
+It was released on [April 29, 1981](timeline-1981-04-29).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-gold-lion.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-gold-lion
+height: 200px
+---
+[Nintendo Game & Watch Gold: Lion](consoles-nintendo-game-and-watch-gold-lion)
+(from [eBay](https://www.ebay.com/itm/394312160207)).
+```
+
 (consoles-nintendo-game-and-watch-wide-screen)=
 #### Wide Screen
 [Wide Screen](consoles-nintendo-game-and-watch-wide-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-wide-screen-parachute)=
+##### Parachute
+[Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute)
+is a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series.
+It was released on [June 19, 1981](timeline-1981-06-19).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-parachute.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-wide-screen-parachute
+height: 200px
+---
+[Nintendo Game & Watch Wide Screen: Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_and_watch_parachute.JPG)).
+Credit: Orlando105
+```
 
 (consoles-nintendo-game-and-watch-vertical-multi-screen)=
 #### Vertical Multi Screen

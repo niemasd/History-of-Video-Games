@@ -265,6 +265,22 @@ height: 200px
 Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 ```
 
+(timeline-1980-10-04)=
+### October 4, 1980
+[Judge](consoles-nintendo-game-and-watch-silver-judge),
+a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-judge.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-silver-judge
+height: 200px
+---
+[Nintendo Game & Watch Silver: Judge](consoles-nintendo-game-and-watch-silver-judge), purple and green versions
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JudgeGameandWatch.jpg)).
+Credit: IsaMill
+```
+
 (timeline-1980-12-12)=
 ### December 12, 1980
 The [Nintendo Computer TV-Game](consoles-nintendo-color-tv-game-computer-tv-game) is released in Japan.
@@ -277,6 +293,69 @@ height: 200px
 [Nintendo Computer TV-Game](consoles-nintendo-color-tv-game-computer-tv-game)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-TV-Game-Computer.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1981-01-29)=
+### January 29, 1981
+[Manhole](consoles-nintendo-game-and-watch-gold-manhole),
+a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-gold-manhole.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-gold-manhole
+height: 200px
+---
+[Nintendo Game & Watch Gold: Manhole](consoles-nintendo-game-and-watch-gold-manhole)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manhole_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
+```
+
+(timeline-1981-02-21)=
+### February 21, 1981
+[Helmet](consoles-nintendo-game-and-watch-gold-helmet), known as Headache in the United Kingdom,
+a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-gold-helmet.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-gold-helmet
+height: 200px
+---
+[Nintendo Game & Watch Gold: Helmet](consoles-nintendo-game-and-watch-gold-helmet)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Helmet_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Jesmar](https://commons.wikimedia.org/wiki/User:Jesmar)
+```
+
+(timeline-1981-04-29)=
+### April 29, 1981
+[Lion](consoles-nintendo-game-and-watch-gold-lion),
+a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-gold-lion.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-gold-lion
+height: 200px
+---
+[Nintendo Game & Watch Gold: Lion](consoles-nintendo-game-and-watch-gold-lion)
+(from [eBay](https://www.ebay.com/itm/394312160207)).
+```
+
+(timeline-1981-06-19)=
+### June 19, 1981
+[Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute),
+a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-parachute.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-wide-screen-parachute
+height: 200px
+---
+[Nintendo Game & Watch Wide Screen: Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_and_watch_parachute.JPG)).
+Credit: Orlando105
 ```
 
 (timeline-1983-07-15)=
@@ -346,7 +425,7 @@ is released in North America.
 
 ```{figure} ../images/consoles/nintendo-super-famicom-super-nintendo-entertainment-system-with-controller.jpg
 ---
-name: fig-consoles-nintendo-super-famicom-super-nintendo-entertainment-system-with-controller
+name: fig-timeline-nintendo-super-famicom-super-nintendo-entertainment-system-with-controller
 height: 200px
 ---
 [Super Nintendo Entertainment System](consoles-nintendo-super-famicom-super-nintendo-entertainment-system) with controller
@@ -468,7 +547,7 @@ is released in North America.
 
 ```{figure} ../images/consoles/nintendo-super-famicom-sns-101-usa-with-controller.jpg
 ---
-name: fig-consoles-nintendo-super-famicom-sns-101-usa-with-controller
+name: fig-timeline-nintendo-super-famicom-sns-101-usa-with-controller
 height: 200px
 ---
 North American [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101) with controller
@@ -484,7 +563,7 @@ is released in Japan.
 
 ```{figure} ../images/consoles/nintendo-super-famicom-sns-101-jpn-with-controller.jpg
 ---
-name: fig-consoles-nintendo-super-famicom-sns-101-jpn-with-controller
+name: fig-timeline-nintendo-super-famicom-sns-101-jpn-with-controller
 height: 200px
 ---
 Japanese [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101) with controller
@@ -550,7 +629,7 @@ The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Japan.
 
 ```{figure} ../images/consoles/nintendo-gamecube-with-controller-memcard.jpg
 ---
-name: fig-consoles-nintendo-gamecube-with-controller-memcard
+name: fig-timeline-nintendo-gamecube-with-controller-memcard
 height: 200px
 ---
 [Nintendo GameCube](consoles-nintendo-gamecube) with controller and memory card
@@ -805,7 +884,7 @@ is released in North America.
 
 ```{figure} ../images/consoles/nintendo-wii-family-edition-with-controller.jpg
 ---
-name: fig-consoles-nintendo-wii-family-edition-with-controller
+name: fig-timeline-nintendo-wii-family-edition-with-controller
 height: 200px
 ---
 [Nintendo Wii Family Edition](consoles-nintendo-wii-family-edition) with controller

@@ -175,7 +175,7 @@ Credit: [Nintendo](http://www.nintendo.com)
 
 (consoles-nintendo-game-and-watch-silver-ball)=
 ##### Ball
-[Ball](consoles-nintendo-game-and-watch-silver-ball), also known as Toss-Up in North America,
+[Ball](consoles-nintendo-game-and-watch-silver-ball), known as Toss-Up in North America,
 is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
 It was released on [April 28, 1980](timeline-1980-04-28).
 
@@ -205,7 +205,7 @@ Credit: [masatsu](https://flickr.com/photos/masatsu)
 
 (consoles-nintendo-game-and-watch-silver-flagman)=
 ##### Flagman
-[Flagman](consoles-nintendo-game-and-watch-silver-flagman), also known as Flag Man in North America,
+[Flagman](consoles-nintendo-game-and-watch-silver-flagman), known as Flag Man in North America,
 is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
 It was released on [June 5, 1980](timeline-1980-06-05).
 
@@ -217,6 +217,38 @@ height: 200px
 [Nintendo Game & Watch Silver: Flagman](consoles-nintendo-game-and-watch-silver-flagman)
 (from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Game_and_Watch_-_FLAGMAN.jpg)).
 Credit: [Captaine06](https://commons.wikimedia.org/wiki/User:Captaine06)
+```
+
+(consoles-nintendo-game-and-watch-silver-vermin)=
+##### Vermin
+[Vermin](consoles-nintendo-game-and-watch-silver-vermin), known as The Exterminator in North America,
+is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
+It was released on [July 10, 1980](timeline-1980-07-10).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-vermin.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-silver-vermin
+height: 200px
+---
+[Nintendo Game & Watch Silver: Vermin](consoles-nintendo-game-and-watch-silver-vermin)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vermin_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
+```
+
+(consoles-nintendo-game-and-watch-silver-fire)=
+##### Fire
+[Fire](consoles-nintendo-game-and-watch-silver-fire), known as Fireman Fireman in North America,
+is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
+It was released on [July 31, 1980](timeline-1980-07-31).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-fire.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-silver-fire
+height: 200px
+---
+[Nintendo Game & Watch Silver: Fire](consoles-nintendo-game-and-watch-silver-fire)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fire_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 ```
 
 (consoles-nintendo-game-and-watch-gold)=

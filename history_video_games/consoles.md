@@ -177,7 +177,7 @@ Credit: [Nintendo](http://www.nintendo.com)
 ##### Ball
 [Ball](consoles-nintendo-game-and-watch-silver-ball), also known as Toss-Up in North America,
 is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
-It was released in Japan on [April 28, 1980](timeline-1980-04-28).
+It was released on [April 28, 1980](timeline-1980-04-28).
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball.jpg
 ---
@@ -201,6 +201,22 @@ height: 200px
 [Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball) Club Nintendo reissue
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-and-watch-ball.png)).
 Credit: [masatsu](https://flickr.com/photos/masatsu)
+```
+
+(consoles-nintendo-game-and-watch-silver-flagman)=
+##### Flagman
+[Flagman](consoles-nintendo-game-and-watch-silver-flagman), also known as Flag Man in North America,
+is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
+It was released on [June 5, 1980](timeline-1980-06-05).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-flagman.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-silver-flagman
+height: 200px
+---
+[Nintendo Game & Watch Silver: Flagman](consoles-nintendo-game-and-watch-silver-flagman)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Game_and_Watch_-_FLAGMAN.jpg)).
+Credit: [Captaine06](https://commons.wikimedia.org/wiki/User:Captaine06)
 ```
 
 (consoles-nintendo-game-and-watch-gold)=

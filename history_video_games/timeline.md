@@ -184,7 +184,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ## April 28, 1980
 [Ball](consoles-nintendo-game-and-watch-silver-ball),
 a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
-is released in Japan.
+is released.
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball.jpg
 ---
@@ -194,6 +194,22 @@ height: 200px
 [Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_%26_Watch_Ball.jpg)).
 Credit: Joshua Murphy
+```
+
+(timeline-1980-06-05)=
+## June 5, 1980
+[Flagman](consoles-nintendo-game-and-watch-silver-flagman),
+a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-flagman.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-silver-flagman
+height: 200px
+---
+[Nintendo Game & Watch Silver: Flagman](consoles-nintendo-game-and-watch-silver-flagman)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Game_and_Watch_-_FLAGMAN.jpg)).
+Credit: [Captaine06](https://commons.wikimedia.org/wiki/User:Captaine06)
 ```
 
 (timeline-1980-12-12)=

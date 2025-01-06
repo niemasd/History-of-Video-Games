@@ -169,6 +169,84 @@ height: 200px
 Credit: [Nintendo](http://www.nintendo.com)
 ```
 
+(consoles-nintendo-game-and-watch-silver)=
+#### Silver
+[Silver](consoles-nintendo-game-and-watch-silver) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-silver-ball)=
+##### Ball
+[Ball](consoles-nintendo-game-and-watch-silver-ball), also known as Toss-Up in North America,
+is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
+It was released in Japan on [April 28, 1980](timeline-1980-04-28).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-silver-ball
+height: 200px
+---
+[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_%26_Watch_Ball.jpg)).
+Credit: Joshua Murphy
+```
+
+To celebrate the 30th anniversary of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+it was reissued on [April 1, 2010](timeline-2010-04-01)
+via Club Nintendo.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball-club-nintendo.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-silver-ball-club-nintendo
+height: 200px
+---
+[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball) Club Nintendo reissue
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-and-watch-ball.png)).
+Credit: [masatsu](https://flickr.com/photos/masatsu)
+```
+
+(consoles-nintendo-game-and-watch-gold)=
+#### Gold
+[Gold](consoles-nintendo-game-and-watch-gold) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-wide-screen)=
+#### Wide Screen
+[Wide Screen](consoles-nintendo-game-and-watch-wide-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-vertical-multi-screen)=
+#### Vertical Multi Screen
+[Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-horizontal-multi-screen)=
+#### Horizontal Multi Screen
+[Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-new-wide-screen)=
+#### New Wide Screen
+[New Wide Screen](consoles-nintendo-game-and-watch-new-wide-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-table-top)=
+#### Table Top
+[Table Top](consoles-nintendo-game-and-watch-table-top) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-panorama)=
+#### Panorama
+[Panorama](consoles-nintendo-game-and-watch-panorama) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-super-color)=
+#### Super Color
+[Super Color](consoles-nintendo-game-and-watch-super-color) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-micro-vs-system)=
+#### Micro Vs. System
+[Micro Vs. System](consoles-nintendo-game-and-watch-micro-vs-system) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-crystal-screen)=
+#### Crystal Screen
+[Crystal Screen](consoles-nintendo-game-and-watch-crystal-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+(consoles-nintendo-game-and-watch-special-edition-color-screen)=
+#### Special Edition Color Screen
+[Special Edition Color Screen](consoles-nintendo-game-and-watch-special-edition-color-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
 (consoles-nintendo-family-computer)=
 ### Family Computer
 The [Nintendo Family Computer](consoles-nintendo-family-computer) (Famicom) is a video game console developed by [Nintendo](consoles-nintendo).

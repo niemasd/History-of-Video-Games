@@ -180,6 +180,22 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1980-04-28)=
+## April 28, 1980
+[Ball](consoles-nintendo-game-and-watch-silver-ball),
+a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-silver-ball
+height: 200px
+---
+[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_%26_Watch_Ball.jpg)).
+Credit: Joshua Murphy
+```
+
 (timeline-1980-12-12)=
 ## December 12, 1980
 The [Nintendo Computer TV-Game](consoles-nintendo-color-tv-game-computer-tv-game) is released in Japan.
@@ -686,6 +702,22 @@ The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go), a
 (timeline-2009-12-12)=
 ## December 12, 2009
 The [Nintendo Wii](consoles-nintendo-wii) is released in Hong Kong.
+
+(timeline-2010-04-01)=
+## April 1, 2010
+[Ball](consoles-nintendo-game-and-watch-silver-ball),
+a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
+is reissued via Club Nintendo to celebrate the 30th anniversary of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball-club-nintendo.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-silver-ball-club-nintendo
+height: 200px
+---
+[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball) Club Nintendo reissue
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-and-watch-ball.png)).
+Credit: [masatsu](https://flickr.com/photos/masatsu)
+```
 
 (timeline-2011-10-23)=
 ## October 23, 2011

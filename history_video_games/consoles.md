@@ -338,6 +338,38 @@ height: 200px
 Credit: Orlando105
 ```
 
+(consoles-nintendo-game-and-watch-wide-screen-octopus)=
+##### Octopus
+[Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus)
+is a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series.
+It was released on [July 16, 1981](timeline-1981-07-16).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-octopus.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-wide-screen-octopus
+height: 200px
+---
+[Nintendo Game & Watch Wide Screen: Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Octopus_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Christoph Bauer](https://www.flickr.com/people/h34dy/)
+```
+
+(consoles-nintendo-game-and-watch-wide-screen-popeye)=
+##### Popeye
+[Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye)
+is a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series.
+It was released on [August 5, 1981](timeline-1981-08-05).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-popeye.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-wide-screen-popeye
+height: 200px
+---
+[Nintendo Game & Watch Wide Screen: Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Popeye_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi/)
+```
+
 (consoles-nintendo-game-and-watch-vertical-multi-screen)=
 #### Vertical Multi Screen
 [Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).

@@ -358,6 +358,38 @@ height: 200px
 Credit: Orlando105
 ```
 
+(timeline-1981-07-16)=
+### July 16, 1981
+[Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus),
+a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-octopus.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-wide-screen-octopus
+height: 200px
+---
+[Nintendo Game & Watch Wide Screen: Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Octopus_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Christoph Bauer](https://www.flickr.com/people/h34dy/)
+```
+
+(timeline-1981-08-05)=
+### August 5, 1981
+[Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye),
+a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-popeye.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-wide-screen-popeye
+height: 200px
+---
+[Nintendo Game & Watch Wide Screen: Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Popeye_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi/)
+```
+
 (timeline-1983-07-15)=
 ### July 15, 1983
 The [Nintendo Family Computer](consoles-nintendo-family-computer) is released in Japan.

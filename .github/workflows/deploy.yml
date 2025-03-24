@@ -46,13 +46,13 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
+        id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
           path: 'history_video_games/_build/html'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
       - name: Generate release tag
         id: tag
         run: |

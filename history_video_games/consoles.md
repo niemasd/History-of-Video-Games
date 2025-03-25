@@ -171,7 +171,7 @@ Credit: [Nintendo](http://www.nintendo.com)
 
 (consoles-nintendo-game-and-watch-silver)=
 #### Silver
-[Silver](consoles-nintendo-game-and-watch-silver) is the first series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Silver](consoles-nintendo-game-and-watch-silver) is the 1st series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
 Its first game, *Ball* (known as *Toss-Up* in North America),
 was released on [April 28, 1980](timeline-1980-04-28).
 
@@ -187,7 +187,7 @@ Credit: Joshua Murphy
 
 (consoles-nintendo-game-and-watch-gold)=
 #### Gold
-[Gold](consoles-nintendo-game-and-watch-gold) is the second series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Gold](consoles-nintendo-game-and-watch-gold) is the 2nd series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
 It added alarm clock functionality, static color backgrounds, and a built-in wire loop stand.
 Its first game, *Manhole*, was released on [January 29, 1981](timeline-1981-01-29).
 
@@ -203,7 +203,7 @@ Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 
 (consoles-nintendo-game-and-watch-wide-screen)=
 #### Wide Screen
-[Wide Screen](consoles-nintendo-game-and-watch-wide-screen) is the third series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Wide Screen](consoles-nintendo-game-and-watch-wide-screen) is the 3rd series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
 It introduced a 30% larger LCD panel in a slightly wider form factor.
 Its first game, *Parachute*, was released on [June 19, 1981](timeline-1981-06-19).
 
@@ -219,7 +219,19 @@ Credit: Orlando105
 
 (consoles-nintendo-game-and-watch-vertical-multi-screen)=
 #### Vertical Multi Screen
-[Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen) is the 4th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It included two LCD panels in a vertical folding clamshell unit.
+Its first game, *Oil Panic*, was released on [May 28, 1982](timeline-1982-05-28).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-vertical-multi-screen.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-vertical-multi-screen
+height: 200px
+---
+[Nintendo Game & Watch Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oil_Panic_-_Game%26watch_-_Nintendo.jpg)).
+Credit: [babbagecabbage](https://www.flickr.com/people/babbagecabbage)
+```
 
 (consoles-nintendo-game-and-watch-horizontal-multi-screen)=
 #### Horizontal Multi Screen

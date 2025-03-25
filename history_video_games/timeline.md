@@ -204,7 +204,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (timeline-1980-04-28)=
 ### April 28, 1980
 The [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
-the first series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+the 1st series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
 is released.
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-silver.jpg
@@ -234,7 +234,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (timeline-1981-01-29)=
 ### January 29, 1981
 The [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
-the second series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+the 2nd series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
 is released.
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-gold.jpg
@@ -250,7 +250,7 @@ Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 (timeline-1981-06-19)=
 ### June 19, 1981
 The [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
-the third series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+the 3rd series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
 is released.
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen.jpg
@@ -261,6 +261,22 @@ height: 200px
 [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_and_watch_parachute.JPG)).
 Credit: Orlando105
+```
+
+(timeline-1982-05-28)=
+### May 28, 1982
+The [Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen) series,
+the 4th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-vertical-multi-screen.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-vertical-multi-screen
+height: 200px
+---
+[Nintendo Game & Watch Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oil_Panic_-_Game%26watch_-_Nintendo.jpg)).
+Credit: [babbagecabbage](https://www.flickr.com/people/babbagecabbage)
 ```
 
 (timeline-1983-07-15)=

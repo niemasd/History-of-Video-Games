@@ -171,203 +171,50 @@ Credit: [Nintendo](http://www.nintendo.com)
 
 (consoles-nintendo-game-and-watch-silver)=
 #### Silver
-[Silver](consoles-nintendo-game-and-watch-silver) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Silver](consoles-nintendo-game-and-watch-silver) is the first series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+Its first game, *Ball* (known as *Toss-Up* in North America),
+was released on [April 28, 1980](timeline-1980-04-28).
 
-(consoles-nintendo-game-and-watch-silver-ball)=
-##### Ball
-[Ball](consoles-nintendo-game-and-watch-silver-ball), known as Toss-Up in North America,
-is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
-It was released on [April 28, 1980](timeline-1980-04-28).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball.jpg
+```{figure} ../images/consoles/nintendo-game-and-watch-silver.jpg
 ---
-name: fig-consoles-nintendo-game-and-watch-silver-ball
+name: fig-consoles-nintendo-game-and-watch-silver
 height: 200px
 ---
-[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball)
+[Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_%26_Watch_Ball.jpg)).
 Credit: Joshua Murphy
 ```
 
-To celebrate the 30th anniversary of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
-it was reissued on [April 1, 2010](timeline-2010-04-01)
-via Club Nintendo.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball-club-nintendo.jpg
----
-name: fig-consoles-nintendo-game-and-watch-silver-ball-club-nintendo
-height: 200px
----
-[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball) Club Nintendo reissue
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-and-watch-ball.png)).
-Credit: [masatsu](https://flickr.com/photos/masatsu)
-```
-
-(consoles-nintendo-game-and-watch-silver-flagman)=
-##### Flagman
-[Flagman](consoles-nintendo-game-and-watch-silver-flagman), known as Flag Man in North America,
-is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
-It was released on [June 5, 1980](timeline-1980-06-05).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-flagman.jpg
----
-name: fig-consoles-nintendo-game-and-watch-silver-flagman
-height: 200px
----
-[Nintendo Game & Watch Silver: Flagman](consoles-nintendo-game-and-watch-silver-flagman)
-(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Game_and_Watch_-_FLAGMAN.jpg)).
-Credit: [Captaine06](https://commons.wikimedia.org/wiki/User:Captaine06)
-```
-
-(consoles-nintendo-game-and-watch-silver-vermin)=
-##### Vermin
-[Vermin](consoles-nintendo-game-and-watch-silver-vermin), known as The Exterminator in North America,
-is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
-It was released on [July 10, 1980](timeline-1980-07-10).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-vermin.jpg
----
-name: fig-consoles-nintendo-game-and-watch-silver-vermin
-height: 200px
----
-[Nintendo Game & Watch Silver: Vermin](consoles-nintendo-game-and-watch-silver-vermin)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vermin_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
-```
-
-(consoles-nintendo-game-and-watch-silver-fire)=
-##### Fire
-[Fire](consoles-nintendo-game-and-watch-silver-fire), known as Fireman Fireman in North America,
-is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
-It was released on [July 31, 1980](timeline-1980-07-31).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-fire.jpg
----
-name: fig-consoles-nintendo-game-and-watch-silver-fire
-height: 200px
----
-[Nintendo Game & Watch Silver: Fire](consoles-nintendo-game-and-watch-silver-fire)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fire_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
-```
-
-(consoles-nintendo-game-and-watch-silver-judge)=
-##### Judge
-[Judge](consoles-nintendo-game-and-watch-silver-judge)
-is a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series.
-It was released on [October 4, 1980](timeline-1980-10-04).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-judge.jpg
----
-name: fig-consoles-nintendo-game-and-watch-silver-judge
-height: 200px
----
-[Nintendo Game & Watch Silver: Judge](consoles-nintendo-game-and-watch-silver-judge), purple and green versions
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JudgeGameandWatch.jpg)).
-Credit: IsaMill
-```
-
 (consoles-nintendo-game-and-watch-gold)=
 #### Gold
-[Gold](consoles-nintendo-game-and-watch-gold) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Gold](consoles-nintendo-game-and-watch-gold) is the second series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It added alarm clock functionality, static color backgrounds, and a built-in wire loop stand.
+Its first game, *Manhole*, was released on [January 29, 1981](timeline-1981-01-29).
 
-(consoles-nintendo-game-and-watch-gold-manhole)=
-##### Manhole
-[Manhole](consoles-nintendo-game-and-watch-gold-manhole)
-is a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series.
-It was released on [January 29, 1981](timeline-1981-01-29).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-gold-manhole.jpg
+```{figure} ../images/consoles/nintendo-game-and-watch-gold.jpg
 ---
-name: fig-consoles-nintendo-game-and-watch-gold-manhole
+name: fig-consoles-nintendo-game-and-watch-gold
 height: 200px
 ---
-[Nintendo Game & Watch Gold: Manhole](consoles-nintendo-game-and-watch-gold-manhole)
+[Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manhole_-_Game%26Watch_-_Nintendo.jpg)).
 Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 ```
 
-(consoles-nintendo-game-and-watch-gold-helmet)=
-##### Helmet
-[Helmet](consoles-nintendo-game-and-watch-gold-helmet), known as Headache in the United Kingdom,
-is a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series.
-It was released on [February 21, 1981](timeline-1981-02-21).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-gold-helmet.jpg
----
-name: fig-consoles-nintendo-game-and-watch-gold-helmet
-height: 200px
----
-[Nintendo Game & Watch Gold: Helmet](consoles-nintendo-game-and-watch-gold-helmet)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Helmet_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Jesmar](https://commons.wikimedia.org/wiki/User:Jesmar)
-```
-
-(consoles-nintendo-game-and-watch-gold-lion)=
-##### Lion
-[Lion](consoles-nintendo-game-and-watch-gold-lion)
-is a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series.
-It was released on [April 29, 1981](timeline-1981-04-29).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-gold-lion.jpg
----
-name: fig-consoles-nintendo-game-and-watch-gold-lion
-height: 200px
----
-[Nintendo Game & Watch Gold: Lion](consoles-nintendo-game-and-watch-gold-lion)
-(from [eBay](https://www.ebay.com/itm/394312160207)).
-```
-
 (consoles-nintendo-game-and-watch-wide-screen)=
 #### Wide Screen
-[Wide Screen](consoles-nintendo-game-and-watch-wide-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Wide Screen](consoles-nintendo-game-and-watch-wide-screen) is the third series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It introduced a 30% larger LCD panel in a slightly wider form factor.
+Its first game, *Parachute*, was released on [June 19, 1981](timeline-1981-06-19).
 
-(consoles-nintendo-game-and-watch-wide-screen-parachute)=
-##### Parachute
-[Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute)
-is a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series.
-It was released on [June 19, 1981](timeline-1981-06-19).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-parachute.jpg
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen.jpg
 ---
-name: fig-consoles-nintendo-game-and-watch-wide-screen-parachute
+name: fig-consoles-nintendo-game-and-watch-wide-screen
 height: 200px
 ---
-[Nintendo Game & Watch Wide Screen: Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute)
+[Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_and_watch_parachute.JPG)).
 Credit: Orlando105
-```
-
-(consoles-nintendo-game-and-watch-wide-screen-octopus)=
-##### Octopus
-[Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus)
-is a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series.
-It was released on [July 16, 1981](timeline-1981-07-16).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-octopus.jpg
----
-name: fig-consoles-nintendo-game-and-watch-wide-screen-octopus
-height: 200px
----
-[Nintendo Game & Watch Wide Screen: Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Octopus_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Christoph Bauer](https://www.flickr.com/people/h34dy/)
-```
-
-(consoles-nintendo-game-and-watch-wide-screen-popeye)=
-##### Popeye
-[Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye)
-is a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series.
-It was released on [August 5, 1981](timeline-1981-08-05).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-popeye.jpg
----
-name: fig-consoles-nintendo-game-and-watch-wide-screen-popeye
-height: 200px
----
-[Nintendo Game & Watch Wide Screen: Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye)
-(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Popeye_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi/)
 ```
 
 (consoles-nintendo-game-and-watch-vertical-multi-screen)=

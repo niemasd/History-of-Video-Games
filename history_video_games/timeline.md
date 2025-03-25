@@ -203,82 +203,18 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (timeline-1980-04-28)=
 ### April 28, 1980
-[Ball](consoles-nintendo-game-and-watch-silver-ball), known as Toss-Up in North America,
-a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
+The [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
+the first series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
 is released.
 
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball.jpg
+```{figure} ../images/consoles/nintendo-game-and-watch-silver.jpg
 ---
-name: fig-timeline-nintendo-game-and-watch-silver-ball
+name: fig-timeline-nintendo-game-and-watch-silver
 height: 200px
 ---
-[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball)
+[Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_%26_Watch_Ball.jpg)).
 Credit: Joshua Murphy
-```
-
-(timeline-1980-06-05)=
-### June 5, 1980
-[Flagman](consoles-nintendo-game-and-watch-silver-flagman), known as Flag Man in North America,
-a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-flagman.jpg
----
-name: fig-timeline-nintendo-game-and-watch-silver-flagman
-height: 200px
----
-[Nintendo Game & Watch Silver: Flagman](consoles-nintendo-game-and-watch-silver-flagman)
-(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Game_and_Watch_-_FLAGMAN.jpg)).
-Credit: [Captaine06](https://commons.wikimedia.org/wiki/User:Captaine06)
-```
-
-(timeline-1980-07-10)=
-### July 10, 1980
-[Vermin](consoles-nintendo-game-and-watch-silver-vermin), known as The Exterminator in North America,
-a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-vermin.jpg
----
-name: fig-timeline-nintendo-game-and-watch-silver-vermin
-height: 200px
----
-[Nintendo Game & Watch Silver: Vermin](consoles-nintendo-game-and-watch-silver-vermin)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vermin_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
-```
-
-(timeline-1980-07-31)=
-### July 31, 1980
-[Fire](consoles-nintendo-game-and-watch-silver-fire), known as Fireman Fireman in North America,
-a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-fire.jpg
----
-name: fig-timeline-nintendo-game-and-watch-silver-fire
-height: 200px
----
-[Nintendo Game & Watch Silver: Fire](consoles-nintendo-game-and-watch-silver-fire)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fire_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
-```
-
-(timeline-1980-10-04)=
-### October 4, 1980
-[Judge](consoles-nintendo-game-and-watch-silver-judge),
-a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-judge.jpg
----
-name: fig-timeline-nintendo-game-and-watch-silver-judge
-height: 200px
----
-[Nintendo Game & Watch Silver: Judge](consoles-nintendo-game-and-watch-silver-judge), purple and green versions
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JudgeGameandWatch.jpg)).
-Credit: IsaMill
 ```
 
 (timeline-1980-12-12)=
@@ -297,97 +233,34 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (timeline-1981-01-29)=
 ### January 29, 1981
-[Manhole](consoles-nintendo-game-and-watch-gold-manhole),
-a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
+The [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
+the second series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
 is released.
 
-```{figure} ../images/consoles/nintendo-game-and-watch-gold-manhole.jpg
+```{figure} ../images/consoles/nintendo-game-and-watch-gold.jpg
 ---
-name: fig-timeline-nintendo-game-and-watch-gold-manhole
+name: fig-timeline-nintendo-game-and-watch-gold
 height: 200px
 ---
-[Nintendo Game & Watch Gold: Manhole](consoles-nintendo-game-and-watch-gold-manhole)
+[Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manhole_-_Game%26Watch_-_Nintendo.jpg)).
 Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 ```
 
-(timeline-1981-02-21)=
-### February 21, 1981
-[Helmet](consoles-nintendo-game-and-watch-gold-helmet), known as Headache in the United Kingdom,
-a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-gold-helmet.jpg
----
-name: fig-timeline-nintendo-game-and-watch-gold-helmet
-height: 200px
----
-[Nintendo Game & Watch Gold: Helmet](consoles-nintendo-game-and-watch-gold-helmet)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Helmet_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Jesmar](https://commons.wikimedia.org/wiki/User:Jesmar)
-```
-
-(timeline-1981-04-29)=
-### April 29, 1981
-[Lion](consoles-nintendo-game-and-watch-gold-lion),
-a game for the [Nintendo Game & Watch Gold](consoles-nintendo-game-and-watch-gold) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-gold-lion.jpg
----
-name: fig-timeline-nintendo-game-and-watch-gold-lion
-height: 200px
----
-[Nintendo Game & Watch Gold: Lion](consoles-nintendo-game-and-watch-gold-lion)
-(from [eBay](https://www.ebay.com/itm/394312160207)).
-```
-
 (timeline-1981-06-19)=
 ### June 19, 1981
-[Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute),
-a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
+The [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
+the third series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
 is released.
 
-```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-parachute.jpg
+```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen.jpg
 ---
-name: fig-timeline-nintendo-game-and-watch-wide-screen-parachute
+name: fig-timeline-nintendo-game-and-watch-wide-screen
 height: 200px
 ---
-[Nintendo Game & Watch Wide Screen: Parachute](consoles-nintendo-game-and-watch-wide-screen-parachute)
+[Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_and_watch_parachute.JPG)).
 Credit: Orlando105
-```
-
-(timeline-1981-07-16)=
-### July 16, 1981
-[Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus),
-a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-octopus.jpg
----
-name: fig-timeline-nintendo-game-and-watch-wide-screen-octopus
-height: 200px
----
-[Nintendo Game & Watch Wide Screen: Octopus](consoles-nintendo-game-and-watch-wide-screen-octopus)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Octopus_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Christoph Bauer](https://www.flickr.com/people/h34dy/)
-```
-
-(timeline-1981-08-05)=
-### August 5, 1981
-[Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye),
-a game for the [Nintendo Game & Watch Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series,
-is released.
-
-```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen-popeye.jpg
----
-name: fig-timeline-nintendo-game-and-watch-wide-screen-popeye
-height: 200px
----
-[Nintendo Game & Watch Wide Screen: Popeye](consoles-nintendo-game-and-watch-wide-screen-popeye)
-(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Popeye_-_Game%26Watch_-_Nintendo.jpg)).
-Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi/)
 ```
 
 (timeline-1983-07-15)=
@@ -891,22 +764,6 @@ The [Nintendo Wii](consoles-nintendo-wii) is released in Hong Kong.
 
 (timeline-2010s)=
 ## 2010s
-
-(timeline-2010-04-01)=
-### April 1, 2010
-[Ball](consoles-nintendo-game-and-watch-silver-ball), known as Toss-Up in North America,
-a game for the [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
-is reissued via Club Nintendo to celebrate the 30th anniversary of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
-
-```{figure} ../images/consoles/nintendo-game-and-watch-silver-ball-club-nintendo.jpg
----
-name: fig-timeline-nintendo-game-and-watch-silver-ball-club-nintendo
-height: 200px
----
-[Nintendo Game & Watch Silver: Ball](consoles-nintendo-game-and-watch-silver-ball) Club Nintendo reissue
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-and-watch-ball.png)).
-Credit: [masatsu](https://flickr.com/photos/masatsu)
-```
 
 (timeline-2011-10-23)=
 ### October 23, 2011

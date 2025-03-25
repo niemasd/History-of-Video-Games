@@ -882,7 +882,20 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-3ds-2ds)=
 #### 2DS
-[TODO](https://en.wikipedia.org/wiki/Nintendo_2DS)
+A 2D non-clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+named the [2DS](consoles-nintendo-3ds-2ds),
+was released in Australia, Europe, and North America on [October 12, 2013](timeline-2013-10-12),
+and in Japan on [February 27, 2016](timeline-2016-02-27).
+
+```{figure} ../images/consoles/nintendo-3ds-2ds.jpg
+---
+name: fig-consoles-nintendo-3ds-2ds
+height: 200px
+---
+[Nintendo 2DS](consoles-nintendo-3ds-2ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-2DS-angle.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-3ds-new-3ds)=
 #### New 3DS

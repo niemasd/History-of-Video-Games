@@ -1490,6 +1490,22 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2013-10-12)=
+### October 12, 2013
+The [Nintendo 2DS](consoles-nintendo-3ds-2ds),
+a 2D non-clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+is released in Australia, Europe, and North America.
+
+```{figure} ../images/consoles/nintendo-3ds-2ds.jpg
+---
+name: fig-timeline-nintendo-3ds-2ds
+height: 200px
+---
+[Nintendo 2DS](consoles-nintendo-3ds-2ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-2DS-angle.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2013-11-14)=
 ### November 14, 2013
 The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Japan.
@@ -1551,6 +1567,12 @@ The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable con
 (timeline-2014-11-14)=
 ### November 14, 2014
 The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Europe and Australia.
+
+(timeline-2016-02-27)=
+### February 27, 2016
+The [Nintendo 2DS](consoles-nintendo-3ds-2ds),
+a 2D non-clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+is released in Japan.
 
 (timeline-2016-09-15)=
 ### September 15, 2016

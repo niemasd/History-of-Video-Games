@@ -233,9 +233,25 @@ height: 200px
 Credit: [babbagecabbage](https://www.flickr.com/people/babbagecabbage)
 ```
 
+(consoles-nintendo-game-and-watch-new-wide-screen)=
+#### New Wide Screen
+[New Wide Screen](consoles-nintendo-game-and-watch-new-wide-screen) is the 5th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It is an updated version of the [Wide Screen](consoles-nintendo-game-and-watch-wide-screen) series.
+Its first game, *Donkey Kong Jr.*, was released on [October 26, 1982](timeline-1982-10-26).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-new-wide-screen.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-new-wide-screen
+height: 200px
+---
+[Nintendo Game & Watch New Wide Screen](consoles-nintendo-game-and-watch-new-wide-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donkey_Kong_Jr._Game%26watch.jpg)).
+Credit: [Francis Bijl (frenkieb)](https://www.flickr.com/people/frenkieb)
+```
+
 (consoles-nintendo-game-and-watch-horizontal-multi-screen)=
 #### Horizontal Multi Screen
-[Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) is the 5th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) is the 6th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
 It included two LCD panels in a horizontal right-to-left folding clamshell unit.
 Its first game, *Mario Bros.*, was released on [March 14, 1983](timeline-1983-03-14).
 
@@ -248,10 +264,6 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mario_Bros._-_Game%26Watch_-_Nintendo.jpg)).
 Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
 ```
-
-(consoles-nintendo-game-and-watch-new-wide-screen)=
-#### New Wide Screen
-[New Wide Screen](consoles-nintendo-game-and-watch-new-wide-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
 
 (consoles-nintendo-game-and-watch-table-top)=
 #### Table Top

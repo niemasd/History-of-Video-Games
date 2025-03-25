@@ -279,10 +279,26 @@ height: 200px
 Credit: [babbagecabbage](https://www.flickr.com/people/babbagecabbage)
 ```
 
+(timeline-1982-10-26)=
+### October 26, 1982
+The [New Wide Screen](consoles-nintendo-game-and-watch-new-wide-screen) series,
+the 5th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-new-wide-screen.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-new-wide-screen
+height: 200px
+---
+[Nintendo Game & Watch New Wide Screen](consoles-nintendo-game-and-watch-new-wide-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donkey_Kong_Jr._Game%26watch.jpg)).
+Credit: [Francis Bijl (frenkieb)](https://www.flickr.com/people/frenkieb)
+```
+
 (timeline-1983-03-14)=
 ### March 14, 1983
 The [Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) series,
-the 5th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+the 6th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
 is released.
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-horizontal-multi-screen.jpg

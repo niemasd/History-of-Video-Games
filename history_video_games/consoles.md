@@ -478,24 +478,6 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
-(consoles-nintendo-game-boy-color)=
-### Game Boy Color
-The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) (GBC) is a video game console developed by [Nintendo](consoles-nintendo).
-It was released in Japan on [October 21, 1998](timeline-1998-10-21),
-in North America on [November 18, 1998](timeline-1998-11-18),
-in Europe on [November 23, 1998](timeline-1998-11-23),
-and in Australia on [November 27, 1998](timeline-1998-11-27).
-
-```{figure} ../images/consoles/nintendo-game-boy-color.jpg
----
-name: fig-consoles-nintendo-game-boy-color
-height: 200px
----
-[Nintendo Game Boy Color](consoles-nintendo-game-boy-color)
-(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Color-FL.jpg)).
-Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-```
-
 (consoles-nintendo-super-famicom)=
 ### Super Famicom
 The [Nintendo Super Famicom](consoles-nintendo-super-famicom) (SFC) is a video game console developed by [Nintendo](consoles-nintendo).
@@ -575,6 +557,41 @@ height: 200px
 ---
 [Nintendo 64](consoles-nintendo-64)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-64-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-game-boy-color)=
+### Game Boy Color
+The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) (GBC) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [October 21, 1998](timeline-1998-10-21),
+in North America on [November 18, 1998](timeline-1998-11-18),
+in Europe on [November 23, 1998](timeline-1998-11-23),
+and in Australia on [November 27, 1998](timeline-1998-11-27).
+
+```{figure} ../images/consoles/nintendo-game-boy-color.jpg
+---
+name: fig-consoles-nintendo-game-boy-color
+height: 200px
+---
+[Nintendo Game Boy Color](consoles-nintendo-game-boy-color)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Color-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-game-boy-advance)=
+### Game Boy Advance
+The [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance) (GBA) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [March 21, 2001](timeline-2001-03-21),
+in North America on [June 11, 2001](timeline-2001-06-11),
+and in PAL regions on [June 22, 2001](timeline-2001-06-22).
+
+```{figure} ../images/consoles/nintendo-game-boy-advance.jpg
+---
+name: fig-consoles-nintendo-game-boy-advance
+height: 200px
+---
+[Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Purple-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 

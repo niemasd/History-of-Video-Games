@@ -771,6 +771,28 @@ The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Europe.
 ### November 30, 2000
 The [Sony PlayStation 2](consoles-sony-playstation-2) is released in Australia.
 
+(timeline-2001-03-21)=
+### March 21, 2001
+The [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-boy-advance.jpg
+---
+name: fig-timeline-nintendo-game-boy-advance
+height: 200px
+---
+[Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Purple-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2001-06-11)=
+### June 11, 2001
+The [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance) is released in North America.
+
+(timeline-2001-06-22)=
+### June 22, 2001
+The [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance) is released in PAL regions.
+
 (timeline-2001-09-14)=
 ### September 14, 2001
 The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Japan.

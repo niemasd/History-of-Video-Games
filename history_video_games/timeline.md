@@ -311,6 +311,22 @@ height: 200px
 Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
 ```
 
+(timeline-1983-04-28)=
+### April 28, 1983
+The [Table Top](consoles-nintendo-game-and-watch-table-top) series,
+the 7th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-table-top.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-table-top
+height: 200px
+---
+[Nintendo Game & Watch Horizontal Table Top](consoles-nintendo-game-and-watch-table-top)
+(from [Flickr](https://www.flickr.com/photos/neofob/486803038)).
+Credit: [Jonas Ahrentorp](https://www.flickr.com/people/neofob)
+```
+
 (timeline-1983-07-15)=
 ### July 15, 1983
 The [Nintendo Family Computer](consoles-nintendo-family-computer) is released in Japan.

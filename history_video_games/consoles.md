@@ -267,7 +267,19 @@ Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
 
 (consoles-nintendo-game-and-watch-table-top)=
 #### Table Top
-[Table Top](consoles-nintendo-game-and-watch-table-top) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Table Top](consoles-nintendo-game-and-watch-table-top) is the 7th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It used ambient light transmitted through the translucent top to illuminate a color vacuum fluorescent display that reflected onto an integrated mirror for display.
+Its first game, *Donkey Kong Jr.*, was released on [April 28, 1983](timeline-1983-04-28).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-table-top.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-table-top
+height: 200px
+---
+[Nintendo Game & Watch Horizontal Table Top](consoles-nintendo-game-and-watch-table-top)
+(from [Flickr](https://www.flickr.com/photos/neofob/486803038)).
+Credit: [Jonas Ahrentorp](https://www.flickr.com/people/neofob)
+```
 
 (consoles-nintendo-game-and-watch-panorama)=
 #### Panorama

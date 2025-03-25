@@ -744,11 +744,43 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-ds-dsi)=
 #### DSi
-[TODO](https://en.wikipedia.org/wiki/Nintendo_DS#Nintendo_DSi_and_DSi_XL)
+A second redesign of the [Nintendo DS](consoles-nintendo-ds),
+similar to the [Lite](consoles-nintendo-ds-lite)
+but with inner and outer 0.3 megapixel digital cameras, a larger display, and internal and external storage,
+named the [DSi](consoles-nintendo-ds-dsi),
+was released in Japan on [November 1, 2008](timeline-2008-11-01),
+in Australia on [April 2, 2009](timeline-2009-04-02),
+in Europe on [April 3, 2009](timeline-2009-04-03),
+and in North America on [April 5, 2009](timeline-2009-04-05).
+
+```{figure} ../images/consoles/nintendo-ds-dsi.jpg
+---
+name: fig-consoles-nintendo-ds-dsi
+height: 200px
+---
+[Nintendo DSi](consoles-nintendo-ds-dsi)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DSi-Bl-Open.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-ds-dsi-xl)=
 #### DSi XL
-[TODO](https://en.wikipedia.org/wiki/Nintendo_DS#Nintendo_DSi_and_DSi_XL)
+A larger redesign of the [Nintendo DS](consoles-nintendo-ds) than the [DSi](consoles-nintendo-ds-dsi),
+named the [DSi XL](consoles-nintendo-ds-dsi-xl),
+was released in Japan on [November 21, 2009](timeline-2009-11-21),
+in Europe on [March 5, 2010](timeline-2010-03-05),
+in North America on [March 28, 2010](timeline-2010-03-28),
+and in Australia on [April 15, 2010](timeline-2010-04-15).
+
+```{figure} ../images/consoles/nintendo-ds-dsi-xl.jpg
+---
+name: fig-consoles-nintendo-ds-dsi-xl
+height: 200px
+---
+[Nintendo DSi XL](consoles-nintendo-ds-dsi-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DSi-XL-Burg.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-wii)=
 ### Wii

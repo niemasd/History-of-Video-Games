@@ -1180,6 +1180,48 @@ The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000
 ### October 23, 2008
 The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable) with an improved LCD screen compared to the [PSP-2000](consoles-sony-playstation-portable-2000), is released in Australia.
 
+(timeline-2008-11-01)=
+### November 1, 2008
+The [Nintendo DSi](consoles-nintendo-ds-dsi),
+a second redesign of the [Nintendo DS](consoles-nintendo-ds),
+similar to the [Lite](consoles-nintendo-ds-lite)
+but with inner and outer 0.3 megapixel digital cameras, a larger display, and internal and external storage,
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-ds-dsi.jpg
+---
+name: fig-timeline-nintendo-ds-dsi
+height: 200px
+---
+[Nintendo DSi](consoles-nintendo-ds-dsi)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DSi-Bl-Open.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2009-04-02)=
+### April 2, 2009
+The [Nintendo DSi](consoles-nintendo-ds-dsi),
+a second redesign of the [Nintendo DS](consoles-nintendo-ds),
+similar to the [Lite](consoles-nintendo-ds-lite)
+but with inner and outer 0.3 megapixel digital cameras, a larger display, and internal and external storage,
+is released in Australia.
+
+(timeline-2009-04-03)=
+### April 3, 2009
+The [Nintendo DSi](consoles-nintendo-ds-dsi),
+a second redesign of the [Nintendo DS](consoles-nintendo-ds),
+similar to the [Lite](consoles-nintendo-ds-lite)
+but with inner and outer 0.3 megapixel digital cameras, a larger display, and internal and external storage,
+is released in Europe.
+
+(timeline-2009-04-05)=
+### April 5, 2009
+The [Nintendo DSi](consoles-nintendo-ds-dsi),
+a second redesign of the [Nintendo DS](consoles-nintendo-ds),
+similar to the [Lite](consoles-nintendo-ds-lite)
+but with inner and outer 0.3 megapixel digital cameras, a larger display, and internal and external storage,
+is released in North America.
+
 (timeline-2009-09-01)=
 ### September 1, 2009
 The [Sony PlayStation 3 Slim](consoles-sony-playstation-3-slim), a smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released in North America and Europe.
@@ -1216,12 +1258,46 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ### October 31, 2009
 The [Sony PlayStation Portable PSP Go](consoles-sony-playstation-portable-go), a smaller and lighter redesign of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Japan.
 
+(timeline-2009-11-21)=
+### November 21, 2009
+The [Nintendo DSi XL](consoles-nintendo-ds-dsi-xl),
+a larger redesign of the [Nintendo DS](consoles-nintendo-ds) than the [DSi](consoles-nintendo-ds-dsi),
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-ds-dsi-xl.jpg
+---
+name: fig-timeline-nintendo-ds-dsi-xl
+height: 200px
+---
+[Nintendo DSi XL](consoles-nintendo-ds-dsi-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DSi-XL-Burg.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2009-12-12)=
 ### December 12, 2009
 The [Nintendo Wii](consoles-nintendo-wii) is released in Hong Kong.
 
 (timeline-2010s)=
 ## 2010s
+
+(timeline-2010-03-05)=
+### March 5, 2010
+The [Nintendo DSi XL](consoles-nintendo-ds-dsi-xl),
+a larger redesign of the [Nintendo DS](consoles-nintendo-ds) than the [DSi](consoles-nintendo-ds-dsi),
+is released in Europe.
+
+(timeline-2010-03-28)=
+### March 28, 2010
+The [Nintendo DSi XL](consoles-nintendo-ds-dsi-xl),
+a larger redesign of the [Nintendo DS](consoles-nintendo-ds) than the [DSi](consoles-nintendo-ds-dsi),
+is released in North America.
+
+(timeline-2010-04-15)=
+### April 15, 2010
+The [Nintendo DSi XL](consoles-nintendo-ds-dsi-xl),
+a larger redesign of the [Nintendo DS](consoles-nintendo-ds) than the [DSi](consoles-nintendo-ds-dsi),
+is released in Australia.
 
 (timeline-2011-10-23)=
 ### October 23, 2011

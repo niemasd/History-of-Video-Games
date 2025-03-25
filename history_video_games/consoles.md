@@ -543,6 +543,10 @@ Japanese [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101)
 (from [Centre for Computing History](https://www.computinghistory.org.uk/det/43039/Nintendo-Super-Famicom-Jr/)).
 ```
 
+(consoles-nintendo-virtual-boy)=
+### Virtual Boy
+[TODO](https://en.wikipedia.org/wiki/Virtual_Boy)
+
 (consoles-nintendo-64)=
 ### Nintendo 64
 The [Nintendo 64](consoles-nintendo-64) (N64) is a video game console developed by [Nintendo](consoles-nintendo).
@@ -563,6 +567,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (consoles-nintendo-game-boy-color)=
 ### Game Boy Color
 The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) (GBC) is a video game console developed by [Nintendo](consoles-nintendo).
+It is backwards-compatible with the [Nintendo Game Boy](consoles-nintendo-game-boy).
 It was released in Japan on [October 21, 1998](timeline-1998-10-21),
 in North America on [November 18, 1998](timeline-1998-11-18),
 in Europe on [November 23, 1998](timeline-1998-11-23),
@@ -652,6 +657,10 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-pokemon-mini)=
+### Pokémon Mini
+[TODO](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mini)
+
 (consoles-nintendo-gamecube)=
 ### GameCube
 The [Nintendo GameCube](consoles-nintendo-gamecube) (abbreviated NGC or GCN) is a video console developed by [Nintendo](consoles-nintendo).
@@ -670,6 +679,22 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-GameCube-Console-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(consoles-nintendo-ds)=
+### DS
+[TODO](https://en.wikipedia.org/wiki/Nintendo_DS)
+
+(consoles-nintendo-ds-lite)=
+#### Lite
+[TODO](https://en.wikipedia.org/wiki/Nintendo_DS#Nintendo_DS_Lite)
+
+(consoles-nintendo-ds-dsi)=
+#### DSi
+[TODO](https://en.wikipedia.org/wiki/Nintendo_DS#Nintendo_DSi_and_DSi_XL)
+
+(consoles-nintendo-ds-dsi-xl)=
+#### DSi XL
+[TODO](https://en.wikipedia.org/wiki/Nintendo_DS#Nintendo_DSi_and_DSi_XL)
 
 (consoles-nintendo-wii)=
 ### Wii
@@ -732,6 +757,30 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-3ds)=
+### 3DS
+[TODO](https://en.wikipedia.org/wiki/Nintendo_3DS)
+
+(consoles-nintendo-3ds-xl)=
+#### XL
+[TODO](https://en.wikipedia.org/wiki/Nintendo_3DS_XL)
+
+(consoles-nintendo-3ds-2ds)=
+#### 2DS
+[TODO](https://en.wikipedia.org/wiki/Nintendo_2DS)
+
+(consoles-nintendo-3ds-new-3ds)=
+#### New 3DS
+[TODO](https://en.wikipedia.org/wiki/New_Nintendo_3DS)
+
+(consoles-nintendo-3ds-new-3ds-xl)=
+#### New 3DS XL
+[TODO](https://en.wikipedia.org/wiki/New_Nintendo_3DS_XL)
+
+(consoles-nintendo-3ds-new-2ds-xl)=
+#### New 2DS XL
+[TODO](https://en.wikipedia.org/wiki/New_Nintendo_2DS_XL)
+
 (consoles-nintendo-wii-u)=
 ### Wii U
 The [Nintendo Wii U](consoles-nintendo-wii-u) is a video console developed by [Nintendo](consoles-nintendo).
@@ -748,6 +797,14 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Wii-U-Console-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(consoles-nintendo-switch)=
+### Switch
+[TODO](https://en.wikipedia.org/wiki/Nintendo_video_game_consoles#Nintendo_Switch_(2017))
+
+(consoles-nintendo-switch-2)=
+### Switch 2
+[TODO](https://en.wikipedia.org/wiki/Nintendo_Switch_2)
 
 (consoles-sony)=
 ## Sony

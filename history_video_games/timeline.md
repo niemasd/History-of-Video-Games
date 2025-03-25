@@ -898,8 +898,28 @@ The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released 
 ### September 1, 2005
 The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released in PAL regions.
 
+(timeline-2005-09-13)=
+### September 13, 2005
+The [Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
+a miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-boy-advance-micro.jpg
+---
+name: fig-timeline-nintendo-game-boy-advance-micro
+height: 200px
+---
+[Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Micro.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2005-09-19)=
 ### September 19, 2005
+The [Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
+a miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
+is released in North America.
+
 The [Nintendo Game Boy Advance SP AGS-101](consoles-nintendo-game-boy-advance-sp-ags-101),
 an improved redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
 with a brighter backlit screen than the frontlit screen of the [SP](consoles-nintendo-game-boy-advance-sp),
@@ -914,6 +934,24 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gameboy-Advance-SP-Mk2.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2005-10-01)=
+### October 1, 2005
+The [Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
+a miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
+is released in China.
+
+(timeline-2005-11-03)=
+### November 3, 2005
+The [Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
+a miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
+is released in Australia.
+
+(timeline-2005-11-04)=
+### November 4, 2005
+The [Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
+a miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
+is released in Europe.
 
 (timeline-2006-03-27)=
 ### March 27, 2006

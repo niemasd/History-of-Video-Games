@@ -614,6 +614,26 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-game-boy-advance-micro)=
+#### Game Boy Micro
+A miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
+named the [Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
+was released in Japan on [September 13, 2005](timeline-2005-09-13),
+in North America on [September 19, 2005](timeline-2005-09-19),
+in China on [October 1, 2005](timeline-2005-10-01),
+in Australia on [November 3, 2005](timeline-2005-11-03),
+and in Europe on [November 4, 2005](timeline-2005-11-04).
+
+```{figure} ../images/consoles/nintendo-game-boy-advance-micro.jpg
+---
+name: fig-consoles-nintendo-game-boy-advance-micro
+height: 200px
+---
+[Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Micro.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-nintendo-game-boy-advance-sp-ags-101)=
 #### SP AGS-101
 An improved redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)

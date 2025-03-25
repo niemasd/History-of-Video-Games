@@ -1299,6 +1299,32 @@ The [Nintendo DSi XL](consoles-nintendo-ds-dsi-xl),
 a larger redesign of the [Nintendo DS](consoles-nintendo-ds) than the [DSi](consoles-nintendo-ds-dsi),
 is released in Australia.
 
+(timeline-2011-02-26)=
+### February 26, 2011
+The [Nintendo 3DS](consoles-nintendo-3ds) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-3ds.jpg
+---
+name: fig-timeline-nintendo-3ds
+height: 200px
+---
+[Nintendo 3DS](consoles-nintendo-3ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-3DS-AquaOpen.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2011-03-25)=
+### March 25, 2011
+The [Nintendo 3DS](consoles-nintendo-3ds) is released in Europe.
+
+(timeline-2011-03-27)=
+### March 27, 2011
+The [Nintendo 3DS](consoles-nintendo-3ds) is released in North America.
+
+(timeline-2011-03-31)=
+### March 31, 2011
+The [Nintendo 3DS](consoles-nintendo-3ds) is released in Australia.
+
 (timeline-2011-10-23)=
 ### October 23, 2011
 The [Nintendo Wii Family Edition](consoles-nintendo-wii-family-edition),

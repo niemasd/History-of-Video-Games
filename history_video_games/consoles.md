@@ -671,7 +671,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-pokemon-mini)=
 ### Pokemon Mini
-The [Nintendo Pokemon Mini](consoles-nintendo-pokemon-mini) is a video console developed by [Nintendo](consoles-nintendo).
+The [Nintendo Pokemon Mini](consoles-nintendo-pokemon-mini) is a video game console developed by [Nintendo](consoles-nintendo).
 It was released in North America on [November 16, 2001](timeline-2001-11-16),
 in Japan on [December 14, 2001](timeline-2001-12-14),
 and in Europe on [March 15, 2002](timeline-2002-03-15).
@@ -688,7 +688,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-gamecube)=
 ### GameCube
-The [Nintendo GameCube](consoles-nintendo-gamecube) (abbreviated NGC or GCN) is a video console developed by [Nintendo](consoles-nintendo).
+The [Nintendo GameCube](consoles-nintendo-gamecube) (abbreviated NGC or GCN) is a video game console developed by [Nintendo](consoles-nintendo).
 It was released in Japan on [September 14, 2001](timeline-2001-09-14),
 in North America on [November 18, 2001](timeline-2001-11-18),
 in Europe on [May 3, 2002](timeline-2002-05-03),
@@ -707,7 +707,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-ds)=
 ### DS
-The [Nintendo DS](consoles-nintendo-ds) is a video console developed by [Nintendo](consoles-nintendo).
+The [Nintendo DS](consoles-nintendo-ds) is a video game console developed by [Nintendo](consoles-nintendo).
 It was released in North America on [November 21, 2004](timeline-2004-11-21),
 in Japan on [December 2, 2004](timeline-2004-12-02),
 in Australia on [February 24, 2005](timeline-2005-02-24),
@@ -784,7 +784,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-wii)=
 ### Wii
-The [Nintendo Wii](consoles-nintendo-wii) is a video console developed by [Nintendo](consoles-nintendo).
+The [Nintendo Wii](consoles-nintendo-wii) is a video game console developed by [Nintendo](consoles-nintendo).
 It was released in North America on [November 19, 2006](timeline-2006-11-19),
 in Japan on [December 2, 2006](timeline-2006-12-02),
 in Australia on [December 7, 2006](timeline-2006-12-07),
@@ -845,7 +845,22 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-3ds)=
 ### 3DS
-[TODO](https://en.wikipedia.org/wiki/Nintendo_3DS)
+The [Nintendo 3DS](consoles-nintendo-3ds) is a video game console developed by [Nintendo](consoles-nintendo).
+It is backwards-compatible with the [Nintendo DS](consoles-nintendo-ds).
+It was released in Japan on [February 26, 2011](timeline-2011-02-26),
+in Europe on [March 25, 2011](timeline-2011-03-25),
+in North America on [March 27, 2011](timeline-2011-03-27),
+and in Australia on [March 31, 2011](timeline-2011-03-31).
+
+```{figure} ../images/consoles/nintendo-3ds.jpg
+---
+name: fig-consoles-nintendo-3ds
+height: 200px
+---
+[Nintendo 3DS](consoles-nintendo-3ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-3DS-AquaOpen.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-3ds-xl)=
 #### XL
@@ -869,7 +884,8 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-wii-u)=
 ### Wii U
-The [Nintendo Wii U](consoles-nintendo-wii-u) is a video console developed by [Nintendo](consoles-nintendo).
+The [Nintendo Wii U](consoles-nintendo-wii-u) is a video game console developed by [Nintendo](consoles-nintendo).
+It is backwards-compatible with the [Nintendo Wii](consoles-nintendo-wii).
 It was released in North America on [November 18, 2012](timeline-2012-11-18),
 in PAL regions on [November 30, 2012](timeline-2012-11-30),
 and in Japan on [December 8, 2012](timeline-2012-12-08).

@@ -462,6 +462,22 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-game-boy-light)=
+#### Light
+A slightly larger redesign of the [Nintendo Game Boy](consoles-nintendo-game-boy) with a backlight,
+named the [Light](consoles-nintendo-game-boy-light),
+was released in Japan on [April 14, 1998](timeline-1998-04-14).
+
+```{figure} ../images/consoles/nintendo-game-boy-light.jpg
+---
+name: fig-consoles-nintendo-game-boy-light
+height: 200px
+---
+[Nintendo Game Boy Light](consoles-nintendo-game-boy-light)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Light-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-nintendo-super-famicom)=
 ### Super Famicom
 The [Nintendo Super Famicom](consoles-nintendo-super-famicom) (SFC) is a video game console developed by [Nintendo](consoles-nintendo).

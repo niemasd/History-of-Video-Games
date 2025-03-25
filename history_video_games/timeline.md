@@ -578,7 +578,10 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (timeline-1995-03-20)=
 ### March 20, 1995
-The [Nintendo Game Boy Play It Loud!](consoles-nintendo-game-boy-play-it-loud) is released.
+The [Nintendo Game Boy Play It Loud!](consoles-nintendo-game-boy-play-it-loud),
+a revision of the [Nintendo Game Boy](consoles-nintendo-game-boy)
+with a screen featuring a darker border and cases in various colors,
+is released.
 
 ```{figure} ../images/consoles/nintendo-game-boy-play-it-loud.jpg
 ---
@@ -614,7 +617,9 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (timeline-1996-07-20)=
 ### July 20, 1996
-The [Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket) is released in Japan.
+The [Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket),
+a smaller redesign of the [Nintendo Game Boy](consoles-nintendo-game-boy),
+is released in Japan.
 
 ```{figure} ../images/consoles/nintendo-game-boy-pocket.jpg
 ---
@@ -628,7 +633,9 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (timeline-1996-09-02)=
 ### September 2, 1996
-The [Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket) is released in North America.
+The [Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket),
+a smaller redesign of the [Nintendo Game Boy](consoles-nintendo-game-boy),
+is released in North America.
 
 (timeline-1996-09-29)=
 ### September 29, 1996
@@ -668,6 +675,22 @@ height: 200px
 Japanese [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101) with controller
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SuperFamicom_jr.jpg)).
 Credit: [Muband](https://en.wikipedia.org/wiki/ja:User:Muband)
+```
+
+(timeline-1998-04-14)=
+### April 14, 1998
+The [Nintendo Game Boy Light](consoles-nintendo-game-boy-light),
+a slightly larger redesign of the [Nintendo Game Boy](consoles-nintendo-game-boy) with a backlight,
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-boy-light.jpg
+---
+name: fig-timeline-nintendo-game-boy-light
+height: 200px
+---
+[Nintendo Game Boy Light](consoles-nintendo-game-boy-light)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Light-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-2000s)=

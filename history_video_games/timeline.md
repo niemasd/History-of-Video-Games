@@ -279,6 +279,22 @@ height: 200px
 Credit: [babbagecabbage](https://www.flickr.com/people/babbagecabbage)
 ```
 
+(timeline-1983-03-14)=
+### March 14, 1983
+The [Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) series,
+the 5th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-horizontal-multi-screen.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-horizontal-multi-screen
+height: 200px
+---
+[Nintendo Game & Watch Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mario_Bros._-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
+```
+
 (timeline-1983-07-15)=
 ### July 15, 1983
 The [Nintendo Family Computer](consoles-nintendo-family-computer) is released in Japan.

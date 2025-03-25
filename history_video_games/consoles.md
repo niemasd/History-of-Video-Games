@@ -235,7 +235,19 @@ Credit: [babbagecabbage](https://www.flickr.com/people/babbagecabbage)
 
 (consoles-nintendo-game-and-watch-horizontal-multi-screen)=
 #### Horizontal Multi Screen
-[Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) is the 5th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It included two LCD panels in a horizontal right-to-left folding clamshell unit.
+Its first game, *Mario Bros.*, was released on [March 14, 1983](timeline-1983-03-14).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-horizontal-multi-screen.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-horizontal-multi-screen
+height: 200px
+---
+[Nintendo Game & Watch Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mario_Bros._-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
+```
 
 (consoles-nintendo-game-and-watch-new-wide-screen)=
 #### New Wide Screen

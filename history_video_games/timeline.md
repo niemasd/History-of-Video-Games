@@ -912,9 +912,27 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ### November 3, 2004
 The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released in Japan.
 
+(timeline-2004-11-21)=
+### November 21, 2004
+The [Nintendo DS](consoles-nintendo-ds) is released in North America.
+
+```{figure} ../images/consoles/nintendo-ds.jpg
+---
+name: fig-timeline-nintendo-ds
+height: 200px
+---
+[Nintendo DS](consoles-nintendo-ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DS-Fat-Blue.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2004-11-25)=
 ### November 25, 2004
 The [Sony PlayStation 2 Slimline](consoles-sony-playstation-2-slimline), a smaller redesign of the [Sony PlayStation 2](consoles-sony-playstation-2), is released in North America.
+
+(timeline-2004-12-02)=
+### December 2, 2004
+The [Nintendo DS](consoles-nintendo-ds) is released in Japan.
 
 (timeline-2004-12-12)=
 ### December 12, 2004
@@ -929,6 +947,14 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Psp-1000.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2005-02-24)=
+### February 24, 2005
+The [Nintendo DS](consoles-nintendo-ds) is released in Australia.
+
+(timeline-2005-03-11)=
+### March 11, 2005
+The [Nintendo DS](consoles-nintendo-ds) is released in Europe.
 
 (timeline-2005-03-24)=
 ### March 24, 2005

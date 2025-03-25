@@ -707,7 +707,21 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-ds)=
 ### DS
-[TODO](https://en.wikipedia.org/wiki/Nintendo_DS)
+The [Nintendo DS](consoles-nintendo-ds) is a video console developed by [Nintendo](consoles-nintendo).
+It was released in North America on [November 21, 2004](timeline-2004-11-21),
+in Japan on [December 2, 2004](timeline-2004-12-02),
+in Australia on [February 24, 2005](timeline-2005-02-24),
+and in Europe on [March 11, 2005](timeline-2005-03-11).
+
+```{figure} ../images/consoles/nintendo-ds.jpg
+---
+name: fig-consoles-nintendo-ds
+height: 200px
+---
+[Nintendo DS](consoles-nintendo-ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DS-Fat-Blue.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-ds-lite)=
 #### Lite

@@ -433,8 +433,30 @@ The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-e
 a redesign of the [Nintendo Family Computer](consoles-nintendo-family-computer),
 is released in Europe.
 
+(timeline-1989-04-21)=
+### April 21, 1989
+The [Nintendo Game Boy](consoles-nintendo-game-boy) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-boy.jpg
+---
+name: fig-timeline-nintendo-game-boy
+height: 200px
+---
+[Nintendo Game Boy](consoles-nintendo-game-boy)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1989-07-31)=
+### July 31, 1989
+The [Nintendo Game Boy](consoles-nintendo-game-boy) is released in North America.
+
 (timeline-1990s)=
 ## 1990s
+
+(timeline-1990-09-28)=
+### September 28, 1990
+The [Nintendo Game Boy](consoles-nintendo-game-boy) is released in Europe.
 
 (timeline-1990-11-21)=
 ### November 21, 1990
@@ -449,6 +471,10 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Super-Famicom-Set-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-1991-05-02)=
+### May 2, 1991
+The [Nintendo Game Boy](consoles-nintendo-game-boy) is released in South Korea.
 
 (timeline-1991-08-23)=
 ### August 23, 1991
@@ -521,6 +547,14 @@ Japanese [Nintendo NES-101](consoles-nintendo-family-computer-nes-101)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-AV-Famicom-Console-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-1994-04-14)=
+### April 14, 1994
+The [Nintendo Game Boy](consoles-nintendo-game-boy) is released in Brazil.
+
+(timeline-1994-10-06)=
+### October 6, 1994
+The [Nintendo Game Boy](consoles-nintendo-game-boy) is released in Poland.
 
 (timeline-1994-11-15)=
 ### November 15, 1994

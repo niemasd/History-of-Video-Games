@@ -408,6 +408,26 @@ Japanese [Nintendo NES-101](consoles-nintendo-family-computer-nes-101)
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-game-boy)=
+### Game Boy
+The [Nintendo Game Boy](consoles-nintendo-game-boy) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [April 21, 1989](timeline-1989-04-21),
+in North America on [July 31, 1989](timeline-1989-07-31),
+in Europe on [September 28, 1990](timeline-1990-09-28),
+in South Korea on [May 2, 1991](timeline-1991-05-02),
+in Brazil on [April 14, 1994](timeline-1994-04-14),
+and in Poland on [October 6, 1994](timeline-1994-10-06).
+
+```{figure} ../images/consoles/nintendo-game-boy.jpg
+---
+name: fig-consoles-nintendo-game-boy
+height: 200px
+---
+[Nintendo Game Boy](consoles-nintendo-game-boy)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-nintendo-super-famicom)=
 ### Super Famicom
 The [Nintendo Super Famicom](consoles-nintendo-super-famicom) (SFC) is a video game console developed by [Nintendo](consoles-nintendo).

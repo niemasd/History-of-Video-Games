@@ -410,7 +410,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-game-boy)=
 ### Game Boy
-The [Nintendo Game Boy](consoles-nintendo-game-boy) is a video game console developed by [Nintendo](consoles-nintendo).
+The [Nintendo Game Boy](consoles-nintendo-game-boy) (GB) is a video game console developed by [Nintendo](consoles-nintendo).
 It was released in Japan on [April 21, 1989](timeline-1989-04-21),
 in North America on [July 31, 1989](timeline-1989-07-31),
 in Europe on [September 28, 1990](timeline-1990-09-28),
@@ -475,6 +475,24 @@ height: 200px
 ---
 [Nintendo Game Boy Light](consoles-nintendo-game-boy-light)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Light-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-game-boy-color)=
+### Game Boy Color
+The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) (GBC) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [October 21, 1998](timeline-1998-10-21),
+in North America on [November 18, 1998](timeline-1998-11-18),
+in Europe on [November 23, 1998](timeline-1998-11-23),
+and in Australia on [November 27, 1998](timeline-1998-11-27).
+
+```{figure} ../images/consoles/nintendo-game-boy-color.jpg
+---
+name: fig-consoles-nintendo-game-boy-color
+height: 200px
+---
+[Nintendo Game Boy Color](consoles-nintendo-game-boy-color)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Color-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 

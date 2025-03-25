@@ -693,6 +693,32 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1998-10-21)=
+### October 21, 1998
+The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-boy-color.jpg
+---
+name: fig-timeline-nintendo-game-boy-color
+height: 200px
+---
+[Nintendo Game Boy Color](consoles-nintendo-game-boy-color)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Color-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1998-11-18)=
+### November 18, 1998
+The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) is released in North America.
+
+(timeline-1998-11-23)=
+### November 23, 1998
+The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) is released in Europe.
+
+(timeline-1998-11-27)=
+### November 27, 1998
+The [Nintendo Game Boy Color](consoles-nintendo-game-boy-color) is released in Australia.
+
 (timeline-2000s)=
 ## 2000s
 

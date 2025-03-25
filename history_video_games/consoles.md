@@ -595,6 +595,43 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-game-boy-advance-sp)=
+#### SP
+A clamshell redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+with a rechargeable battery, a significantly brighter LCD screen, and an internal front-light,
+named the [SP](consoles-nintendo-game-boy-advance-sp) (model number AGS-001),
+was released in Japan on [February 14, 2003](timeline-2003-02-14),
+in North America on [March 23, 2003](timeline-2003-03-23),
+and in PAL regions on [March 28, 2003](timeline-2003-03-28).
+
+```{figure} ../images/consoles/nintendo-game-boy-advance-sp.jpg
+---
+name: fig-consoles-nintendo-game-boy-advance-sp
+height: 200px
+---
+[Nintendo Game Boy Advance SP](consoles-nintendo-game-boy-advance-sp)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Advance-SP-Mk1-Blue.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-nintendo-game-boy-advance-sp-ags-101)=
+#### SP AGS-101
+An improved redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+with a brighter backlit screen than the frontlit screen of the [SP](consoles-nintendo-game-boy-advance-sp),
+named the [SP AGS-101](consoles-nintendo-game-boy-advance-sp-ags-101),
+was released in North America on [September 19, 2005](timeline-2005-09-19),
+and in Europe on [March 27, 2006](timeline-2006-03-27).
+
+```{figure} ../images/consoles/nintendo-game-boy-advance-sp-ags-101.jpg
+---
+name: fig-consoles-nintendo-game-boy-advance-sp-ags-101
+height: 200px
+---
+[Nintendo Game Boy Advance SP AGS-101](consoles-nintendo-game-boy-advance-sp-ags-101)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gameboy-Advance-SP-Mk2.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (consoles-nintendo-gamecube)=
 ### GameCube
 The [Nintendo GameCube](consoles-nintendo-gamecube) (abbreviated NGC or GCN) is a video console developed by [Nintendo](consoles-nintendo).

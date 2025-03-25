@@ -819,6 +819,37 @@ The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Europe.
 ### May 17, 2002
 The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Australia.
 
+(timeline-2003-02-14)=
+### February 14, 2003
+The [Nintendo Game Boy Advance SP](consoles-nintendo-game-boy-advance-sp),
+a clamshell redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+with a rechargeable battery, a significantly brighter LCD screen, and an internal front-light,
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-boy-advance-sp.jpg
+---
+name: fig-timeline-nintendo-game-boy-advance-sp
+height: 200px
+---
+[Nintendo Game Boy Advance SP](consoles-nintendo-game-boy-advance-sp)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Advance-SP-Mk1-Blue.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2003-03-23)=
+### March 23, 2003
+The [Nintendo Game Boy Advance SP](consoles-nintendo-game-boy-advance-sp),
+a clamshell redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+with a rechargeable battery, a significantly brighter LCD screen, and an internal front-light,
+is released in North America.
+
+(timeline-2003-03-28)=
+### March 28, 2003
+The [Nintendo Game Boy Advance SP](consoles-nintendo-game-boy-advance-sp),
+a clamshell redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+with a rechargeable battery, a significantly brighter LCD screen, and an internal front-light,
+is released in PAL regions.
+
 (timeline-2003-04-16)=
 ### April 16, 2003
 The [Nintendo GameCube](consoles-nintendo-gamecube) is released in Ukraine.
@@ -866,6 +897,30 @@ The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released 
 (timeline-2005-09-01)=
 ### September 1, 2005
 The [Sony PlayStation Portable](consoles-sony-playstation-portable) is released in PAL regions.
+
+(timeline-2005-09-19)=
+### September 19, 2005
+The [Nintendo Game Boy Advance SP AGS-101](consoles-nintendo-game-boy-advance-sp-ags-101),
+an improved redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+with a brighter backlit screen than the frontlit screen of the [SP](consoles-nintendo-game-boy-advance-sp),
+is released in North America.
+
+```{figure} ../images/consoles/nintendo-game-boy-advance-sp-ags-101.jpg
+---
+name: fig-timeline-nintendo-game-boy-advance-sp-ags-101
+height: 200px
+---
+[Nintendo Game Boy Advance SP AGS-101](consoles-nintendo-game-boy-advance-sp-ags-101)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gameboy-Advance-SP-Mk2.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2006-03-27)=
+### March 27, 2006
+The [Nintendo Game Boy Advance SP AGS-101](consoles-nintendo-game-boy-advance-sp-ags-101),
+an improved redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
+with a brighter backlit screen than the frontlit screen of the [SP](consoles-nintendo-game-boy-advance-sp),
+is released in Europe.
 
 (timeline-2006-11-11)=
 ### November 11, 2006

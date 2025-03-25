@@ -332,11 +332,19 @@ Credit: [Miguel Discart](https://www.flickr.com/people/miguel_discart_vrac_3)
 
 (consoles-nintendo-game-and-watch-crystal-screen)=
 #### Crystal Screen
-[Crystal Screen](consoles-nintendo-game-and-watch-crystal-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Crystal Screen](consoles-nintendo-game-and-watch-crystal-screen) is the 11th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It uses a large see-through LCD panel with no reflective background.
+Its first game, *Super Mario Bros.*, was released on [June 25, 1986](timeline-1986-06-25).
 
-(consoles-nintendo-game-and-watch-special-edition-color-screen)=
-#### Special Edition Color Screen
-[Special Edition Color Screen](consoles-nintendo-game-and-watch-special-edition-color-screen) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+```{figure} ../images/consoles/nintendo-game-and-watch-crystal-screen.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-crystal-screen
+height: 200px
+---
+[Nintendo Game & Watch Crystal Screen](consoles-nintendo-game-and-watch-crystal-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Super_Mario_Bros._(cristalscreen)_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Jesmar](https://commons.wikimedia.org/wiki/User:Jesmar)
+```
 
 (consoles-nintendo-family-computer)=
 ### Family Computer

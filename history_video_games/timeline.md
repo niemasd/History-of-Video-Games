@@ -405,6 +405,22 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1986-06-25)=
+### June 25, 1986
+The [Crystal Screen](consoles-nintendo-game-and-watch-crystal-screen) series,
+the 11th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-crystal-screen.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-crystal-screen
+height: 200px
+---
+[Nintendo Game & Watch Crystal Screen](consoles-nintendo-game-and-watch-crystal-screen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Super_Mario_Bros._(cristalscreen)_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Jesmar](https://commons.wikimedia.org/wiki/User:Jesmar)
+```
+
 (timeline-1986-09)=
 ### September 1986 (day unknown)
 The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system),

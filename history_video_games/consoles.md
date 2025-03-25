@@ -428,6 +428,23 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-game-boy-play-it-loud)=
+#### Play It Loud!
+A revision of the [Nintendo Game Boy](consoles-nintendo-game-boy)
+with a screen featuring a darker border and cases in various colors,
+named [Play It Loud!](consoles-nintendo-game-boy-play-it-loud),
+was released on [March 20, 1995](timeline-1995-03-20).
+
+```{figure} ../images/consoles/nintendo-game-boy-play-it-loud.jpg
+---
+name: fig-consoles-nintendo-game-boy-play-it-loud
+height: 200px
+---
+[Nintendo Game Boy Play It Loud!](consoles-nintendo-game-boy-play-it-loud)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_Boy_Play_It_Loud!_Transparent_American_Edition.png)).
+Credit: lloyd
+```
+
 (consoles-nintendo-super-famicom)=
 ### Super Famicom
 The [Nintendo Super Famicom](consoles-nintendo-super-famicom) (SFC) is a video game console developed by [Nintendo](consoles-nintendo).

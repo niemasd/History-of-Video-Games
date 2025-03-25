@@ -576,6 +576,20 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1995-03-20)=
+### March 20, 1995
+The [Nintendo Game Boy Play It Loud!](consoles-nintendo-game-boy-play-it-loud) is released.
+
+```{figure} ../images/consoles/nintendo-game-boy-play-it-loud.jpg
+---
+name: fig-timeline-nintendo-game-boy-play-it-loud
+height: 200px
+---
+[Nintendo Game Boy Play It Loud!](consoles-nintendo-game-boy-play-it-loud)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_Boy_Play_It_Loud!_Transparent_American_Edition.png)).
+Credit: lloyd
+```
+
 (timeline-1995-09-09)=
 ### September 9, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in North America.

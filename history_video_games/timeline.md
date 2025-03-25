@@ -1019,11 +1019,45 @@ The [Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
 a miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
 is released in Europe.
 
+(timeline-2006-03-02)=
+### March 2, 2006
+The [Nintendo DS Lite](consoles-nintendo-ds-lite),
+a sleeker redesign of the [Nintendo DS](consoles-nintendo-ds) with brighter screens,
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-ds-lite.jpg
+---
+name: fig-timeline-nintendo-ds-lite
+height: 200px
+---
+[Nintendo DS Lite](consoles-nintendo-ds-lite)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DS-Lite-Black-Open.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2006-03-27)=
 ### March 27, 2006
 The [Nintendo Game Boy Advance SP AGS-101](consoles-nintendo-game-boy-advance-sp-ags-101),
 an improved redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance)
 with a brighter backlit screen than the frontlit screen of the [SP](consoles-nintendo-game-boy-advance-sp),
+is released in Europe.
+
+(timeline-2006-06-01)=
+### June 1, 2006
+The [Nintendo DS Lite](consoles-nintendo-ds-lite),
+a sleeker redesign of the [Nintendo DS](consoles-nintendo-ds) with brighter screens,
+is released in Australia.
+
+(timeline-2006-06-11)=
+### June 11, 2006
+The [Nintendo DS Lite](consoles-nintendo-ds-lite),
+a sleeker redesign of the [Nintendo DS](consoles-nintendo-ds) with brighter screens,
+is released in North America.
+
+(timeline-2006-06-23)=
+### June 23, 2006
+The [Nintendo DS Lite](consoles-nintendo-ds-lite),
+a sleeker redesign of the [Nintendo DS](consoles-nintendo-ds) with brighter screens,
 is released in Europe.
 
 (timeline-2006-11-11)=

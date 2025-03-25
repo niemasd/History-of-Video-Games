@@ -725,7 +725,22 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-ds-lite)=
 #### Lite
-[TODO](https://en.wikipedia.org/wiki/Nintendo_DS#Nintendo_DS_Lite)
+A sleeker redesign of the [Nintendo DS](consoles-nintendo-ds) with brighter screens,
+named the [Lite](consoles-nintendo-ds-lite),
+was released in Japan on [March 2, 2006](timeline-2006-03-02),
+in Australia on [June 1, 2006](timeline-2006-06-01),
+in North America on [June 11, 2006](timeline-2006-06-11),
+and in Europe on [June 23, 2006](timeline-2006-06-23).
+
+```{figure} ../images/consoles/nintendo-ds-lite.jpg
+---
+name: fig-consoles-nintendo-ds-lite
+height: 200px
+---
+[Nintendo DS Lite](consoles-nintendo-ds-lite)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DS-Lite-Black-Open.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-ds-dsi)=
 #### DSi

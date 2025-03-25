@@ -432,7 +432,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 #### Play It Loud!
 A revision of the [Nintendo Game Boy](consoles-nintendo-game-boy)
 with a screen featuring a darker border and cases in various colors,
-named [Play It Loud!](consoles-nintendo-game-boy-play-it-loud),
+named the [Play It Loud!](consoles-nintendo-game-boy-play-it-loud),
 was released on [March 20, 1995](timeline-1995-03-20).
 
 ```{figure} ../images/consoles/nintendo-game-boy-play-it-loud.jpg
@@ -443,6 +443,23 @@ height: 200px
 [Nintendo Game Boy Play It Loud!](consoles-nintendo-game-boy-play-it-loud)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game_Boy_Play_It_Loud!_Transparent_American_Edition.png)).
 Credit: lloyd
+```
+
+(consoles-nintendo-game-boy-pocket)=
+#### Pocket
+A smaller redesign of the [Nintendo Game Boy](consoles-nintendo-game-boy),
+named the [Pocket](consoles-nintendo-game-boy-pocket),
+was released in Japan on [July 20, 1996](timeline-1996-07-20),
+and in North America on [September 2, 1996](timeline-1996-09-02).
+
+```{figure} ../images/consoles/nintendo-game-boy-pocket.jpg
+---
+name: fig-consoles-nintendo-game-boy-pocket
+height: 200px
+---
+[Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Pocket-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-nintendo-super-famicom)=

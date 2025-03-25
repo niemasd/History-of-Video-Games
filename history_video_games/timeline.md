@@ -612,6 +612,24 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1996-07-20)=
+### July 20, 1996
+The [Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-game-boy-pocket.jpg
+---
+name: fig-timeline-nintendo-game-boy-pocket
+height: 200px
+---
+[Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Game-Boy-Pocket-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1996-09-02)=
+### September 2, 1996
+The [Nintendo Game Boy Pocket](consoles-nintendo-game-boy-pocket) is released in North America.
+
 (timeline-1996-09-29)=
 ### September 29, 1996
 The [Nintendo 64](consoles-nintendo-64) is released in North America.

@@ -341,6 +341,54 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1983-08-30)=
+### August 30, 1983
+The [Panorama](consoles-nintendo-game-and-watch-panorama) series,
+the 8th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-panorama.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-panorama
+height: 200px
+---
+[Nintendo Game & Watch Panorama](consoles-nintendo-game-and-watch-panorama)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Snoopy_(Panorama)_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
+```
+
+(timeline-1984-02-06)=
+### February 6, 1984
+The [Super Color](consoles-nintendo-game-and-watch-super-color) series,
+the 9th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-super-color.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-super-color
+height: 200px
+---
+[Nintendo Game & Watch Super Color](consoles-nintendo-game-and-watch-super-color)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spitball_Sparky_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
+```
+
+(timeline-1984-07-31)=
+### July 31, 1984
+The [Micro Vs. System](consoles-nintendo-game-and-watch-micro-vs-system) series,
+the 10th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch),
+is released.
+
+```{figure} ../images/consoles/nintendo-game-and-watch-micro-vs-system.jpg
+---
+name: fig-timeline-nintendo-game-and-watch-micro-vs-system
+height: 200px
+---
+[Nintendo Game & Watch Micro Vs. System](consoles-nintendo-game-and-watch-micro-vs-system)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Game_%26_Watch_-_Boxing.jpg)).
+Credit: [Miguel Discart](https://www.flickr.com/people/miguel_discart_vrac_3)
+```
+
 (timeline-1985-10-18)=
 ### October 18, 1985
 The [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system),

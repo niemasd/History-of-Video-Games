@@ -188,7 +188,7 @@ Credit: Joshua Murphy
 (consoles-nintendo-game-and-watch-gold)=
 #### Gold
 [Gold](consoles-nintendo-game-and-watch-gold) is the 2nd series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
-It added alarm clock functionality, static color backgrounds, and a built-in wire loop stand.
+It adds alarm clock functionality, static color backgrounds, and a built-in wire loop stand.
 Its first game, *Manhole*, was released on [January 29, 1981](timeline-1981-01-29).
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-gold.jpg
@@ -204,7 +204,7 @@ Credit: [Xabi Vazquez](https://www.flickr.com/photos/xabi)
 (consoles-nintendo-game-and-watch-wide-screen)=
 #### Wide Screen
 [Wide Screen](consoles-nintendo-game-and-watch-wide-screen) is the 3rd series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
-It introduced a 30% larger LCD panel in a slightly wider form factor.
+It introduces a 30% larger LCD panel in a slightly wider form factor.
 Its first game, *Parachute*, was released on [June 19, 1981](timeline-1981-06-19).
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-wide-screen.jpg
@@ -220,7 +220,7 @@ Credit: Orlando105
 (consoles-nintendo-game-and-watch-vertical-multi-screen)=
 #### Vertical Multi Screen
 [Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen) is the 4th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
-It included two LCD panels in a vertical folding clamshell unit.
+It includes two LCD panels in a vertical folding clamshell unit.
 Its first game, *Oil Panic*, was released on [May 28, 1982](timeline-1982-05-28).
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-vertical-multi-screen.jpg
@@ -252,7 +252,7 @@ Credit: [Francis Bijl (frenkieb)](https://www.flickr.com/people/frenkieb)
 (consoles-nintendo-game-and-watch-horizontal-multi-screen)=
 #### Horizontal Multi Screen
 [Horizontal Multi Screen](consoles-nintendo-game-and-watch-horizontal-multi-screen) is the 6th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
-It included two LCD panels in a horizontal right-to-left folding clamshell unit.
+It includes two LCD panels in a horizontal right-to-left folding clamshell unit.
 Its first game, *Mario Bros.*, was released on [March 14, 1983](timeline-1983-03-14).
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-horizontal-multi-screen.jpg
@@ -268,7 +268,7 @@ Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
 (consoles-nintendo-game-and-watch-table-top)=
 #### Table Top
 [Table Top](consoles-nintendo-game-and-watch-table-top) is the 7th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
-It used ambient light transmitted through the translucent top to illuminate a color vacuum fluorescent display that reflected onto an integrated mirror for display.
+It uses ambient light transmitted through the translucent top to illuminate a color vacuum fluorescent display that reflected onto an integrated mirror for display.
 Its first game, *Donkey Kong Jr.*, was released on [April 28, 1983](timeline-1983-04-28).
 
 ```{figure} ../images/consoles/nintendo-game-and-watch-table-top.jpg
@@ -283,15 +283,52 @@ Credit: [Jonas Ahrentorp](https://www.flickr.com/people/neofob)
 
 (consoles-nintendo-game-and-watch-panorama)=
 #### Panorama
-[Panorama](consoles-nintendo-game-and-watch-panorama) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Panorama](consoles-nintendo-game-and-watch-panorama) is the 8th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It is similar in design to the [Table Top](consoles-nintendo-game-and-watch-table-top) series,
+but folded into a compact size via an articulated hinge.
+Its first game, *Snoopy*, was released on [August 30, 1983](timeline-1983-08-30).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-panorama.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-panorama
+height: 200px
+---
+[Nintendo Game & Watch Panorama](consoles-nintendo-game-and-watch-panorama)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Snoopy_(Panorama)_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
+```
 
 (consoles-nintendo-game-and-watch-super-color)=
 #### Super Color
-[Super Color](consoles-nintendo-game-and-watch-super-color) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Super Color](consoles-nintendo-game-and-watch-super-color) is the 9th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It uses a long portrait-oriented LCD panel with color overlays to color the display elements.
+Its first game, *Spitball Sparky*, was released on [February 6, 1984](timeline-1984-02-06).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-super-color.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-super-color
+height: 200px
+---
+[Nintendo Game & Watch Super Color](consoles-nintendo-game-and-watch-super-color)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spitball_Sparky_-_Game%26Watch_-_Nintendo.jpg)).
+Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
+```
 
 (consoles-nintendo-game-and-watch-micro-vs-system)=
 #### Micro Vs. System
-[Micro Vs. System](consoles-nintendo-game-and-watch-micro-vs-system) is a series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+[Micro Vs. System](consoles-nintendo-game-and-watch-micro-vs-system) is the 10th series of the [Nintendo Game & Watch](consoles-nintendo-game-and-watch).
+It uses a very wide horizontal LCD panel and allows two-player games via two external wired control pads.
+Its first game, *Boxing* (known as *Punch Out* in North America), was released on [July 31, 1984](timeline-1984-07-31).
+
+```{figure} ../images/consoles/nintendo-game-and-watch-micro-vs-system.jpg
+---
+name: fig-consoles-nintendo-game-and-watch-micro-vs-system
+height: 200px
+---
+[Nintendo Game & Watch Micro Vs. System](consoles-nintendo-game-and-watch-micro-vs-system)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Game_%26_Watch_-_Boxing.jpg)).
+Credit: [Miguel Discart](https://www.flickr.com/people/miguel_discart_vrac_3)
+```
 
 (consoles-nintendo-game-and-watch-crystal-screen)=
 #### Crystal Screen

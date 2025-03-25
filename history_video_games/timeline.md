@@ -593,6 +593,24 @@ height: 200px
 Credit: lloyd
 ```
 
+(timeline-1995-07-21)=
+### July 21, 1995
+The [Nintendo Virtual Boy](consoles-nintendo-virtual-boy) is released in Japan.
+
+```{figure} ../images/consoles/nintendo-virtual-boy-with-controller.jpg
+---
+name: fig-timeline-nintendo-virtual-boy-with-controller
+height: 200px
+---
+[Nintendo Virtual Boy](consoles-nintendo-virtual-boy) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Virtual-Boy-wController.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1995-08-14)=
+### August 14, 1995
+The [Nintendo Virtual Boy](consoles-nintendo-virtual-boy) is released in North America.
+
 (timeline-1995-09-09)=
 ### September 9, 1995
 The [Sony PlayStation](consoles-sony-playstation) is released in North America.

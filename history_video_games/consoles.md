@@ -545,7 +545,19 @@ Japanese [Nintendo SNS-101](consoles-nintendo-super-famicom-sns-101)
 
 (consoles-nintendo-virtual-boy)=
 ### Virtual Boy
-[TODO](https://en.wikipedia.org/wiki/Virtual_Boy)
+The [Nintendo Virtual Boy](consoles-nintendo-virtual-boy) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released in Japan on [July 21, 1995](timeline-1995-07-21),
+and in North America on [August 14, 1995](timeline-1995-08-14).
+
+```{figure} ../images/consoles/nintendo-virtual-boy.jpg
+---
+name: fig-consoles-nintendo-virtual-boy
+height: 200px
+---
+[Nintendo Virtual Boy](consoles-nintendo-virtual-boy)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Virtual-Boy-Eyes.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-64)=
 ### Nintendo 64

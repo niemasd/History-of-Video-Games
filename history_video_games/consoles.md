@@ -864,7 +864,21 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-3ds-xl)=
 #### XL
-[TODO](https://en.wikipedia.org/wiki/Nintendo_3DS_XL)
+A larger redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+named the [XL](consoles-nintendo-3ds-xl),
+was released in Japan and Europe on [July 28, 2012](timeline-2012-07-28),
+in North America on [August 19, 2012](timeline-2012-08-19),
+and in Australia on [August 23, 2012](timeline-2012-08-23).
+
+```{figure} ../images/consoles/nintendo-3ds-xl.jpg
+---
+name: fig-consoles-nintendo-3ds-xl
+height: 200px
+---
+[Nintendo 3DS XL](consoles-nintendo-3ds-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-3DS-XL-angled.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-3ds-2ds)=
 #### 2DS

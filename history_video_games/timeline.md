@@ -1384,6 +1384,34 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ### February 22, 2012
 The [Sony PlayStation Vita](consoles-sony-playstation-vita) is released worldwide.
 
+(timeline-2012-07-28)=
+### July 28, 2012
+The [Nintendo 3DS XL](consoles-nintendo-3ds-xl),
+a larger redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+is released in Japan and Europe.
+
+```{figure} ../images/consoles/nintendo-3ds-xl.jpg
+---
+name: fig-timeline-nintendo-3ds-xl
+height: 200px
+---
+[Nintendo 3DS XL](consoles-nintendo-3ds-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-3DS-XL-angled.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2012-08-19)=
+### August 19, 2012
+The [Nintendo 3DS XL](consoles-nintendo-3ds-xl),
+a larger redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+is released in North America.
+
+(timeline-2012-08-23)=
+### August 23, 2012
+The [Nintendo 3DS XL](consoles-nintendo-3ds-xl),
+a larger redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+is released in Australia.
+
 (timeline-2012-09-25)=
 ### September 25, 2012
 The [Sony PlayStation 3 Super Slim](consoles-sony-playstation-3-super-slim), an even smaller redesign of the [Sony PlayStation 3](consoles-sony-playstation-3), is released.

@@ -670,8 +670,21 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-nintendo-pokemon-mini)=
-### Pokémon Mini
-[TODO](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mini)
+### Pokemon Mini
+The [Nintendo Pokemon Mini](consoles-nintendo-pokemon-mini) is a video console developed by [Nintendo](consoles-nintendo).
+It was released in North America on [November 16, 2001](timeline-2001-11-16),
+in Japan on [December 14, 2001](timeline-2001-12-14),
+and in Europe on [March 15, 2002](timeline-2002-03-15).
+
+```{figure} ../images/consoles/nintendo-pokemon-mini.jpg
+---
+name: fig-consoles-nintendo-pokemon-mini
+height: 200px
+---
+[Nintendo Pokemon Mini](consoles-nintendo-pokemon-mini)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pokemon_mini.png)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-gamecube)=
 ### GameCube

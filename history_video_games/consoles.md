@@ -913,12 +913,26 @@ height: 200px
 ---
 [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Nintendo_3DS.png)).
-Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Credit: [Philip Terry Graham](https://commons.wikimedia.org/wiki/User:PhilipTerryGraham)
 ```
 
 (consoles-nintendo-3ds-new-3ds-xl)=
 #### New 3DS XL
-[TODO](https://en.wikipedia.org/wiki/New_Nintendo_3DS_XL)
+A larger redesign of the [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+named the [New 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+was released in Japan on [October 11, 2014](timeline-2014-10-11),
+in Australia on [November 21, 2014](timeline-2014-11-21),
+and in Europe and North America on [February 13, 2015](timeline-2015-02-13).
+
+```{figure} ../images/consoles/nintendo-3ds-new-3ds-xl.jpg
+---
+name: fig-consoles-nintendo-3ds-new-3ds-xl
+height: 200px
+---
+[New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New-3DS-XL-Black.jpg)).
+Credit: [Ejay](https://commons.wikimedia.org/wiki/User:Ejay)
+```
 
 (consoles-nintendo-3ds-new-2ds-xl)=
 #### New 2DS XL

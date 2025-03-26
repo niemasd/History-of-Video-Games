@@ -1560,6 +1560,22 @@ The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Japan.
 ### May 6, 2014
 The [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000), a slimmer and enhanced model of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in North America.
 
+(timeline-2014-10-11)=
+### October 11, 2014
+The [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+a larger redesign of the [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-3ds-new-3ds-xl.jpg
+---
+name: fig-timeline-consoles-nintendo-3ds-new-3ds-xl
+height: 200px
+---
+[New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New-3DS-XL-Black.jpg)).
+Credit: [Ejay](https://commons.wikimedia.org/wiki/User:Ejay)
+```
+
 (timeline-2014-10-14)=
 ### October 14, 2014
 The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in North America.
@@ -1590,11 +1606,19 @@ The [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
 a clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds) with improved hardware specifications,
 is released in Australia.
 
+The [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+a larger redesign of the [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+is released in Australia.
+
 (timeline-2015-02-13)=
 ### February 13, 2015
 The [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
 a clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds) with improved hardware specifications,
 is released in Europe.
+
+The [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+a larger redesign of the [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+is released in Europe and North America.
 
 (timeline-2015-09-25)=
 ### September 25, 2015

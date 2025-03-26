@@ -598,6 +598,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (consoles-nintendo-game-boy-advance)=
 ### Game Boy Advance
 The [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance) (GBA) is a video game console developed by [Nintendo](consoles-nintendo).
+It is backwards-compatible with the [Nintendo Game Boy Color](consoles-nintendo-game-boy-color).
 It was released in Japan on [March 21, 2001](timeline-2001-03-21),
 in North America on [June 11, 2001](timeline-2001-06-11),
 and in PAL regions on [June 22, 2001](timeline-2001-06-22).
@@ -785,6 +786,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (consoles-nintendo-wii)=
 ### Wii
 The [Nintendo Wii](consoles-nintendo-wii) is a video game console developed by [Nintendo](consoles-nintendo).
+It is backwards-compatible with the [Nintendo GameCube](consoles-nintendo-gamecube).
 It was released in North America on [November 19, 2006](timeline-2006-11-19),
 in Japan on [December 2, 2006](timeline-2006-12-02),
 in Australia on [December 7, 2006](timeline-2006-12-07),
@@ -972,11 +974,34 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-switch)=
 ### Switch
-[TODO](https://en.wikipedia.org/wiki/Nintendo_video_game_consoles#Nintendo_Switch_(2017))
+The [Nintendo Switch](consoles-nintendo-switch) is a video game console developed by [Nintendo](consoles-nintendo).
+It was released on [March 3, 2017](timeline-2017-03-03).
+
+```{figure} ../images/consoles/nintendo-switch.jpg
+---
+name: fig-consoles-nintendo-switch
+height: 200px
+---
+[Nintendo Switch](consoles-nintendo-switch)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+```{figure} ../images/consoles/nintendo-switch-docked-with-joycons.jpg
+---
+name: fig-consoles-nintendo-switch-docked-with-joycons
+height: 200px
+---
+Docked [Nintendo Switch](consoles-nintendo-switch) with detached Joy-Cons in the Joy-Con grip
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Switch-Console-Docked-wJoyConRB.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-switch-2)=
 ### Switch 2
-[TODO](https://en.wikipedia.org/wiki/Nintendo_Switch_2)
+The [Nintendo Switch 2](consoles-nintendo-switch-2) is a video game console developed by [Nintendo](consoles-nintendo).
+It is backwards-compatible with the [Nintendo Switch](consoles-nintendo-switch).
+More information will be added upon its release.
 
 (consoles-sony)=
 ## Sony

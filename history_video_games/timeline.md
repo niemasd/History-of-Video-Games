@@ -1659,6 +1659,20 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2017-03-03)=
+### March 3, 2017
+The [Nintendo Switch](consoles-nintendo-switch) is released.
+
+```{figure} ../images/consoles/nintendo-switch.jpg
+---
+name: fig-timeline-nintendo-switch
+height: 200px
+---
+[Nintendo Switch](consoles-nintendo-switch)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2017-06-15)=
 ### June 15, 2017
 The [New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl),

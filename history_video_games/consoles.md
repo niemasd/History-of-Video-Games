@@ -997,6 +997,14 @@ Docked [Nintendo Switch](consoles-nintendo-switch) with detached Joy-Cons in the
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-nintendo-switch-lite)=
+#### Lite
+[TODO](https://en.wikipedia.org/wiki/Nintendo_Switch#Nintendo_Switch_Lite)
+
+(consoles-nintendo-switch-oled)=
+#### OLED
+[TODO](https://en.wikipedia.org/wiki/Nintendo_Switch#OLED_model)
+
 (consoles-nintendo-switch-2)=
 ### Switch 2
 The [Nintendo Switch 2](consoles-nintendo-switch-2) is a video game console developed by [Nintendo](consoles-nintendo).

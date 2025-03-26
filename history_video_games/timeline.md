@@ -1493,7 +1493,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (timeline-2013-10-12)=
 ### October 12, 2013
 The [Nintendo 2DS](consoles-nintendo-3ds-2ds),
-a 2D non-clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+a 2D non-foldable redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
 is released in Australia, Europe, and North America.
 
 ```{figure} ../images/consoles/nintendo-3ds-2ds.jpg
@@ -1564,14 +1564,48 @@ The [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000), a sli
 ### October 14, 2014
 The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in North America.
 
+(timeline-2014-10-25)=
+### October 25, 2014
+The [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+a clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds) with improved hardware specifications,
+is released in Japan.
+
+```{figure} ../images/consoles/nintendo-3ds-new-3ds.jpg
+---
+name: fig-timeline-consoles-nintendo-3ds-new-3ds
+height: 200px
+---
+[New Nintendo 3DS](consoles-nintendo-3ds-new-3ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Nintendo_3DS.png)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2014-11-14)=
 ### November 14, 2014
 The [Sony PlayStation TV](consoles-sony-playstation-vita-tv), a non-portable console-style variant of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in Europe and Australia.
 
+(timeline-2014-11-21)=
+### November 21, 2014
+The [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+a clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds) with improved hardware specifications,
+is released in Australia.
+
+(timeline-2015-02-13)=
+### February 13, 2015
+The [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+a clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds) with improved hardware specifications,
+is released in Europe.
+
+(timeline-2015-09-25)=
+### September 25, 2015
+The [New Nintendo 3DS](consoles-nintendo-3ds-new-3ds),
+a clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds) with improved hardware specifications,
+is released in North America.
+
 (timeline-2016-02-27)=
 ### February 27, 2016
 The [Nintendo 2DS](consoles-nintendo-3ds-2ds),
-a 2D non-clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+a 2D non-foldable redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
 is released in Japan.
 
 (timeline-2016-09-15)=

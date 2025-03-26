@@ -882,7 +882,7 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-3ds-2ds)=
 #### 2DS
-A 2D non-clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
+A 2D non-foldable redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
 named the [2DS](consoles-nintendo-3ds-2ds),
 was released in Australia, Europe, and North America on [October 12, 2013](timeline-2013-10-12),
 and in Japan on [February 27, 2016](timeline-2016-02-27).
@@ -899,7 +899,22 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-3ds-new-3ds)=
 #### New 3DS
-[TODO](https://en.wikipedia.org/wiki/New_Nintendo_3DS)
+A clamshell redesign of the [Nintendo 3DS](consoles-nintendo-3ds) with improved hardware specifications,
+named the [New 3DS](consoles-nintendo-3ds-new-3ds),
+was released in Japan on [October 25, 2014](timeline-2014-10-25),
+in Australia on [November 21, 2014](timeline-2014-11-21),
+in Europe on [February 13, 2015](timeline-2015-02-13),
+and in North America on [September 25, 2015](timeline-2015-09-25).
+
+```{figure} ../images/consoles/nintendo-3ds-new-3ds.jpg
+---
+name: fig-consoles-nintendo-3ds-new-3ds
+height: 200px
+---
+[New Nintendo 3DS](consoles-nintendo-3ds-new-3ds)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Nintendo_3DS.png)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-nintendo-3ds-new-3ds-xl)=
 #### New 3DS XL

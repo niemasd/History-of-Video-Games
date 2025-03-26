@@ -1659,6 +1659,34 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2017-06-15)=
+### June 15, 2017
+The [New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl),
+a 2D redesign of the [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+is released in Australia.
+
+```{figure} ../images/consoles/nintendo-3ds-new-2ds-xl.jpg
+---
+name: fig-timeline-nintendo-3ds-new-2ds-xl
+height: 200px
+---
+[New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Nintendo_2ds_XL.png)).
+Credit: [LBDCOM12](https://commons.wikimedia.org/wiki/User:LBDCOM12)
+```
+
+(timeline-2017-07-13)=
+### July 13, 2017
+The [New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl),
+a 2D redesign of the [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+is released in Japan.
+
+(timeline-2017-07-28)=
+### July 28, 2017
+The [New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl),
+a 2D redesign of the [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+is released in North America and Europe.
+
 (timeline-2020s)=
 ## 2020s
 

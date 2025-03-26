@@ -936,7 +936,21 @@ Credit: [Ejay](https://commons.wikimedia.org/wiki/User:Ejay)
 
 (consoles-nintendo-3ds-new-2ds-xl)=
 #### New 2DS XL
-[TODO](https://en.wikipedia.org/wiki/New_Nintendo_2DS_XL)
+A 2D redesign of the [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
+named the [New 2DS XL](consoles-nintendo-3ds-new-2ds-xl),
+was released in Australia on [June 15, 2017](timeline-2017-06-15),
+in Japan on [July 13, 2017](timeline-2017-07-13),
+and in North America and Europe on [July 28, 2017](timeline-2017-07-28).
+
+```{figure} ../images/consoles/nintendo-3ds-new-2ds-xl.jpg
+---
+name: fig-consoles-nintendo-3ds-new-2ds-xl
+height: 200px
+---
+[New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Nintendo_2ds_XL.png)).
+Credit: [LBDCOM12](https://commons.wikimedia.org/wiki/User:LBDCOM12)
+```
 
 (consoles-nintendo-wii-u)=
 ### Wii U

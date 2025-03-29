@@ -55,7 +55,20 @@ Credit: [Microsoft](http://www.microsoft.com)
 
 (consoles-microsoft-xbox)=
 ### Xbox
-[TODO](https://en.wikipedia.org/wiki/Xbox_(console))
+The [Microsoft Xbox](consoles-microsoft-xbox) is a video game console developed by [Microsoft](consoles-microsoft).
+It was released in North America on [November 15, 2001](timeline-2001-11-15),
+in Japan on [February 22, 2002](timeline-2002-02-22),
+and in PAL regions on [March 14, 2002](timeline-2002-03-14).
+
+```{figure} ../images/consoles/microsoft-xbox.jpg
+---
+name: fig-consoles-microsoft-xbox
+height: 200px
+---
+[Microsoft Xbox](consoles-microsoft-xbox)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbox-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-microsoft-xbox-360)=
 ### Xbox 360

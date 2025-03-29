@@ -849,6 +849,20 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2001-11-15)=
+### November 15, 2001
+The [Microsoft Xbox](consoles-microsoft-xbox) is released in North America.
+
+```{figure} ../images/consoles/microsoft-xbox-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-with-controller
+height: 200px
+---
+[Microsoft Xbox](consoles-microsoft-xbox) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbox-Console-wDuke-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2001-11-16)=
 ### November 16, 2001
 The [Nintendo Pokemon Mini](consoles-nintendo-pokemon-mini) is released in North America.
@@ -870,6 +884,14 @@ The [Nintendo GameCube](consoles-nintendo-gamecube) is released in North America
 (timeline-2001-12-14)=
 ### December 14, 2001
 The [Nintendo Pokemon Mini](consoles-nintendo-pokemon-mini) is released in Japan.
+
+(timeline-2002-02-22)=
+### February 22, 2002
+The [Microsoft Xbox](consoles-microsoft-xbox) is released in Japan.
+
+(timeline-2002-03-14)=
+### March 14, 2002
+The [Microsoft Xbox](consoles-microsoft-xbox) is released in PAL regions.
 
 (timeline-2002-03-15)=
 ### March 15, 2002

@@ -137,7 +137,20 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-microsoft-xbox-one)=
 ### Xbox One
-[TODO](https://en.wikipedia.org/wiki/Xbox_One)
+The [Microsoft Xbox One](consoles-microsoft-xbox-one) is a video game console developed by [Microsoft](consoles-microsoft).
+It was released in North America, Europe, Australasia, and South America on [November 22, 2013](timeline-2013-11-22),
+in Japan on [September 4, 2014](timeline-2014-09-04),
+and in China on [September 29, 2014](timeline-2014-09-29).
+
+```{figure} ../images/consoles/microsoft-xbox-one.jpg
+---
+name: fig-consoles-microsoft-xbox-one
+height: 200px
+---
+[Microsoft Xbox One](consoles-microsoft-xbox-one)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbox-One-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 #### S
 [TODO](https://en.wikipedia.org/wiki/Xbox_One_S)

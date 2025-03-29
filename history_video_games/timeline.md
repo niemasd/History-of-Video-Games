@@ -1712,6 +1712,20 @@ The [Nintendo Wii Mini](consoles-nintendo-wii-mini),
 a smaller redesign of the [Nintendo Wii](consoles-nintendo-wii),
 is released in North America.
 
+(timeline-2013-11-22)=
+### November 22, 2013
+The [Microsoft Xbox One](consoles-microsoft-xbox-one) is released in North America, Europe, Australasia, and South America.
+
+```{figure} ../images/consoles/microsoft-xbox-one-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-one-with-controller
+height: 200px
+---
+[Microsoft Xbox One](consoles-microsoft-xbox-one) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbox-One-Console-wController-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2013-11-29)=
 ### November 29, 2013
 The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Europe, South America, and Australia.
@@ -1731,6 +1745,14 @@ The [Sony PlayStation 4](consoles-sony-playstation-4) is released in Japan.
 (timeline-2014-05-06)=
 ### May 6, 2014
 The [Sony PlayStation Vita PCH-2000](consoles-sony-playstation-vita-2000), a slimmer and enhanced model of the [Sony PlayStation Vita](consoles-sony-playstation-vita), is released in North America.
+
+(timeline-2014-09-04)=
+### September 4, 2014
+The [Microsoft Xbox One](consoles-microsoft-xbox-one) is released in Japan.
+
+(timeline-2014-09-29)=
+### September 29, 2014
+The [Microsoft Xbox One](consoles-microsoft-xbox-one) is released in China.
 
 (timeline-2014-10-11)=
 ### October 11, 2014

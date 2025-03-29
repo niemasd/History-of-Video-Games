@@ -1961,6 +1961,28 @@ Credit: [BugWarp](https://commons.wikimedia.org/wiki/User:BugWarp) and [Hyperba2
 (timeline-2020s)=
 ## 2020s
 
+(timeline-2020-11-10)=
+### November 10, 2020
+The [Microsoft Xbox Series X and S](consoles-microsoft-xbox-series-x-s) are released globally.
+
+```{figure} ../images/consoles/microsoft-xbox-series-x-s-x-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-series-x-s-x-with-controller
+height: 200px
+---
+[Microsoft Xbox Series X](consoles-microsoft-xbox-series-x-s-x) with controller
+(from [GameStop](https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-x-console/11108371.html)).
+```
+
+```{figure} ../images/consoles/microsoft-xbox-series-x-s-s-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-series-x-s-s-with-controller
+height: 200px
+---
+[Microsoft Xbox Series S](consoles-microsoft-xbox-series-x-s-s) with controller
+(from [GameStop](https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-s-digital-edition-console/224746.html)).
+```
+
 (timeline-2020-11-12)=
 ### November 12, 2020
 The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) are released simultaneously in Australia, Japan, Korea, New Zealand, and North America.
@@ -1988,6 +2010,10 @@ Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 (timeline-2020-11-19)=
 ### November 19, 2020
 The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) are released simultaneously worldwide.
+
+(timeline-2021-06-10)=
+### June 10, 2020
+The [Microsoft Xbox Series X and S](consoles-microsoft-xbox-series-x-s) are released in China.
 
 (timeline-2021-10-08)=
 ### October 8, 2021

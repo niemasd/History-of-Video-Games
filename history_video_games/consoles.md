@@ -200,15 +200,39 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (consoles-microsoft-xbox-series-x-s)=
-### Xbox Series X/S
-The [Microsoft Xbox Series X/S](consoles-microsoft-xbox-series-x-s) are video game consoles developed by [Microsoft](consoles-microsoft).
-They are two tiers of the same [Microsoft](consoles-microsoft) console generation.
+### Xbox Series X and S
+The [Microsoft Xbox Series X and S](consoles-microsoft-xbox-series-x-s) are two tiers
+of the same [Microsoft](consoles-microsoft) video game console generation.
+Both were released globally on [November 10, 2020](timeline-2020-11-10),
+and in China on [June 10, 2021](timeline-2021-06-10).
 
+(consoles-microsoft-xbox-series-x-s-x)=
 #### X
-[TODO](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Xbox_Series_X)
+The [Microsoft Xbox Series X](consoles-microsoft-xbox-series-x-s-x) is the higher-tier (more processing power) console
+of the [Microsoft Xbox Series X and S](consoles-microsoft-xbox-series-x-s) video game console generation.
 
+```{figure} ../images/consoles/microsoft-xbox-series-x-s-x-with-controller.jpg
+---
+name: fig-consoles-microsoft-xbox-series-x-s-x-with-controller
+height: 200px
+---
+[Microsoft Xbox Series X](consoles-microsoft-xbox-series-x-s-x) with controller
+(from [GameStop](https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-x-console/11108371.html)).
+```
+
+(consoles-microsoft-xbox-series-x-s-s)=
 #### S
-[TODO](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Xbox_Series_S)
+The [Microsoft Xbox Series S](consoles-microsoft-xbox-series-x-s-s) is the lower-tier (less processing power) console
+of the [Microsoft Xbox Series X and S](consoles-microsoft-xbox-series-x-s) video game console generation.
+
+```{figure} ../images/consoles/microsoft-xbox-series-x-s-s-with-controller.jpg
+---
+name: fig-consoles-microsoft-xbox-series-x-s-s-with-controller
+height: 200px
+---
+[Microsoft Xbox Series S](consoles-microsoft-xbox-series-x-s-s) with controller
+(from [GameStop](https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-s-digital-edition-console/224746.html)).
+```
 
 (consoles-nintendo)=
 ## Nintendo

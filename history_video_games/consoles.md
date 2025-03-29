@@ -170,7 +170,18 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-microsoft-xbox-one-s-all-digital-edition)=
 #### S All-Digital Edition
-[TODO](https://en.wikipedia.org/wiki/Xbox_One#Xbox_One_S_All-Digital_Edition)
+A lower-cost digital-only variant of the [Microsoft Xbox One S](consoles-microsoft-xbox-one-s) that lacked the optical disc drive,
+named the [S All-Digital Edition](consoles-microsoft-xbox-one-s-all-digital-edition),
+was released on [May 7, 2019](timeline-2019-05-07).
+
+```{figure} ../images/consoles/microsoft-xbox-one-s-all-digital-edition.jpg
+---
+name: fig-consoles-microsoft-xbox-one-s-all-digital-edition
+height: 200px
+---
+[Microsoft Xbox One S All-Digital Edition](consoles-microsoft-xbox-one-s-all-digital-edition)
+(from [GameStop](https://www.gamestop.com/consoles-hardware/xbox-one/consoles/products/microsoft-xbox-one-s-all-digital-edition-console/11050717.html)).
+```
 
 (consoles-microsoft-xbox-one-x)=
 #### X

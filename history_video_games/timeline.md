@@ -1911,10 +1911,25 @@ The [New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl),
 a 2D redesign of the [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
 is released in North America and Europe.
 
+(timeline-2019-05-07)=
+### May 7, 2019
+The [Microsoft Xbox One S All-Digital Edition](consoles-microsoft-xbox-one-s-all-digital-edition),
+a lower-cost digital-only variant of the [Microsoft Xbox One S](consoles-microsoft-xbox-one-s) that lacked the optical disc drive,
+is released.
+
+```{figure} ../images/consoles/microsoft-xbox-one-s-all-digital-edition-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-one-s-all-digital-edition-with-controller
+height: 200px
+---
+[Microsoft Xbox One S All-Digital Edition](consoles-microsoft-xbox-one-s-all-digital-edition) with controller
+(from [GameStop](https://www.gamestop.com/consoles-hardware/xbox-one/consoles/products/microsoft-xbox-one-s-all-digital-edition-console/11050717.html)).
+```
+
 (timeline-2019-09-20)=
 ### September 20, 2019
 The [Nintendo Switch Lite](consoles-nintendo-switch-lite),
-smaller revision of the [Nintendo Switch](consoles-nintendo-switch) with the Joy-Cons integrated into the main unit,
+a smaller revision of the [Nintendo Switch](consoles-nintendo-switch) with the Joy-Cons integrated into the main unit,
 is released.
 
 ```{figure} ../images/consoles/nintendo-switch-lite.jpg

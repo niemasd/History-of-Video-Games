@@ -152,12 +152,27 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(consoles-microsoft-xbox-one-s)=
 #### S
-[TODO](https://en.wikipedia.org/wiki/Xbox_One_S)
+A slimmer redesign of the [Microsoft Xbox One](consoles-microsoft-xbox-one),
+named the [S](consoles-microsoft-xbox-one-s),
+was released on [August 2, 2016](timeline-2016-08-02).
 
+```{figure} ../images/consoles/microsoft-xbox-one-s.jpg
+---
+name: fig-consoles-microsoft-xbox-one-s
+height: 200px
+---
+[Microsoft Xbox One S](consoles-microsoft-xbox-one-s)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-S-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-microsoft-xbox-one-s-all-digital-edition)=
 #### S All-Digital Edition
 [TODO](https://en.wikipedia.org/wiki/Xbox_One#Xbox_One_S_All-Digital_Edition)
 
+(consoles-microsoft-xbox-one-x)=
 #### X
 [TODO](https://en.wikipedia.org/wiki/Xbox_One#Xbox_One_X)
 

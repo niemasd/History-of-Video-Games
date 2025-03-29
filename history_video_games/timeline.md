@@ -1826,6 +1826,22 @@ The [Nintendo 2DS](consoles-nintendo-3ds-2ds),
 a 2D non-foldable redesign of the [Nintendo 3DS](consoles-nintendo-3ds),
 is released in Japan.
 
+(timeline-2016-08-02)=
+### August 2, 2016
+The [Microsoft Xbox One S](consoles-microsoft-xbox-one-s),
+a slimmer redesign of the [Microsoft Xbox One](consoles-microsoft-xbox-one),
+is released.
+
+```{figure} ../images/consoles/microsoft-xbox-one-s-with-controller.jpg
+---
+name: fig-timeline-consoles-microsoft-xbox-one-s-with-controller
+height: 200px
+---
+[Microsoft Xbox One S](consoles-microsoft-xbox-one-s) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-S-Console-wController-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2016-09-15)=
 ### September 15, 2016
 The [Sony PlayStation 4 Slim](consoles-sony-playstation-4-slim), a smaller redesign of the [Sony PlayStation 4](consoles-sony-playstation-4), is released.

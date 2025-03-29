@@ -999,11 +999,36 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-nintendo-switch-lite)=
 #### Lite
-[TODO](https://en.wikipedia.org/wiki/Nintendo_Switch#Nintendo_Switch_Lite)
+A smaller revision of the [Nintendo Switch](consoles-nintendo-switch) with the Joy-Cons integrated into the main unit,
+named the [Lite](consoles-nintendo-switch-lite),
+was released on [September 20, 2019](timeline-2019-09-20).
 
-(consoles-nintendo-switch-oled)=
-#### OLED
-[TODO](https://en.wikipedia.org/wiki/Nintendo_Switch#OLED_model)
+```{figure} ../images/consoles/nintendo-switch-lite.jpg
+---
+name: fig-consoles-nintendo-switch-lite
+height: 200px
+---
+[Nintendo Switch Lite](consoles-nintendo-switch-lite)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Switch_Lite_Pokemon_Zacian_and_Zamazenta_edition_White_BG.jpg)).
+Credit: [BugWarp](https://commons.wikimedia.org/wiki/User:BugWarp) and [Hyperba21](https://commons.wikimedia.org/wiki/User:Hyperba21)
+```
+
+(consoles-nintendo-switch-oled-model)=
+#### OLED Model
+An enhanced model of the [Nintendo Switch](consoles-nintendo-switch) with an OLED display,
+named the [OLED Model](consoles-nintendo-switch-oled-model),
+was released globally (except in China) on [October 8, 2021](timeline-2021-10-08),
+and in China on [January 11, 2022](timeline-2022-01-11).
+
+```{figure} ../images/consoles/nintendo-switch-oled-model.jpg
+---
+name: fig-consoles-nintendo-switch-oled-model
+height: 200px
+---
+[Nintendo Switch OLED Model](consoles-nintendo-switch-oled-model)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Switch_%E2%80%93_OLED-Modell-Konsole_20230506_HOF01643_RAW-Export.png)).
+Credit: [PantheraLeo1359531](https://commons.wikimedia.org/wiki/User:PantheraLeo1359531)
+```
 
 (consoles-nintendo-switch-2)=
 ### Switch 2

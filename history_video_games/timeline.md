@@ -1701,6 +1701,22 @@ The [New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl),
 a 2D redesign of the [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
 is released in North America and Europe.
 
+(timeline-2019-09-20)=
+### September 20, 2019
+The [Nintendo Switch Lite](consoles-nintendo-switch-lite),
+smaller revision of the [Nintendo Switch](consoles-nintendo-switch) with the Joy-Cons integrated into the main unit,
+is released.
+
+```{figure} ../images/consoles/nintendo-switch-lite.jpg
+---
+name: fig-timeline-nintendo-switch-lite
+height: 200px
+---
+[Nintendo Switch Lite](consoles-nintendo-switch-lite)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Switch_Lite_Pokemon_Zacian_and_Zamazenta_edition_White_BG.jpg)).
+Credit: [BugWarp](https://commons.wikimedia.org/wiki/User:BugWarp) and [Hyperba21](https://commons.wikimedia.org/wiki/User:Hyperba21)
+```
+
 (timeline-2020s)=
 ## 2020s
 
@@ -1731,6 +1747,28 @@ Credit: [Doctor49](https://playstation.fandom.com/wiki/User:Doctor49)
 (timeline-2020-11-19)=
 ### November 19, 2020
 The [Sony PlayStation 5](consoles-sony-playstation-5) and [Sony PlayStation 5 Digital Edition](consoles-sony-playstation-5-digital-edition) are released simultaneously worldwide.
+
+(timeline-2021-10-08)=
+### October 8, 2021
+The [Nintendo Switch OLED Model](consoles-nintendo-switch-oled-model),
+an enhanced model of the [Nintendo Switch](consoles-nintendo-switch) with an OLED display,
+is released globally (except in China).
+
+```{figure} ../images/consoles/nintendo-switch-oled-model.jpg
+---
+name: fig-timeline-nintendo-switch-oled-model
+height: 200px
+---
+[Nintendo Switch OLED Model](consoles-nintendo-switch-oled-model)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Switch_%E2%80%93_OLED-Modell-Konsole_20230506_HOF01643_RAW-Export.png)).
+Credit: [PantheraLeo1359531](https://commons.wikimedia.org/wiki/User:PantheraLeo1359531)
+```
+
+(timeline-2022-01-11)=
+### January 11, 2022
+The [Nintendo Switch OLED Model](consoles-nintendo-switch-oled-model),
+an enhanced model of the [Nintendo Switch](consoles-nintendo-switch) with an OLED display,
+is released in China.
 
 (timeline-2023-11-10)=
 ### November 10, 2023

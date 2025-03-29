@@ -1417,7 +1417,9 @@ is released in Australia.
 
 (timeline-2010-06-18)=
 ### June 18, 2010
-The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in North America.
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s),
+a slimmer redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360),
+is released in North America.
 
 ```{figure} ../images/consoles/microsoft-xbox-360-s-with-controller.jpg
 ---
@@ -1431,15 +1433,21 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (timeline-2010-07-01)=
 ### July 1, 2010
-The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in Australia.
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s),
+a slimmer redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360),
+is released in Australia.
 
 (timeline-2010-07-08)=
 ### July 8, 2010
-The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in New Zealand.
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s),
+a slimmer redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360),
+is released in New Zealand.
 
 (timeline-2010-07-16)=
 ### July 16, 2010
-The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in Europe.
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s),
+a slimmer redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360),
+is released in Europe.
 
 (timeline-2011-02-26)=
 ### February 26, 2011
@@ -1617,6 +1625,28 @@ is released in Europe.
 The [Nintendo Wii Mini](consoles-nintendo-wii-mini),
 a smaller redesign of the [Nintendo Wii](consoles-nintendo-wii),
 is released in the United Kingdom.
+
+(timeline-2013-06-10)=
+### June 10, 2013
+The [Microsoft Xbox 360 E](consoles-microsoft-xbox-360-e),
+a smaller and sleeker redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360) than the [S](consoles-microsoft-xbox-360-s),
+is released in North America.
+
+```{figure} ../images/consoles/microsoft-xbox-360-e-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-360-e-with-controller
+height: 200px
+---
+[Microsoft Xbox 360 E](consoles-microsoft-xbox-360-e) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-360-E-wController.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2013-06-20)=
+### June 20, 2013
+The [Microsoft Xbox 360 E](consoles-microsoft-xbox-360-e),
+a smaller and sleeker redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360) than the [S](consoles-microsoft-xbox-360-s),
+is released in Europe.
 
 (timeline-2013-10-10)=
 ### October 10, 2013

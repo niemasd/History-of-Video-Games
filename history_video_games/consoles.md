@@ -120,7 +120,20 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-microsoft-xbox-360-e)=
 #### E
-TODO
+A smaller and sleeker redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360) than the [S](consoles-microsoft-xbox-360-s),
+named the [E](consoles-microsoft-xbox-360-e),
+was released in North America on [June 10, 2013](timeline-2013-06-10),
+and in Europe on [June 20, 2013](timeline-2013-06-20).
+
+```{figure} ../images/consoles/microsoft-xbox-360-e.jpg
+---
+name: fig-consoles-microsoft-xbox-360-e
+height: 200px
+---
+[Microsoft Xbox 360 E](consoles-microsoft-xbox-360-e)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbox-360-E-Flat-Front.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-microsoft-xbox-one)=
 ### Xbox One

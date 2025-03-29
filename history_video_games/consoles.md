@@ -37,6 +37,42 @@ height: 200px
 Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
 ```
 
+(consoles-atari-pong-home-pong)=
+#### Home Pong
+[TODO](https://en.wikipedia.org/wiki/Pong#Home_version)
+
+(consoles-atari-2600)=
+### 2600
+[TODO](https://en.wikipedia.org/wiki/Atari_2600)
+
+(consoles-atari-5200)=
+### 5200
+[TODO](https://en.wikipedia.org/wiki/Atari_5200)
+
+(consoles-atari-7800)=
+### 7800
+[TODO](https://en.wikipedia.org/wiki/Atari_7800)
+
+(consoles-atari-xe-video-game-system)=
+### XE Video Game System
+[TODO](https://en.wikipedia.org/wiki/Atari_XEGS)
+
+(consoles-atari-lynx)=
+### Lynx
+[TODO](https://en.wikipedia.org/wiki/Atari_Lynx)
+
+(consoles-atari-lynx-ii)=
+#### II
+[TODO](https://en.wikipedia.org/wiki/Atari_Lynx#Lynx_II)
+
+(consoles-atari-jaguar)=
+### Jaguar
+[TODO](https://en.wikipedia.org/wiki/Atari_Jaguar)
+
+(consoles-atari-vcs)=
+### VCS
+[TODO](https://en.wikipedia.org/wiki/Atari_VCS_(2021_console))
+
 (consoles-microsoft)=
 ## Microsoft
 [Microsoft](consoles-microsoft) is an American multinational technology conglomerate headquartered in Redmond, Washington.

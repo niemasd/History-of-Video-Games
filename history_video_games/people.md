@@ -5,6 +5,20 @@
 Source Code: [`history_video_games/people.md`](https://github.com/niemasd/History-of-Video-Games/blob/main/history_video_games/people.md)
 ```
 
+(people-paul-allen)=
+## Paul Allen
+[Paul Allen](people-paul-allen) (January 21, 1953 - October 15, 2018) was a co-founder of [Microsoft](consoles-microsoft).
+
+```{figure} ../images/people/paul-allen.jpg
+---
+name: fig-people-paul-allen
+height: 200px
+---
+[Paul Allen](people-paul-allen)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_G._Allen_(cropped).jpg)).
+Credit: Miles Harris
+```
+
 (people-nolan-bushnell)=
 ## Nolan Bushnell
 [Nolan Bushnell](people-nolan-bushnell) (born February 5, 1943) was a co-founder of [Atari](consoles-atari).
@@ -31,6 +45,20 @@ height: 200px
 [Ted Dabney](people-ted-dabney)
 (from [YouTube](https://youtu.be/6arAY7cUa5I?si=UecMftJ3CT1as3-e)).
 Credit: [Computer History Museum](https://computerhistory.org/)
+```
+
+(people-bill-gates)=
+## Bill Gates
+[Bill Gates](people-bill-gates) (born October 28, 1955) was a co-founder of [Microsoft](consoles-microsoft).
+
+```{figure} ../images/people/bill-gates.jpg
+---
+name: fig-people-bill-gates
+height: 200px
+---
+[Bill Gates](people-bill-gates)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bill_Gates,_September_2024.jpg)).
+Credit: [Lula Oficial](https://www.flickr.com/people/157736962@N05)
 ```
 
 (people-masaru-ibuka)=

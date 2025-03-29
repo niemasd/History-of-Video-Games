@@ -37,6 +37,53 @@ height: 200px
 Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
 ```
 
+(consoles-microsoft)=
+## Microsoft
+[Microsoft](consoles-microsoft) is an American multinational technology conglomerate headquartered in Redmond, Washington.
+It was founded on [April 4, 1975](timeline-1975-04-04)
+by [Bill Gates](people-bill-gates) and [Paul Allen](people-paul-allen).
+
+```{figure} ../images/logos/microsoft.jpg
+---
+name: fig-consoles-microsoft
+height: 80px
+---
+[Microsoft](consoles-microsoft) logo
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg)).
+Credit: [Microsoft](http://www.microsoft.com)
+```
+
+(consoles-microsoft-xbox)=
+### Xbox
+[TODO](https://en.wikipedia.org/wiki/Xbox_(console))
+
+(consoles-microsoft-xbox-360)=
+### Xbox 360
+[TODO](https://en.wikipedia.org/wiki/Xbox_360)
+
+(consoles-microsoft-xbox-one)=
+### Xbox One
+[TODO](https://en.wikipedia.org/wiki/Xbox_One)
+
+#### S
+[TODO](https://en.wikipedia.org/wiki/Xbox_One_S)
+
+#### S All-Digital Edition
+[TODO](https://en.wikipedia.org/wiki/Xbox_One#Xbox_One_S_All-Digital_Edition)
+
+#### X
+[TODO](https://en.wikipedia.org/wiki/Xbox_One#Xbox_One_X)
+
+(consoles-microsoft-xbox-series-x-s)=
+### Xbox Series X/S
+[TODO](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
+
+#### X
+[TODO](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Xbox_Series_X)
+
+#### S
+[TODO](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Xbox_Series_S)
+
 (consoles-nintendo)=
 ## Nintendo
 [Nintendo](consoles-nintendo) is a Japanese multinational video game company headquartered in Kyoto.

@@ -41,8 +41,8 @@ Tokyo Tsushin Kogyo, now known as [Sony](consoles-sony), is established by [Masa
 name: fig-timeline-masaru-ibuka-akio-morita
 height: 200px
 ---
-[Mr. Morita](people-akio-morita) (age 26, then Managing Director)
-and [Mr. Ibuka](people-masaru-ibuka) (age 39, then Senior Managing Director)
+[Akio Morita](people-akio-morita) (age 26, then Managing Director)
+and [Masaru Ibuka](people-masaru-ibuka) (age 39, then Senior Managing Director)
 in May 1947
 (from [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)).
 ```
@@ -142,6 +142,30 @@ Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
 (timeline-1973-11)=
 ### November 1973 (day unknown)
 The [Atari Pong](consoles-atari-pong) arcade cabinet is released in Japan.
+
+(timeline-1975-04-04)=
+### April 4, 1975
+[Microsoft](consoles-microsoft) is founded by [Bill Gates](people-bill-gates) and [Paul Allen](people-paul-allen).
+
+```{figure} ../images/people/paul-allen-bill-gates.jpg
+---
+name: fig-timeline-paul-allen-bill-gates
+height: 200px
+---
+[Paul Allen](people-paul-allen)
+and [Bill Gates](people-bill-gates)
+in 1981
+(from [The Verge](https://www.theverge.com/2018/10/16/17982604/microsoft-paul-allen-death-co-founder-philanthropy-legacy)).
+```
+
+```{figure} ../images/logos/microsoft-history.jpg
+---
+name: fig-timeline-microsoft-history
+height: 200px
+---
+The evolution of the Traf-O-Data and [Microsoft](consoles-microsoft) logos from 1972 to present day
+(from [1000 Logos](https://1000logos.net/microsoft-logo/)).
+```
 
 (timeline-1977-06-01)=
 ### June 1, 1977

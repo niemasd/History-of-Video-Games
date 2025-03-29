@@ -33,8 +33,9 @@ jobs:
           python-version: 3.11
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt && \
-          sudo apt-get install -y texlive-fonts-extra texlive-latex-extra texlive-xetex latexmk
+          sudo apt-get update && \
+          sudo apt-get install -y texlive-fonts-extra texlive-latex-extra texlive-xetex latexmk && \
+          pip install -r requirements.txt
       - name: Build Book
         run: |
           jupyter-book build history_video_games && \

@@ -1065,6 +1065,36 @@ The [Nintendo Game Boy Micro](consoles-nintendo-game-boy-advance-micro),
 a miniaturized redesign of the [Nintendo Game Boy Advance](consoles-nintendo-game-boy-advance),
 is released in Europe.
 
+(timeline-2005-11-22)=
+### November 22, 2005
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in the United States and Canada.
+
+```{figure} ../images/consoles/microsoft-xbox-360.jpg
+---
+name: fig-timeline-microsoft-xbox-360
+height: 200px
+---
+[Microsoft Xbox 360](consoles-microsoft-xbox-360)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-360-Pro-Flat-wController-L.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2005-12-02)=
+### December 2, 2005
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in the European Union, Norway, Sweden, the United Kingdom, and Switzerland.
+
+(timeline-2005-12-10)=
+### December 10, 2005
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Japan.
+
+(timeline-2006-02-02)=
+### February 2, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Colombia and Mexico.
+
+(timeline-2006-02-24)=
+### February 24, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in South Korea.
+
 (timeline-2006-03-02)=
 ### March 2, 2006
 The [Nintendo DS Lite](consoles-nintendo-ds-lite),
@@ -1080,6 +1110,14 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-DS-Lite-Black-Open.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-2006-03-16)=
+### March 16, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Hong Kong, Singapore, and Taiwan.
+
+(timeline-2006-03-23)=
+### March 23, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Australasia.
 
 (timeline-2006-03-27)=
 ### March 27, 2006
@@ -1105,6 +1143,22 @@ is released in North America.
 The [Nintendo DS Lite](consoles-nintendo-ds-lite),
 a sleeker redesign of the [Nintendo DS](consoles-nintendo-ds) with brighter screens,
 is released in Europe.
+
+(timeline-2006-07-07)=
+### July 7, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Chile.
+
+(timeline-2006-09-25)=
+### September 25, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in India.
+
+(timeline-2006-09-29)=
+### September 29, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in South Africa.
+
+(timeline-2006-11-03)=
+### November 3, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in the Czech Republic and Poland.
 
 (timeline-2006-11-11)=
 ### November 11, 2006
@@ -1138,6 +1192,10 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-2006-12-01)=
+### December 1, 2006
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Brazil.
+
 (timeline-2006-12-02)=
 ### December 2, 2006
 The [Nintendo Wii](consoles-nintendo-wii) is released in Japan.
@@ -1149,6 +1207,10 @@ The [Nintendo Wii](consoles-nintendo-wii) is released in Australia.
 (timeline-2006-12-08)=
 ### December 8, 2006
 The [Nintendo Wii](consoles-nintendo-wii) is released in Europe.
+
+(timeline-2007-02-11)=
+### February 11, 2007
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Russia.
 
 (timeline-2007-03-23)=
 ### March 23, 2007
@@ -1192,6 +1254,10 @@ The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000
 ### September 20, 2007
 The [Sony PlayStation Portable PSP-2000](consoles-sony-playstation-portable-2000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable), is released in Japan.
 
+(timeline-2008-02-25)=
+### February 25, 2008
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in Peru.
+
 (timeline-2008-04-26)=
 ### April 26, 2008
 The [Nintendo Wii](consoles-nintendo-wii) is released in South Korea.
@@ -1225,6 +1291,10 @@ The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000
 (timeline-2008-10-23)=
 ### October 23, 2008
 The [Sony PlayStation Portable PSP-3000](consoles-sony-playstation-portable-3000), a slimmer and enhanced model of the [Sony PlayStation Portable](consoles-sony-playstation-portable) with an improved LCD screen compared to the [PSP-2000](consoles-sony-playstation-portable-2000), is released in Australia.
+
+(timeline-2008-10-28)=
+### October 28, 2008
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is released in the United Arab Emirates.
 
 (timeline-2008-11-01)=
 ### November 1, 2008
@@ -1344,6 +1414,32 @@ is released in North America.
 The [Nintendo DSi XL](consoles-nintendo-ds-dsi-xl),
 a larger redesign of the [Nintendo DS](consoles-nintendo-ds) than the [DSi](consoles-nintendo-ds-dsi),
 is released in Australia.
+
+(timeline-2010-06-18)=
+### June 18, 2010
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in North America.
+
+```{figure} ../images/consoles/microsoft-xbox-360-s-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-360-s-with-controller
+height: 200px
+---
+[Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbox-360S-Console-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-2010-07-01)=
+### July 1, 2010
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in Australia.
+
+(timeline-2010-07-08)=
+### July 8, 2010
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in New Zealand.
+
+(timeline-2010-07-16)=
+### July 16, 2010
+The [Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) is released in Europe.
 
 (timeline-2011-02-26)=
 ### February 26, 2011

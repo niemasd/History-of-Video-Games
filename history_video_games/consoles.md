@@ -72,7 +72,55 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-microsoft-xbox-360)=
 ### Xbox 360
-[TODO](https://en.wikipedia.org/wiki/Xbox_360)
+The [Microsoft Xbox 360](consoles-microsoft-xbox-360) is a video game console developed by [Microsoft](consoles-microsoft).
+It was released in the United States and Canada on [November 22, 2005](timeline-2005-11-22),
+in the European Union, Norway, Sweden, the United Kingdom, and Switzerland on [December 2, 2005](timeline-2005-12-02),
+in Japan on [December 10, 2005](timeline-2005-12-10),
+in Colombia and Mexico on [February 2, 2006](timeline-2006-02-02),
+in South Korea on [February 24, 2006](timeline-2006-02-24),
+in Hong Kong, Singapore, and Taiwan on [March 16, 2006](timeline-2006-03-16),
+in Australasia on [March 23, 2006](timeline-2006-03-23),
+in Chile on [July 7, 2006](timeline-2006-07-07),
+in India on [September 25, 2006](timeline-2006-09-25),
+in South Africa on [September 29, 2006](timeline-2006-09-29),
+in the Czech Republic and Poland on [November 3, 2006](timeline-2006-11-03),
+in Brazil on [December 1, 2006](timeline-2006-12-01),
+in Russia on [February 11, 2007](timeline-2007-02-11),
+in Peru on [February 25, 2008](timeline-2008-02-25),
+and in the United Arab Emirates on [October 28, 2008](timeline-2008-10-28).
+
+```{figure} ../images/consoles/microsoft-xbox-360.jpg
+---
+name: fig-consoles-microsoft-xbox-360
+height: 200px
+---
+[Microsoft Xbox 360](consoles-microsoft-xbox-360)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-360-Pro-Console-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-microsoft-xbox-360-s)=
+#### S
+A slimmer redesign of the [Microsoft Xbox 360](consoles-microsoft-xbox-360),
+named the [S](consoles-microsoft-xbox-360-s) (also known as the "Slim"),
+was released in North America on [June 18, 2010](timeline-2010-06-18),
+in Australia on [July 1, 2010](timeline-2010-07-01),
+in New Zealand on [July 8, 2010](timeline-2010-07-08),
+and in Europe on [July 16, 2010](timeline-2010-07-16)
+
+```{figure} ../images/consoles/microsoft-xbox-360-s-with-controller.jpg
+---
+name: fig-consoles-microsoft-xbox-360-s-with-controller
+height: 200px
+---
+[Microsoft Xbox 360 S](consoles-microsoft-xbox-360-s) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbox-360S-Console-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-microsoft-xbox-360-e)=
+#### E
+TODO
 
 (consoles-microsoft-xbox-one)=
 ### Xbox One

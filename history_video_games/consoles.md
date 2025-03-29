@@ -201,7 +201,8 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-microsoft-xbox-series-x-s)=
 ### Xbox Series X/S
-[TODO](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
+The [Microsoft Xbox Series X/S](consoles-microsoft-xbox-series-x-s) are video game consoles developed by [Microsoft](consoles-microsoft).
+They are two tiers of the same [Microsoft](consoles-microsoft) console generation.
 
 #### X
 [TODO](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Xbox_Series_X)

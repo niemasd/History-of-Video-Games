@@ -185,7 +185,19 @@ height: 200px
 
 (consoles-microsoft-xbox-one-x)=
 #### X
-[TODO](https://en.wikipedia.org/wiki/Xbox_One#Xbox_One_X)
+A high-end revision of the [Microsoft Xbox One](consoles-microsoft-xbox-one),
+named the [X](consoles-microsoft-xbox-one-x),
+was released on [November 7, 2017](timeline-2017-11-07).
+
+```{figure} ../images/consoles/microsoft-xbox-one-x.jpg
+---
+name: fig-consoles-microsoft-xbox-one-x
+height: 200px
+---
+[Microsoft Xbox One X](consoles-microsoft-xbox-one-x)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-X-Console-01.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-microsoft-xbox-series-x-s)=
 ### Xbox Series X/S

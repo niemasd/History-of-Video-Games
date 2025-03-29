@@ -1911,6 +1911,22 @@ The [New Nintendo 2DS XL](consoles-nintendo-3ds-new-2ds-xl),
 a 2D redesign of the [New Nintendo 3DS XL](consoles-nintendo-3ds-new-3ds-xl),
 is released in North America and Europe.
 
+(timeline-2017-11-07)=
+### November 7, 2017
+The [Microsoft Xbox One X](consoles-microsoft-xbox-one-x),
+a high-end revision of the [Microsoft Xbox One](consoles-microsoft-xbox-one),
+is released.
+
+```{figure} ../images/consoles/microsoft-xbox-one-x-with-controller.jpg
+---
+name: fig-timeline-microsoft-xbox-one-x-with-controller
+height: 200px
+---
+[Microsoft Xbox One X](consoles-microsoft-xbox-one-x) with controller
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-X-Console-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-2019-05-07)=
 ### May 7, 2019
 The [Microsoft Xbox One S All-Digital Edition](consoles-microsoft-xbox-one-s-all-digital-edition),

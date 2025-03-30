@@ -167,6 +167,20 @@ The evolution of the Traf-O-Data and [Microsoft](consoles-microsoft) logos from 
 (from [1000 Logos](https://1000logos.net/microsoft-logo/)).
 ```
 
+(timeline-1975-10)=
+### October 1975 (day unknown)
+The [Atari Home Pong](consoles-atari-pong-home-pong) is released.
+
+```{figure} ../images/consoles/atari-pong-home-pong.jpg
+---
+name: fig-timeline-atari-pong-home-pong
+height: 200px
+---
+[Atari Home Pong](consoles-atari-pong-home-pong)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TeleGames-Atari-Pong.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1977-06-01)=
 ### June 1, 1977
 The [Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6) is released in Japan.

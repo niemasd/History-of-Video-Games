@@ -39,7 +39,19 @@ Credit: [Chris Rand](https://commons.wikimedia.org/wiki/User:Rauglothgor)
 
 (consoles-atari-pong-home-pong)=
 #### Home Pong
-[TODO](https://en.wikipedia.org/wiki/Pong#Home_version)
+A scaled-down home version of [Atari Pong](consoles-atari-pong),
+named [Home Pong](consoles-atari-pong-home-pong),
+was released on [October 1975](timeline-1975-10).
+
+```{figure} ../images/consoles/atari-pong-home-pong.jpg
+---
+name: fig-consoles-atari-pong-home-pong
+height: 200px
+---
+[Atari Home Pong](consoles-atari-pong-home-pong)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TeleGames-Atari-Pong.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-atari-2600)=
 ### 2600

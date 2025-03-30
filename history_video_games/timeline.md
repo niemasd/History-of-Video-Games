@@ -181,6 +181,22 @@ height: 200px
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
+(timeline-1977)=
+### 1977 (month and day unknown)
+The [Atari CX2600 "Heavy Sixer"](consoles-atari-2600-cx2600-heavy-sixer),
+the first design of the [Atari 2600](consoles-atari-2600),
+is released.
+
+```{figure} ../images/consoles/atari-2600-cx2600-heavy-sixer.jpg
+---
+name: fig-timeline-atari-2600-cx2600-heavy-sixer
+height: 200px
+---
+[Atari CX2600 "Heavy Sixer"](consoles-atari-2600-cx2600-heavy-sixer)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:The_CX2600_%22Heavy_Sixer%22.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1977-06-01)=
 ### June 1, 1977
 The [Nintendo Color TV-Game 6](consoles-nintendo-color-tv-game-6) is released in Japan.
@@ -207,6 +223,28 @@ height: 200px
 [Nintendo Color TV-Game 15](consoles-nintendo-color-tv-game-15)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Color_TV-Game_15_(Cut_out).jpg)).
 Credit: [Greg Dunlap](https://www.flickr.com/people/74785688@N00)
+```
+
+(timeline-1977-09-11)=
+### September 11, 1977
+The [Atari 2600](consoles-atari-2600) is released in North America.
+
+(timeline-1978)=
+### 1978 (month and day unknown)
+The [Atari 2600](consoles-atari-2600) is released in the majority of Europe.
+
+The [Atari CX2600 "Light Sixer"](consoles-atari-2600-cx2600-light-sixer),
+a redesign of the [Atari 2600](consoles-atari-2600),
+is released.
+
+```{figure} ../images/consoles/atari-2600-cx2600-light-sixer.jpg
+---
+name: fig-timeline-atari-2600-cx2600-light-sixer
+height: 200px
+---
+[Atari CX2600 "Light Sixer"](consoles-atari-2600-cx2600-light-sixer)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Light-Sixer-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-1978-06-08)=
@@ -239,6 +277,22 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 (timeline-1980s)=
 ## 1980s
 
+(timeline-1980)=
+### 1980 (month and day unknown)
+The [Atari CX2600-A](consoles-atari-2600-cx2600-a),
+a redesign of the [Atari 2600](consoles-atari-2600),
+is released.
+
+```{figure} ../images/consoles/atari-2600-cx2600-a.jpg
+---
+name: fig-timeline-atari-2600-cx2600-a
+height: 200px
+---
+[Atari CX2600-A](consoles-atari-2600-cx2600-a)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Woody-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1980-04-28)=
 ### April 28, 1980
 The [Nintendo Game & Watch Silver](consoles-nintendo-game-and-watch-silver) series,
@@ -268,6 +322,12 @@ height: 200px
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nintendo-TV-Game-Computer.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
+
+(timeline-1981)=
+### 1981 (month and day unknown)
+The [Atari 2500](consoles-atari-2600-2500),
+an unreleased prototype redesign of the [Atari 2600](consoles-atari-2600),
+is created.
 
 (timeline-1981-01-29)=
 ### January 29, 1981
@@ -301,6 +361,22 @@ height: 200px
 Credit: Orlando105
 ```
 
+(timeline-1982)=
+### 1982 (month and day unknown)
+The [Atari 2600](consoles-atari-2600) is released in France.
+
+The first design of the [Atari 2600](consoles-atari-2600) to officially use the [2600](consoles-atari-2600-2600) name is released.
+
+```{figure} ../images/consoles/consoles-atari-2600-2600.jpg
+---
+name: fig-timeline-consoles-atari-2600-2600
+height: 200px
+---
+[Atari 2600](consoles-atari-2600-2600)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Vader-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
 (timeline-1982-05-28)=
 ### May 28, 1982
 The [Vertical Multi Screen](consoles-nintendo-game-and-watch-vertical-multi-screen) series,
@@ -331,6 +407,22 @@ height: 200px
 [Nintendo Game & Watch New Wide Screen](consoles-nintendo-game-and-watch-new-wide-screen)
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donkey_Kong_Jr._Game%26watch.jpg)).
 Credit: [Francis Bijl (frenkieb)](https://www.flickr.com/people/frenkieb)
+```
+
+(timeline-1983)=
+### 1983 (month and day unknown)
+The [Sears Video Arcade II](consoles-atari-2600-sears-video-arcade-ii),
+a sleek redesign of the [Atari 2600](consoles-atari-2600),
+is released.
+
+```{figure} ../images/consoles/atari-2600-sears-video-arcade-ii.jpg
+---
+name: fig-timeline-consoles-atari-2600-sears-video-arcade-ii
+height: 200px
+---
+[Sears Video Arcade II](consoles-atari-2600-sears-video-arcade-ii)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atari-2600-Video-Arcade-II-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 
 (timeline-1983-03-14)=
@@ -395,6 +487,26 @@ height: 200px
 Credit: [Xabi Vazquez](https://www.flickr.com/people/xabi)
 ```
 
+(timeline-1983-09)=
+### September 1983 (day unknown)
+The [Atari 2600](consoles-atari-2600) is released in Brazil.
+
+(timeline-1983-10)=
+### October 1983 (day unknown)
+The [Atari 2800](consoles-atari-2600-2800),
+sleek redesign of the [Atari 2600](consoles-atari-2600)
+inspired by the [Sears Video Arcade II](consoles-atari-2600-sears-video-arcade-ii),
+is released in Japan.
+
+```{figure} ../images/consoles/atari-2600-2800.jpg
+---
+name: fig-timeline-atari-2600-2800
+height: 200px
+---
+[Atari 2800](consoles-atari-2600-2800)
+(from [Freelancer Games](http://www.freelancer-games.com/MP/A2800.htm)).
+```
+
 (timeline-1984-02-06)=
 ### February 6, 1984
 The [Super Color](consoles-nintendo-game-and-watch-super-color) series,
@@ -440,6 +552,22 @@ height: 200px
 ---
 [Nintendo Entertainment System](consoles-nintendo-family-computer-nintendo-entertainment-system) with controller
 (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(timeline-1986)=
+### 1986 (month and day unknown)
+The [Atari 2600 Jr.](consoles-atari-2600-jr),
+a smaller redesign of the [Atari 2600](consoles-atari-2600),
+is released.
+
+```{figure} ../images/consoles/atari-2600-jr.jpg
+---
+name: fig-timeline-atari-2600-jr
+height: 200px
+---
+[Atari 2600 Jr.](consoles-atari-2600-jr)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Jr-FL.jpg)).
 Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 ```
 

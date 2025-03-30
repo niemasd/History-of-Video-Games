@@ -55,7 +55,133 @@ Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 (consoles-atari-2600)=
 ### 2600
-[TODO](https://en.wikipedia.org/wiki/Atari_2600)
+The [Atari 2600](consoles-atari-2600),
+originally named the "Video Computer System" (VCS),
+is a video game console developed by [Atari](consoles-atari).
+It was released in North America on [September 11, 1977](timeline-1977-09-11),
+in the majority of Europe on [1978](timeline-1978),
+in France on [1982](timeline-1982),
+and in Brazil on [September 1983](timeline-1983-09).
+
+
+(consoles-atari-2600-cx2600-heavy-sixer)=
+#### CX2600 "Heavy Sixer"
+The first design of the [Atari 2600](consoles-atari-2600),
+named the [CX2600 "Heavy Sixer"](consoles-atari-2600-cx2600-heavy-sixer),
+was manufactured starting in [1977](timeline-1977).
+
+```{figure} ../images/consoles/atari-2600-cx2600-heavy-sixer.jpg
+---
+name: fig-consoles-atari-2600-cx2600-heavy-sixer
+height: 200px
+---
+[Atari CX2600 "Heavy Sixer"](consoles-atari-2600-cx2600-heavy-sixer)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:The_CX2600_%22Heavy_Sixer%22.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-atari-2600-cx2600-light-sixer)=
+#### CX2600 "Light Sixer"
+The next design of the [Atari 2600](consoles-atari-2600),
+named the [CX2600 "Light Sixer"](consoles-atari-2600-cx2600-light-sixer),
+was manufactured starting in [1978](timeline-1978).
+
+```{figure} ../images/consoles/atari-2600-cx2600-light-sixer.jpg
+---
+name: fig-consoles-atari-2600-cx2600-light-sixer
+height: 200px
+---
+[Atari CX2600 "Light Sixer"](consoles-atari-2600-cx2600-light-sixer)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Light-Sixer-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-atari-2600-cx2600-a)=
+#### CX2600-A
+The next design of the [Atari 2600](consoles-atari-2600),
+named the [CX2600-A](consoles-atari-2600-cx2600-a),
+was released in [1980](timeline-1980).
+
+```{figure} ../images/consoles/atari-2600-cx2600-a.jpg
+---
+name: fig-consoles-atari-2600-cx2600-a
+height: 200px
+---
+[Atari CX2600-A](consoles-atari-2600-cx2600-a)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Woody-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-atari-2600-2500)=
+#### 2500
+An unreleased prototype redesign of the [Atari 2600](consoles-atari-2600),
+named the [2500](consoles-atari-2600-2500),
+was created in [1981](timeline-1981).
+
+(consoles-atari-2600-2600)=
+#### 2600
+The next design of the [Atari 2600](consoles-atari-2600),
+the first to actually use the [2600](consoles-atari-2600-2600) name,
+and nicknamed the "Darth Vader" due to its black color,
+was released in [1982](timeline-1982).
+
+```{figure} ../images/consoles/atari-2600-2600.jpg
+---
+name: fig-consoles-atari-2600-2600
+height: 200px
+---
+[Atari 2600](consoles-atari-2600-2600)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Vader-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-atari-2600-sears-video-arcade-ii)=
+#### Sears Video Arcade II
+A sleek redesign of the [Atari 2600](consoles-atari-2600),
+named the [Sears Video Arcade II](consoles-atari-2600-sears-video-arcade-ii),
+was released in [1983](timeline-1983).
+
+```{figure} ../images/consoles/atari-2600-sears-video-arcade-ii.jpg
+---
+name: fig-consoles-atari-2600-sears-video-arcade-ii
+height: 200px
+---
+[Sears Video Arcade II](consoles-atari-2600-sears-video-arcade-ii)
+(from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atari-2600-Video-Arcade-II-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
+
+(consoles-atari-2600-2800)=
+#### 2800
+A sleek redesign of the [Atari 2600](consoles-atari-2600)
+inspired by the [Sears Video Arcade II](consoles-atari-2600-sears-video-arcade-ii),
+named the [2800](consoles-atari-2600-2800),
+was released in Japan on [October 1983](timeline-1983-10).
+
+```{figure} ../images/consoles/atari-2600-2800.jpg
+---
+name: fig-consoles-atari-2600-2800
+height: 200px
+---
+[Atari 2800](consoles-atari-2600-2800)
+(from [Freelancer Games](http://www.freelancer-games.com/MP/A2800.htm)).
+```
+
+(consoles-atari-2600-jr)=
+#### Jr.
+A smaller redesign of the [Atari 2600](consoles-atari-2600),
+named the [Jr.](consoles-atari-2600-jr),
+was released in [1986](timeline-1986).
+
+```{figure} ../images/consoles/atari-2600-jr.jpg
+---
+name: fig-consoles-atari-2600-jr
+height: 200px
+---
+[Atari 2600 Jr.](consoles-atari-2600-jr)
+(from [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atari-2600-Jr-FL.jpg)).
+Credit: [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+```
 
 (consoles-atari-5200)=
 ### 5200

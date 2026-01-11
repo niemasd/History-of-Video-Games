@@ -2,5 +2,7 @@
     "name": "Bill Gates",
     "name_orig": "William Henry Gates III",
     "date_birth": "1955-10-28",
-    "location_birth": "Seattle, Washington, USA"
+    "date_birth_cite": ["britannica_bill_2026"],
+    "location_birth": "Seattle, Washington, USA",
+    "location_birth_cite": ["britannica_bill_2026"]
 }

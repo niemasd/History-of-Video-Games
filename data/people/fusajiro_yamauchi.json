@@ -2,7 +2,11 @@
     "name": "Fusajiro Yamauchi",
     "name_orig": "山内 房治郎",
     "date_birth": "1859-11-22",
+    "date_birth_cite": ["nndb_fusajiro_2026", "cohen_fusajiro_2020"],
     "location_birth": "Kyoto, Japan",
+    "location_birth_cite": ["nndb_fusajiro_2026"],
     "date_death": "1940-01-01",
-    "location_death": "Kyoto, Japan"
+    "date_death_cite": ["nndb_fusajiro_2026"],
+    "location_death": "Kyoto, Japan",
+    "location_death_cite": ["nndb_fusajiro_2026"]
 }

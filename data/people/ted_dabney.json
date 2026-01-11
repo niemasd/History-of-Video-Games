@@ -2,7 +2,11 @@
     "name": "Ted Dabney",
     "name_orig": "Samuel Frederick Dabney Jr.",
     "date_birth": "1937-05-02",
+    "date_birth_cite": ["bowles_ted_2018"],
     "location_birth": "San Francisco, California, USA",
+    "location_birth_cite": ["bowles_ted_2018"],
     "date_death": "2018-05-26",
-    "location_death": "Clearlake, California, USA"
+    "date_death_cite": ["bowles_ted_2018"],
+    "location_death": "Clearlake, California, USA",
+    "location_death_cite": ["bowles_ted_2018"]
 }

@@ -2,7 +2,11 @@
     "name": "Masaru Ibuka",
     "name_orig": "井深 大",
     "date_birth": "1908-04-11",
+    "date_birth_cite": ["kirkup_obituary_1997"],
     "location_birth": "Nikkō, Japan",
+    "location_birth_cite": ["kirkup_obituary_1997"],
     "date_death": "1997-12-19",
-    "location_death": "Tokyo, Japan"
+    "date_death_cite": ["kirkup_obituary_1997"],
+    "location_death": "Tokyo, Japan",
+    "location_death_cite": ["kirkup_obituary_1997"]
 }

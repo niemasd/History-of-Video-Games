@@ -1,0 +1,12 @@
+{
+    "name": "5200",
+    "name_orig": "5200 SuperSystem",
+    "date_start": {
+        "North America": "1982-11"
+    },
+    "date_start_cite": ["atari_inc_atari_1982"],
+    "date_end": {
+        "Global": "1984-05-21"
+    },
+    "date_end_cite": ["sanger_atari_1984"]
+}

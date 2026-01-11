@@ -1,0 +1,15 @@
+{
+    "name": "2600",
+    "name_orig": "Video Computer System (VCS)",
+    "date_start": {
+        "North America": "1977-09-11",
+        "Europe": "1978",
+        "France": "1982",
+        "Brazil": "1983-09"
+    },
+    "date_start_cite": ["atariage_atari_nodate", "forster_encyclopedia_2005", "roux_guerre_1989"],
+    "date_end": {
+        "Global": "1992"
+    },
+    "date_end_cite": ["montfort_racing_2009"]
+}

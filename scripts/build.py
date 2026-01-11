@@ -94,7 +94,7 @@ def parse_dates(data):
             to_check += list(curr.values())
             to_fix = dict()
             for k, v in curr.items():
-                if isinstance(v, str) and match(REGEX_DATE, v):
+                if (not k.startswith('name')) and isinstance(v, str) and match(REGEX_DATE, v):
                     parts = [int(part) for part in v.split('-')]
                     parts += ([0]*(3-len(parts)))
                     to_fix[k] = tuple(parts)
@@ -205,6 +205,22 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                     event_desc += 'the '
                 event_desc += (release_region + '.' + release_cite_str)
                 events_list.append((release_date, event_desc))
+            if 'date_end' in console_data:
+                if 'date_end_cite' in console_data:
+                    discontinue_cite_str = ' [%s]' % semicolon_separated_cites(console_data['date_end_cite'])
+                else:
+                    discontinue_cite_str = ''
+                for discontinue_region, discontinue_date in console_data['date_end'].items():
+                    event_desc = 'The [%s](#%s) [%s](#%s) was discontinued ' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'])
+                    if discontinue_region == 'Global':
+                        event_desc += 'globally'
+                    else:
+                        event_desc += 'in '
+                        if discontinue_region in REGIONS_THE:
+                            event_desc += 'the '
+                        event_desc += discontinue_region
+                    event_desc += ('.' + discontinue_cite_str)
+                    events_list.append((discontinue_date, event_desc))
     for curr_date, curr_desc in events_list:
         curr_decade = str(curr_date[0])[:3] + '0s'
         if curr_decade not in events:
@@ -281,7 +297,28 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                 md_f.write(' was released %s' % comma_separated(release_dates))
                 if 'date_start_cite' in console_data:
                     md_f.write(' [%s]' % semicolon_separated_cites(console_data['date_start_cite']))
-                md_f.write('.\n')
+                md_f.write('.')
+                if 'date_end' in console_data:
+                    discontinue_dates = list()
+                    for discontinue_region, discontinue_date in console_data['date_end'].items():
+                        curr_text = ''
+                        if discontinue_region == 'Global':
+                            curr_text += 'globally'
+                        else:
+                            curr_text += 'in '
+                            if discontinue_region in REGIONS_THE:
+                                curr_text += 'the '
+                            curr_text += discontinue_region
+                        if discontinue_date.count(0) == 0:
+                            curr_text += ' on '
+                        else:
+                            curr_text += ' in '
+                        curr_text += ('[%s](#%s)' % (convert_date_tuple(discontinue_date,'text'), convert_date_tuple(release_date,'yyyy-mm-dd')))
+                        discontinue_dates.append(curr_text)
+                    md_f.write(' It was discontinued %s.' % comma_separated(discontinue_dates))
+                    if 'date_end_cite' in console_data:
+                        md_f.write(' [%s]' % semicolon_separated_cites(console_data['date_end_cite']))
+                md_f.write('\n')
                 md_f.write('\n')
         md_f.write('\n')
 

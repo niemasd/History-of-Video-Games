@@ -2,6 +2,9 @@
     "name": "Nintendo",
     "name_orig": "任天堂",
     "date_start": "1889-09-23",
+    "date_start_cite": ["nintendo_corporate_nodate"],
     "location_start": "Kyoto, Japan",
-    "founders": ["Fusajiro Yamauchi"]
+    "location_start_cite": ["nintendo_corporate_nodate"],
+    "founders": ["Fusajiro Yamauchi"],
+    "founders_cite": ["nintendo_corporate_nodate"]
 }

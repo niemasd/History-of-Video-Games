@@ -1,6 +1,9 @@
 {
     "name": "Microsoft",
     "date_start": "1975-04-04",
-    "location_start": "Redmond, Washington, USA",
-    "founders": ["Bill Gates", "Paul Allen"]
+    "date_start_cite": ["bbc_bill_2006"],
+    "location_start": "Albuquerque, New Mexico, USA",
+    "location_start_cite": ["bbc_bill_2006"],
+    "founders": ["Bill Gates", "Paul Allen"],
+    "founders_cite": ["bbc_bill_2006"]
 }

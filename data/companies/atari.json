@@ -1,6 +1,9 @@
 {
     "name": "Atari",
     "date_start": "1972-06-27",
+    "date_start_cite": ["brown_articles_1972"],
     "location_start": "Sunnyvale, California, USA",
-    "founders": ["Nolan Bushnell", "Ted Dabney"]
+    "location_start_cite": ["brown_articles_1972"],
+    "founders": ["Nolan Bushnell", "Ted Dabney"],
+    "founders_cite": ["brown_articles_1972"]
 }

@@ -20,6 +20,7 @@ DEFAULT_REFS_PATH = Path(argv[0]).resolve().parent.parent / 'refs' / 'refs.bib'
 DEFAULT_CSL_PATH = Path(argv[0]).resolve().parent.parent / 'style' / 'ieee.csl'
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+REGIONS_THE = {'USA'}
 REGEX_DATE = r'^\d{4}(-\d{2}(-\d{2})?)?$'
 
 # return the current time as a string
@@ -80,7 +81,7 @@ def parse_args():
         error("Invalid output path: %s" % args.output)
     return args
 
-# parse all dates in `data` as (year, month, day) `tuple` objects (`None` = missing)
+# parse all dates in `data` as (year, month, day) `tuple` objects (0 = missing)
 def parse_dates(data):
     to_check = [data]
     while len(to_check) != 0:
@@ -95,19 +96,19 @@ def parse_dates(data):
             for k, v in curr.items():
                 if isinstance(v, str) and match(REGEX_DATE, v):
                     parts = [int(part) for part in v.split('-')]
-                    parts += ([None]*(3-len(parts)))
+                    parts += ([0]*(3-len(parts)))
                     to_fix[k] = tuple(parts)
             for k, v_fixed in to_fix.items():
                 curr[k] = v_fixed
 
 # convert a date tuple to some other date format ("yyyy-mm-dd", "text_full", or "text_abbr")
 def convert_date_tuple(date_tuple, date_format):
-    if date_tuple[1] is None: # just a year
+    if date_tuple[1] == 0: # just a year
         return str(date_tuple[0])
     date_format = date_format.strip().lower()
     if date_format == 'yyyy-mm-dd':
         out = str(date_tuple[0]) + '-' + str(date_tuple[1]).zfill(2)
-        if date_tuple[2] is not None:
+        if date_tuple[2] != 0:
             out += ('-' + str(date_tuple[2]).zfill(2))
         return out
     elif date_format.startswith('text'):
@@ -115,7 +116,7 @@ def convert_date_tuple(date_tuple, date_format):
             out = MONTHS_ABBR[date_tuple[1]]
         else:
             out = MONTHS_FULL[date_tuple[1]]
-        if date_tuple[2] is not None:
+        if date_tuple[2] != 0:
             out += (' ' + str(date_tuple[2]) + ',')
         return out + ' ' + str(date_tuple[0])
     else:
@@ -162,6 +163,7 @@ def load_data(data_path):
 def build_markdown(data, md_path, md_title="History of Video Games", md_author="Niema Moshiri", md_date=BUILD_TIME.strftime("%B %d, %Y"), verbose=True):
     # set things up
     companies_sorted = sorted(data['companies'].values(), key=lambda x: x['name'])
+    safename_to_company = {company_data['name_safe']:company_data for company_data in companies_sorted}
     people_sorted = sorted(data['people'].values(), key=lambda x: x['name'])
     consoles_sorted = {company: sorted(company_consoles.values(), key=lambda x: min(x['date_start'].values())) for company, company_consoles in data['consoles'].items()}
 
@@ -190,6 +192,19 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             if 'date_death_cite' in person_data:
                 event_desc += (' [%s]' % semicolon_separated_cites(person_data['date_death_cite']))
             events_list.append((person_data['date_death'], event_desc))
+    for company_safename, company_consoles in consoles_sorted.items():
+        company_data = safename_to_company[company_safename]
+        for console_data in company_consoles:
+            if 'date_start_cite' in console_data:
+                release_cite_str = ' [%s]' % semicolon_separated_cites(console_data['date_start_cite'])
+            else:
+                release_cite_str = ''
+            for release_region, release_date in console_data['date_start'].items():
+                event_desc = 'The [%s](#%s) [%s](#%s) was released in ' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'])
+                if release_region in REGIONS_THE:
+                    event_desc += 'the '
+                event_desc += (release_region + '.' + release_cite_str)
+                events_list.append((release_date, event_desc))
     for curr_date, curr_desc in events_list:
         curr_decade = str(curr_date[0])[:3] + '0s'
         if curr_decade not in events:
@@ -229,7 +244,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                     md_f.write(' by ' + founders)
                     if 'founders_cite' in company_data:
                         md_f.write(' [%s]' % semicolon_separated_cites(company_data['founders_cite']))
-            if company_data['date_start'].count(None) == 0:
+            if company_data['date_start'].count(0) == 0:
                 md_f.write(' on ')
             else:
                 md_f.write(' in ')
@@ -254,10 +269,10 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                         curr_text += 'globally'
                     else:
                         curr_text += 'in '
-                        if release_region in {'USA'}:
+                        if release_region in REGIONS_THE:
                             curr_text += 'the '
                         curr_text += release_region
-                    if release_date.count(None) == 0:
+                    if release_date.count(0) == 0:
                         curr_text += ' on '
                     else:
                         curr_text += ' in '
@@ -284,7 +299,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                 md_f.write(' in %s' % person_data['location_birth'])
                 if 'location_birth_cite' in person_data:
                     md_f.write(' [%s]' % semicolon_separated_cites(person_data['location_birth_cite']))
-            if person_data['date_birth'].count(None) == 0:
+            if person_data['date_birth'].count(0) == 0:
                 md_f.write(' on ')
             else:
                 md_f.write(' in ')
@@ -297,7 +312,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                     md_f.write(' in %s' % person_data['location_death'])
                     if 'location_death_cite' in person_data:
                         md_f.write(' [%s]' % semicolon_separated_cites(person_data['location_death_cite']))
-                if person_data['date_death'].count(None) == 0:
+                if person_data['date_death'].count(0) == 0:
                     md_f.write(' on ')
                 else:
                     md_f.write(' in ')
@@ -319,7 +334,8 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                 md_f.write('### %s {#%s}\n' % (year, year))
                 md_f.write('\n')
                 for event_date, event_descs in sorted(year_dict.items()):
-                    md_f.write('#### %s {#%s}\n' % (convert_date_tuple(event_date,'text'), convert_date_tuple(event_date,'yyyy-mm-dd')))
+                    if event_date[1] != 0: # don't put a sub-header for event dates that only have a year
+                        md_f.write('#### %s {#%s}\n' % (convert_date_tuple(event_date,'text'), convert_date_tuple(event_date,'yyyy-mm-dd')))
                     for event_desc in sorted(event_descs):
                         md_f.write('* %s\n' % event_desc)
                     md_f.write('\n')

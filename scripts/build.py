@@ -4,15 +4,18 @@ Build the OER in various formats from the data files
 '''
 
 # imports
+from datetime import datetime
 from json import load as jload
 from pathlib import Path
 from sys import argv, stderr
+from zoneinfo import ZoneInfo
 import argparse
 
 # constants
+BUILD_TIME = datetime.now(ZoneInfo("America/Los_Angeles"))
 DEFAULT_DATA_PATH = Path(argv[0]).resolve().parent.parent / 'data'
-MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
 # print error message and exit
 def error(s, file=stderr, exitcode=1):
@@ -53,7 +56,7 @@ def parse_args():
 # parse all dates in `data` as (year, month, day) `tuple` objects (`None` = missing)
 def parse_dates(data):
     for data_dicts in data.values():
-        for data_dict in data_dicts:
+        for data_dict in data_dicts.values():
             to_fix = dict()
             for k, v in data_dict.items():
                 if k.startswith('date_'):
@@ -90,10 +93,15 @@ def load_data(data_path):
     data = dict()
     for data_sub_path in data_path.glob('*'):
         if data_sub_path.is_dir():
-            curr_data_entries = list()
+            curr_data_entries = dict()
             for json_path in data_sub_path.rglob('*.json'):
                 with open(json_path, 'rt') as json_f:
-                    curr_data_entries.append(jload(json_f))
+                    try:
+                        curr_json_data = jload(json_f)
+                    except Exception as e:
+                        error("Failed to load JSON: %s\n%s" % (json_path, e))
+                    curr_json_data['name_safe'] = json_path.name.replace('.json','')
+                    curr_data_entries[curr_json_data['name']] = curr_json_data
             data[data_sub_path.name] = curr_data_entries
 
     # preprocess data
@@ -103,29 +111,106 @@ def load_data(data_path):
 # build markdown output
 def build_markdown(data, out_file_path):
     # set things up
-    companies_sorted = sorted(data['companies'], key=lambda x: x['name'])
+    companies_sorted = sorted(data['companies'].values(), key=lambda x: x['name'])
+    people_sorted = sorted(data['people'].values(), key=lambda x: x['name'])
+
+    # precompute timeline
+    events = dict() # events[decade][year][(year,month,day)] = list of event descriptions
+    for person_data in people_sorted:
+        person_events = list()
+        if 'date_birth' in person_data:
+            person_events.append((person_data['date_birth'], '[%s](#%s) was born.' % (person_data['name'], person_data['name_safe'])))
+        if 'date_death' in person_data:
+            person_events.append((person_data['date_death'], '[%s](#%s) passed away.' % (person_data['name'], person_data['name_safe'])))
+        for curr_date, curr_desc in person_events:
+            curr_decade = str(curr_date[0])[:3] + '0s'
+            if curr_decade not in events:
+                events[curr_decade] = dict()
+            if curr_date[0] not in events[curr_decade]:
+                events[curr_decade][curr_date[0]] = dict()
+            if curr_date not in events[curr_decade][curr_date[0]]:
+                events[curr_decade][curr_date[0]][curr_date] = list()
+            events[curr_decade][curr_date[0]][curr_date].append(curr_desc)
 
     # create markdown output
     with open(out_file_path, 'wt') as md_f:
-        for company_data in companies_sorted:
-            # company header
-            md_f.write('# %s {#%s}\n' % (company_data['name'], company_data['name_safe']))
+        # write title block
+        md_f.write('% History of Video Games\n')
+        md_f.write('% Niema Moshiri\n')
+        md_f.write('%% %s\n' % BUILD_TIME.strftime("%B %d, %Y"))
+        md_f.write('\n')
 
-            # company description
-            md_f.write('%s is a company founded' % company_data['name'])
+        # write "Companies" section
+        md_f.write('# Companies {#companies}\n')
+        md_f.write('This section will describe video game companies and the consoles they produced.\n')
+        md_f.write('\n')
+        for company_data in companies_sorted:
+            md_f.write('## %s {#%s}\n' % (company_data['name'], company_data['name_safe']))
+            md_f.write('[%s](#%s)' % (company_data['name'], company_data['name_safe']))
+            if 'name_orig' in company_data:
+                md_f.write(' (%s)' % company_data['name_orig'])
+            md_f.write(' is a company founded')
             if 'location_start' in company_data:
                 md_f.write(' in %s' % company_data['location_start'])
             if 'founders' in company_data:
-                founders = comma_separated(company_data['founders'])
+                founders = comma_separated(['[%s](#%s)' % (data['people'][founder]['name'], data['people'][founder]['name_safe']) for founder in company_data['founders']])
                 if len(founders) != 0:
                     md_f.write(' by ' + founders)
             if company_data['date_start'].count(None) == 0:
                 md_f.write(' on ')
             else:
                 md_f.write(' in ')
-            md_f.write(convert_date_tuple(company_data['date_start'], date_format='text'))
+            md_f.write('[%s](#%s)' % (convert_date_tuple(company_data['date_start'],'text'), convert_date_tuple(company_data['date_start'],'yyyy-mm-dd')))
             md_f.write('.\n')
             md_f.write('\n')
+        md_f.write('\n')
+
+        # write "People" section
+        md_f.write('# People {#people}\n')
+        md_f.write('This section will describe important people in video game history.\n')
+        md_f.write('\n')
+        for person_data in people_sorted:
+            md_f.write('## %s {#%s}\n' % (person_data['name'], person_data['name_safe']))
+            md_f.write('[%s](#%s)' % (person_data['name'], person_data['name_safe']))
+            if 'name_orig' in person_data:
+                md_f.write(' (%s)' % person_data['name_orig'])
+            md_f.write(' was born')
+            if 'location_birth' in person_data:
+                md_f.write(' in %s' % person_data['location_birth'])
+            if person_data['date_birth'].count(None) == 0:
+                md_f.write(' on ')
+            else:
+                md_f.write(' in ')
+            md_f.write('[%s](#%s)' % (convert_date_tuple(person_data['date_birth'],'text'), convert_date_tuple(person_data['date_birth'],'yyyy-mm-dd')))
+            if 'date_death' in person_data:
+                md_f.write(', and passed away')
+                if 'location_death' in person_data:
+                    md_f.write(' in %s' % person_data['location_death'])
+                if person_data['date_death'].count(None) == 0:
+                    md_f.write(' on ')
+                else:
+                    md_f.write(' in ')
+                md_f.write('[%s](#%s)' % (convert_date_tuple(person_data['date_death'],'text'), convert_date_tuple(person_data['date_death'],'yyyy-mm-dd')))
+            md_f.write('.\n')
+            md_f.write('\n')
+        md_f.write('\n')
+
+        # write "Timeline" section
+        md_f.write('# Timeline {#timeline}\n')
+        md_f.write('This section contains a timeline of important events in video game history.\n')
+        md_f.write('\n')
+        for decade, decade_dict in sorted(events.items()):
+            md_f.write('## %s {#%s}\n' % (decade, decade))
+            md_f.write('\n')
+            for year, year_dict in sorted(decade_dict.items()):
+                md_f.write('### %s {#%s}\n' % (year, year))
+                md_f.write('\n')
+                for event_date, event_descs in sorted(year_dict.items()):
+                    md_f.write('#### %s {#%s}\n' % (convert_date_tuple(event_date,'text'), convert_date_tuple(event_date,'yyyy-mm-dd')))
+                    for event_desc in sorted(event_descs):
+                        md_f.write('* %s\n' % event_desc)
+                    md_f.write('\n')
+        md_f.write('\n')
 
 # main program logic
 def main():

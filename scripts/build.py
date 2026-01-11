@@ -7,6 +7,7 @@ Build the OER in various formats from the data files
 from datetime import datetime
 from json import load as jload
 from pathlib import Path
+from re import match
 from subprocess import run
 from sys import argv, stderr
 from zoneinfo import ZoneInfo
@@ -19,6 +20,7 @@ DEFAULT_REFS_PATH = Path(argv[0]).resolve().parent.parent / 'refs' / 'refs.bib'
 DEFAULT_CSL_PATH = Path(argv[0]).resolve().parent.parent / 'style' / 'ieee.csl'
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+REGEX_DATE = r'^\d{4}(-\d{2}(-\d{2})?)?$'
 
 # return the current time as a string
 def get_time():
@@ -80,16 +82,23 @@ def parse_args():
 
 # parse all dates in `data` as (year, month, day) `tuple` objects (`None` = missing)
 def parse_dates(data):
-    for data_dicts in data.values():
-        for data_dict in data_dicts.values():
+    to_check = [data]
+    while len(to_check) != 0:
+        curr = to_check.pop()
+        if isinstance(curr, list):
+            to_check += curr
+        elif isinstance(curr, set):
+            to_check += list(curr)
+        elif isinstance(curr, dict):
+            to_check += list(curr.values())
             to_fix = dict()
-            for k, v in data_dict.items():
-                if k.startswith('date_') and not k.endswith('_cite'):
+            for k, v in curr.items():
+                if isinstance(v, str) and match(REGEX_DATE, v):
                     parts = [int(part) for part in v.split('-')]
                     parts += ([None]*(3-len(parts)))
                     to_fix[k] = tuple(parts)
             for k, v_fixed in to_fix.items():
-                data_dict[k] = v_fixed
+                curr[k] = v_fixed
 
 # convert a date tuple to some other date format ("yyyy-mm-dd", "text_full", or "text_abbr")
 def convert_date_tuple(date_tuple, date_format):
@@ -115,19 +124,18 @@ def convert_date_tuple(date_tuple, date_format):
 # load data
 def load_data(data_path):
     # load data from JSON files
-    data = dict()
-    for data_sub_path in data_path.glob('*'):
-        if data_sub_path.is_dir():
-            curr_data_entries = dict()
-            for json_path in data_sub_path.rglob('*.json'):
-                with open(json_path, 'rt') as json_f:
-                    try:
-                        curr_json_data = jload(json_f)
-                    except Exception as e:
-                        error("Failed to load JSON: %s\n%s" % (json_path, e))
-                    curr_json_data['name_safe'] = json_path.name.replace('.json','')
-                    curr_data_entries[curr_json_data['name']] = curr_json_data
-            data[data_sub_path.name] = curr_data_entries
+    data = {'companies':dict(), 'people':dict(), 'consoles':dict()}
+    for data_dir_name in ['companies', 'people']:
+        curr_data_entries = dict()
+        for json_path in (data_path / data_dir_name).glob('*.json'):
+            with open(json_path, 'rt') as json_f:
+                try:
+                    curr_json_data = jload(json_f)
+                except Exception as e:
+                    error("Failed to load JSON: %s\n%s" % (json_path, e))
+                curr_json_data['name_safe'] = json_path.name.replace('.json','')
+                curr_data_entries[curr_json_data['name']] = curr_json_data
+        data[data_dir_name] = curr_data_entries
 
     # preprocess data
     parse_dates(data)

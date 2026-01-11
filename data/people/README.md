@@ -1,6 +1,6 @@
 This directory contains all people. The following attributes are required:
 
-* **`name`** — The anglicized name of the person as a string
+* **`name`** — The English name of the person as a string
 * **`date_birth`** — The birth date of the person as a string in the format `YYYY-MM-DD`
 
 The following attributes are optional:

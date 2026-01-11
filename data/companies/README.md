@@ -1,6 +1,6 @@
 This directory contains all companies. The following attributes are required:
 
-* **`name`** — The anglicized name of the company as a string
+* **`name`** — The English name of the company as a string
 * **`date_start`** — The start (i.e., founding) date of the company as a string in the format `YYYY-MM-DD`
 
 The following attributes are optional:

@@ -1,0 +1,9 @@
+{
+    "name": "Pong",
+    "date_start": {
+        "North America": "1972-11-29",
+        "Japan": "1973-11",
+        "Europe": "1973"
+    },
+    "date_start_cite": ["editors_pong_2024", "akagi_arcade_2006", "ace_after_1988"]
+}

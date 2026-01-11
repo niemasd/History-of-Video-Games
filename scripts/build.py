@@ -127,14 +127,31 @@ def load_data(data_path):
     data = {'companies':dict(), 'people':dict(), 'consoles':dict()}
     for data_dir_name in ['companies', 'people']:
         curr_data_entries = dict()
-        for json_path in (data_path / data_dir_name).glob('*.json'):
+        for json_path in (data_path / data_dir_name).rglob('*.json'):
             with open(json_path, 'rt') as json_f:
                 try:
                     curr_json_data = jload(json_f)
                 except Exception as e:
                     error("Failed to load JSON: %s\n%s" % (json_path, e))
+            curr_json_data['name_safe'] = json_path.name.replace('.json','')
+            curr_data_entries[curr_json_data['name']] = curr_json_data
+        data[data_dir_name] = curr_data_entries
+    for data_dir_name in ['consoles']:
+        curr_data_entries = dict()
+        for company_console_path in (data_path / data_dir_name).glob('*'):
+            if not company_console_path.is_dir():
+                continue # only look at directories (which should be company names)
+            company_name_safe = company_console_path.name
+            curr_data_entries_company = dict()
+            for json_path in company_console_path.rglob('*.json'):
+                with open(json_path, 'rt') as json_f:
+                    try:
+                        curr_json_data = jload(json_f)
+                    except Exception as e:
+                        error("Failed to load JSON: %s\n%s" % (json_path, e))
                 curr_json_data['name_safe'] = json_path.name.replace('.json','')
-                curr_data_entries[curr_json_data['name']] = curr_json_data
+                curr_data_entries_company[curr_json_data['name']] = curr_json_data
+            curr_data_entries[company_console_path.name] = curr_data_entries_company
         data[data_dir_name] = curr_data_entries
 
     # preprocess data
@@ -146,6 +163,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
     # set things up
     companies_sorted = sorted(data['companies'].values(), key=lambda x: x['name'])
     people_sorted = sorted(data['people'].values(), key=lambda x: x['name'])
+    consoles_sorted = {company: sorted(company_consoles.values(), key=lambda x: min(x['date_start'].values())) for company, company_consoles in data['consoles'].items()}
 
     # precompute timeline
     events = dict() # events[decade][year][(year,month,day)] = list of event descriptions
@@ -190,11 +208,12 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
         md_f.write('%% %s\n' % md_date)
         md_f.write('\n')
 
-        # write "Companies" section
-        md_f.write('# Companies {#companies}\n')
+        # write "Consoles" section
+        md_f.write('# Consoles {#consoles}\n')
         md_f.write('This section will describe video game companies and the consoles they produced.\n')
         md_f.write('\n')
         for company_data in companies_sorted:
+            # write info about the company
             md_f.write('## %s {#%s}\n' % (company_data['name'], company_data['name_safe']))
             md_f.write('[%s](#%s)' % (company_data['name'], company_data['name_safe']))
             if 'name_orig' in company_data:
@@ -219,6 +238,36 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                 md_f.write(' [%s]' % semicolon_separated_cites(company_data['date_start_cite']))
             md_f.write('.\n')
             md_f.write('\n')
+
+            # write info about each console the company made
+            if company_data['name_safe'] not in consoles_sorted:
+                continue # skip companies without consoles (for now)
+            for console_data in consoles_sorted[company_data['name_safe']]:
+                md_f.write('### %s {#%s}\n' % (console_data['name'], console_data['name_safe']))
+                md_f.write('The [%s](#%s) [%s](#%s)' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe']))
+                if 'name_orig' in console_data:
+                    md_f.write(' (%s)' % console_data['name_orig'])
+                release_dates = list()
+                for release_region, release_date in console_data['date_start'].items():
+                    curr_text = ''
+                    if release_region == 'Global':
+                        curr_text += 'globally'
+                    else:
+                        curr_text += 'in '
+                        if release_region in {'USA'}:
+                            curr_text += 'the '
+                        curr_text += release_region
+                    if release_date.count(None) == 0:
+                        curr_text += ' on '
+                    else:
+                        curr_text += ' in '
+                    curr_text += ('[%s](#%s)' % (convert_date_tuple(release_date,'text'), convert_date_tuple(release_date,'yyyy-mm-dd')))
+                    release_dates.append(curr_text)
+                md_f.write(' was released %s' % comma_separated(release_dates))
+                if 'date_start_cite' in console_data:
+                    md_f.write(' [%s]' % semicolon_separated_cites(console_data['date_start_cite']))
+                md_f.write('.\n')
+                md_f.write('\n')
         md_f.write('\n')
 
         # write "People" section

@@ -7,6 +7,7 @@ Build the OER in various formats from the data files
 from datetime import datetime
 from json import load as jload
 from pathlib import Path
+from subprocess import run
 from sys import argv, stderr
 from zoneinfo import ZoneInfo
 import argparse
@@ -17,9 +18,17 @@ DEFAULT_DATA_PATH = Path(argv[0]).resolve().parent.parent / 'data'
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
+# return the current time as a string
+def get_time():
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+# print a log message
+def print_log(s='', end='\n', file=stderr):
+    print('[%s] %s' % (get_time(), s), end=end, file=file)
+
 # print error message and exit
 def error(s, file=stderr, exitcode=1):
-    print("ERROR: %s" % s, file=file); exit(exitcode)
+    print_log("ERROR: %s" % s, file=file); exit(exitcode)
 
 # convert a list of strings to a properly-comma-separated string
 def comma_separated(vals):
@@ -38,6 +47,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('-d', '--data', required=False, type=str, default=DEFAULT_DATA_PATH, help="Input Data Path")
     parser.add_argument('-o', '--output', required=True, type=str, help="Output Directory")
+    parser.add_argument('--pandoc_path', required=False, type=str, default='pandoc', help="Path to 'pandoc' Executable")
     args = parser.parse_args()
 
     # check args before returning
@@ -109,7 +119,7 @@ def load_data(data_path):
     return data
 
 # build markdown output
-def build_markdown(data, out_file_path):
+def build_markdown(data, md_path, md_title="History of Video Games", md_author="Niema Moshiri", md_date=BUILD_TIME.strftime("%B %d, %Y"), verbose=True):
     # set things up
     companies_sorted = sorted(data['companies'].values(), key=lambda x: x['name'])
     people_sorted = sorted(data['people'].values(), key=lambda x: x['name'])
@@ -133,11 +143,11 @@ def build_markdown(data, out_file_path):
             events[curr_decade][curr_date[0]][curr_date].append(curr_desc)
 
     # create markdown output
-    with open(out_file_path, 'wt') as md_f:
+    with open(md_path, 'wt') as md_f:
         # write title block
-        md_f.write('% History of Video Games\n')
-        md_f.write('% Niema Moshiri\n')
-        md_f.write('%% %s\n' % BUILD_TIME.strftime("%B %d, %Y"))
+        md_f.write('%% %s\n' % md_title)
+        md_f.write('%% %s\n' % md_author)
+        md_f.write('%% %s\n' % md_date)
         md_f.write('\n')
 
         # write "Companies" section
@@ -212,15 +222,33 @@ def build_markdown(data, out_file_path):
                     md_f.write('\n')
         md_f.write('\n')
 
+# run pandoc to convert Markdown to all other formats
+def run_pandoc(md_path, pandoc_path='pandoc', verbose=True):
+    html_path = md_path.parent / (md_path.stem + '.html')
+    command = ['pandoc', '-s', '--toc', md_path, '-o', html_path]
+    if verbose:
+        print_log("HTML Command: %s" % ' '.join(str(s) for s in command))
+    run(command)
+
 # main program logic
-def main():
+def main(verbose=True):
     # set things up
     args = parse_args()
+    if verbose:
+        print_log("Loading data from: %s" % args.data)
     data = load_data(args.data)
+    if verbose:
+        print_log("Output Directory: %s" % args.output)
     args.output.mkdir()
 
     # build pages from loaded data
-    build_markdown(data, args.output / 'index.md')
+    md_path = args.output / 'index.md'
+    if verbose:
+        print_log("Building Markdown output...")
+    build_markdown(data, md_path, verbose=verbose)
+    if verbose:
+        print_log("Running Pandoc to build other outputs...")
+    run_pandoc(md_path, pandoc_path=args.pandoc_path, verbose=verbose)
 
 # run tool
 if __name__ == "__main__":

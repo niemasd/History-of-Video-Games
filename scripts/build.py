@@ -15,6 +15,8 @@ import argparse
 # constants
 BUILD_TIME = datetime.now(ZoneInfo("America/Los_Angeles"))
 DEFAULT_DATA_PATH = Path(argv[0]).resolve().parent.parent / 'data'
+DEFAULT_REFS_PATH = Path(argv[0]).resolve().parent.parent / 'refs' / 'refs.bib'
+DEFAULT_CSL_PATH = Path(argv[0]).resolve().parent.parent / 'style' / 'ieee.csl'
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
@@ -46,6 +48,8 @@ def parse_args():
     # parse args
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('-d', '--data', required=False, type=str, default=DEFAULT_DATA_PATH, help="Input Data Path")
+    parser.add_argument('-r', '--refs', required=False, type=str, default=DEFAULT_REFS_PATH, help="Input References (BIB)")
+    parser.add_argument('-rs', '--refs_style', required=False, type=str, default=DEFAULT_CSL_PATH, help="References Style (CSL)")
     parser.add_argument('-o', '--output', required=True, type=str, help="Output Directory")
     parser.add_argument('--pandoc_path', required=False, type=str, default='pandoc', help="Path to 'pandoc' Executable")
     args = parser.parse_args()
@@ -55,6 +59,13 @@ def parse_args():
         args.data = Path(args.data)
     if not args.data.is_dir():
         error("Directory not found: %s" % args.data)
+    if isinstance(args.refs, str):
+        args.refs = Path(args.refs)
+    if isinstance(args.refs_style, str):
+        args.refs_style = Path(args.refs_style)
+    for p in [args.refs, args.refs_style]:
+        if not p.is_file():
+            error("File not found: %s" % p)
     if isinstance(args.output, str):
         args.output = Path(args.output)
     if args.output.exists():
@@ -69,7 +80,7 @@ def parse_dates(data):
         for data_dict in data_dicts.values():
             to_fix = dict()
             for k, v in data_dict.items():
-                if k.startswith('date_'):
+                if k.startswith('date_') and not k.endswith('_cite'):
                     parts = [int(part) for part in v.split('-')]
                     parts += ([None]*(3-len(parts)))
                     to_fix[k] = tuple(parts)
@@ -187,6 +198,8 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             md_f.write(' was born')
             if 'location_birth' in person_data:
                 md_f.write(' in %s' % person_data['location_birth'])
+                if 'location_birth_cite' in person_data:
+                    md_f.write(' [%s]' % '; '.join('@%s' % cite for cite in person_data['location_birth_cite']))
             if person_data['date_birth'].count(None) == 0:
                 md_f.write(' on ')
             else:
@@ -223,12 +236,13 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
         md_f.write('\n')
 
 # run pandoc to convert Markdown to all other formats
-def run_pandoc(md_path, pandoc_path='pandoc', verbose=True):
+def run_pandoc(md_path, refs_path, refs_style_path, pandoc_path='pandoc', verbose=True):
     html_path = md_path.parent / (md_path.stem + '.html')
-    command = ['pandoc', '-s', '--toc', md_path, '-o', html_path]
+    command_base = ['pandoc', '-s', '--toc', '--citeproc', md_path, '--bibliography', refs_path, '--csl', refs_style_path, '-M', 'reference-section-title=Bibliography', '--metadata', 'link-citations:true']
+    command_html = command_base + ['-o', html_path]
     if verbose:
-        print_log("HTML Command: %s" % ' '.join(str(s) for s in command))
-    run(command)
+        print_log("HTML Command: %s" % ' '.join(str(s) for s in command_html))
+    run(command_html)
 
 # main program logic
 def main(verbose=True):
@@ -248,7 +262,7 @@ def main(verbose=True):
     build_markdown(data, md_path, verbose=verbose)
     if verbose:
         print_log("Running Pandoc to build other outputs...")
-    run_pandoc(md_path, pandoc_path=args.pandoc_path, verbose=verbose)
+    run_pandoc(md_path, args.refs, args.refs_style, pandoc_path=args.pandoc_path, verbose=verbose)
 
 # run tool
 if __name__ == "__main__":

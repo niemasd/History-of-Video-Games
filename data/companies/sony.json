@@ -2,6 +2,9 @@
     "name": "Sony",
     "name_orig": "ソニ",
     "date_start": "1946-05-07",
-    "location_start": "Minato, Tokyo, Japan",
-    "founders": ["Masaru Ibuka", "Akio Morita"]
+    "date_start_cite": ["noauthor_founding_nodate"],
+    "location_start": "Tokyo, Japan",
+    "location_start_cite": ["noauthor_founding_nodate"],
+    "founders": ["Masaru Ibuka", "Akio Morita"],
+    "founders_cite": ["noauthor_corporate_nodate"]
 }

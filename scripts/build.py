@@ -43,6 +43,10 @@ def comma_separated(vals):
     else:
         return ', '.join(vals[:-1]) + ', and ' + vals[-1]
 
+# convert a list of citations from a `_cite` attribute to a semicolon-separated string
+def semicolon_separated_cites(citations):
+    return '; '.join('@%s' % cite for cite in citations)
+
 # parse user args
 def parse_args():
     # parse args
@@ -140,9 +144,15 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
     for person_data in people_sorted:
         person_events = list()
         if 'date_birth' in person_data:
-            person_events.append((person_data['date_birth'], '[%s](#%s) was born.' % (person_data['name'], person_data['name_safe'])))
+            event_desc = '[%s](#%s) was born.' % (person_data['name'], person_data['name_safe'])
+            if 'date_birth_cite' in person_data:
+                event_desc += (' [%s]' % semicolon_separated_cites(person_data['date_birth_cite']))
+            person_events.append((person_data['date_birth'], event_desc))
         if 'date_death' in person_data:
-            person_events.append((person_data['date_death'], '[%s](#%s) passed away.' % (person_data['name'], person_data['name_safe'])))
+            event_desc = '[%s](#%s) passed away.' % (person_data['name'], person_data['name_safe'])
+            if 'date_death_cite' in person_data:
+                event_desc += (' [%s]' % semicolon_separated_cites(person_data['date_death_cite']))
+            person_events.append((person_data['date_death'], event_desc))
         for curr_date, curr_desc in person_events:
             curr_decade = str(curr_date[0])[:3] + '0s'
             if curr_decade not in events:
@@ -173,15 +183,21 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             md_f.write(' is a company founded')
             if 'location_start' in company_data:
                 md_f.write(' in %s' % company_data['location_start'])
+                if 'location_start_cite' in company_data:
+                    md_f.write(' [%s]' % semicolon_separated_cites(company_data['location_start_cite']))
             if 'founders' in company_data:
                 founders = comma_separated(['[%s](#%s)' % (data['people'][founder]['name'], data['people'][founder]['name_safe']) for founder in company_data['founders']])
                 if len(founders) != 0:
                     md_f.write(' by ' + founders)
+                    if 'founders_cite' in company_data:
+                        md_f.write(' [%s]' % semicolon_separated_cites(company_data['founders_cite']))
             if company_data['date_start'].count(None) == 0:
                 md_f.write(' on ')
             else:
                 md_f.write(' in ')
             md_f.write('[%s](#%s)' % (convert_date_tuple(company_data['date_start'],'text'), convert_date_tuple(company_data['date_start'],'yyyy-mm-dd')))
+            if 'date_start_cite' in company_data:
+                md_f.write(' [%s]' % semicolon_separated_cites(company_data['date_start_cite']))
             md_f.write('.\n')
             md_f.write('\n')
         md_f.write('\n')
@@ -199,21 +215,27 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             if 'location_birth' in person_data:
                 md_f.write(' in %s' % person_data['location_birth'])
                 if 'location_birth_cite' in person_data:
-                    md_f.write(' [%s]' % '; '.join('@%s' % cite for cite in person_data['location_birth_cite']))
+                    md_f.write(' [%s]' % semicolon_separated_cites(person_data['location_birth_cite']))
             if person_data['date_birth'].count(None) == 0:
                 md_f.write(' on ')
             else:
                 md_f.write(' in ')
             md_f.write('[%s](#%s)' % (convert_date_tuple(person_data['date_birth'],'text'), convert_date_tuple(person_data['date_birth'],'yyyy-mm-dd')))
+            if 'date_birth_cite' in person_data:
+                md_f.write(' [%s]' % semicolon_separated_cites(person_data['date_birth_cite']))
             if 'date_death' in person_data:
                 md_f.write(', and passed away')
                 if 'location_death' in person_data:
                     md_f.write(' in %s' % person_data['location_death'])
+                    if 'location_death_cite' in person_data:
+                        md_f.write(' [%s]' % semicolon_separated_cites(person_data['location_death_cite']))
                 if person_data['date_death'].count(None) == 0:
                     md_f.write(' on ')
                 else:
                     md_f.write(' in ')
                 md_f.write('[%s](#%s)' % (convert_date_tuple(person_data['date_death'],'text'), convert_date_tuple(person_data['date_death'],'yyyy-mm-dd')))
+                if 'date_death_cite' in person_data:
+                    md_f.write(' [%s]' % semicolon_separated_cites(person_data['date_death_cite']))
             md_f.write('.\n')
             md_f.write('\n')
         md_f.write('\n')

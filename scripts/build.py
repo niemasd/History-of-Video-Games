@@ -141,27 +141,38 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
 
     # precompute timeline
     events = dict() # events[decade][year][(year,month,day)] = list of event descriptions
+    events_list = list() # temporary holder before adding to `events`
+    for company_data in companies_sorted:
+        if 'date_start' in company_data:
+            event_desc = '[%s](#%s) was founded.' % (company_data['name'], company_data['name_safe'])
+            if 'date_start_cite' in company_data:
+                event_desc += (' [%s]' % semicolon_separated_cites(company_data['date_start_cite']))
+            events_list.append((company_data['date_start'], event_desc))
+        if 'date_end' in company_data:
+            event_desc = '[%s](#%s) was closed.' % (company_data['name'], company_data['name_safe'])
+            if 'date_end_cite' in company_data:
+                event_desc += (' [%s]' % semicolon_separated_cites(company_data['date_end_cite']))
+            events_list.append((company_data['date_end'], event_desc))
     for person_data in people_sorted:
-        person_events = list()
         if 'date_birth' in person_data:
             event_desc = '[%s](#%s) was born.' % (person_data['name'], person_data['name_safe'])
             if 'date_birth_cite' in person_data:
                 event_desc += (' [%s]' % semicolon_separated_cites(person_data['date_birth_cite']))
-            person_events.append((person_data['date_birth'], event_desc))
+            events_list.append((person_data['date_birth'], event_desc))
         if 'date_death' in person_data:
             event_desc = '[%s](#%s) passed away.' % (person_data['name'], person_data['name_safe'])
             if 'date_death_cite' in person_data:
                 event_desc += (' [%s]' % semicolon_separated_cites(person_data['date_death_cite']))
-            person_events.append((person_data['date_death'], event_desc))
-        for curr_date, curr_desc in person_events:
-            curr_decade = str(curr_date[0])[:3] + '0s'
-            if curr_decade not in events:
-                events[curr_decade] = dict()
-            if curr_date[0] not in events[curr_decade]:
-                events[curr_decade][curr_date[0]] = dict()
-            if curr_date not in events[curr_decade][curr_date[0]]:
-                events[curr_decade][curr_date[0]][curr_date] = list()
-            events[curr_decade][curr_date[0]][curr_date].append(curr_desc)
+            events_list.append((person_data['date_death'], event_desc))
+    for curr_date, curr_desc in events_list:
+        curr_decade = str(curr_date[0])[:3] + '0s'
+        if curr_decade not in events:
+            events[curr_decade] = dict()
+        if curr_date[0] not in events[curr_decade]:
+            events[curr_decade][curr_date[0]] = dict()
+        if curr_date not in events[curr_decade][curr_date[0]]:
+            events[curr_decade][curr_date[0]][curr_date] = list()
+        events[curr_decade][curr_date[0]][curr_date].append(curr_desc)
 
     # create markdown output
     with open(md_path, 'wt') as md_f:

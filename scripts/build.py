@@ -8,6 +8,7 @@ from datetime import datetime
 from json import load as jload
 from pathlib import Path
 from re import match
+from shutil import copytree
 from subprocess import run
 from sys import argv, stderr
 from zoneinfo import ZoneInfo
@@ -269,6 +270,9 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                 md_f.write(' [%s]' % semicolon_separated_cites(company_data['date_start_cite']))
             md_f.write('.\n')
             md_f.write('\n')
+            if 'logo' in company_data:
+                md_f.write('<center>![%s logo.](%s){width=50%%}</center>\n' % (company_data['name'], company_data['logo']))
+                md_f.write('\n')
 
             # write info about each console the company made
             if company_data['name_safe'] not in consoles_sorted:
@@ -403,6 +407,9 @@ def main(verbose=True):
     if verbose:
         print_log("Building Markdown output...")
     build_markdown(data, md_path, verbose=verbose)
+    if verbose:
+        print_log("Copying images to output directory...")
+    copytree(args.data / 'images', args.output / 'images')
     if verbose:
         print_log("Running Pandoc to build other outputs...")
     run_pandoc(md_path, args.refs, args.refs_style, pandoc_path=args.pandoc_path, verbose=verbose)

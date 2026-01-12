@@ -201,10 +201,15 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             else:
                 release_cite_str = ''
             for release_region, release_date in console_data['date_start'].items():
-                event_desc = 'The [%s](#%s) [%s](#%s) was released in ' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'])
-                if release_region in REGIONS_THE:
-                    event_desc += 'the '
-                event_desc += (release_region + '.' + release_cite_str)
+                event_desc = 'The [%s](#%s) [%s](#%s) was released ' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'])
+                if release_region == 'Global':
+                    event_desc += 'globally'
+                else:
+                    event_desc += 'in '
+                    if release_region in REGIONS_THE:
+                        event_desc += 'the '
+                    event_desc += release_region
+                event_desc += ('.' + release_cite_str)
                 events_list.append((release_date, event_desc))
             if 'date_end' in console_data:
                 if 'date_end_cite' in console_data:

@@ -6,6 +6,7 @@
 * **[`atari_7800.jpg`](atari_7800.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-7800-Console-Set.jpg)
 * **[`atari_home_pong.jpg`](atari_home_pong.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:TeleGames-Atari-Pong.jpg)
 * **[`atari_logo.jpg`](atari_logo.jpg)** — [George Opperman](https://commons.wikimedia.org/wiki/File:Atari_logo_alt.svg)
+* **[`atari_lynx.jpg`](atari_lynx.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-Lynx-Handheld-Angled.jpg)
 * **[`atari_pong.jpg`](atari_pong.jpg)** — [Chris Rand](https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg)
 * **[`atari_xegs.jpg`](atari_xegs.jpg)** — [Max Mustermann](https://en.wikipedia.org/wiki/File:Atari_XEGS_-_Computerspielemuseum-49_(17134338672).jpg)
 * **[`bill_gates.jpg`](bill_gates.jpg)** — [Lula Oficial](https://commons.wikimedia.org/wiki/File:Bill_Gates,_September_2024.jpg)

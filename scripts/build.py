@@ -271,7 +271,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             md_f.write('.\n')
             md_f.write('\n')
             if 'logo' in company_data:
-                md_f.write('<center>![%s logo.](%s){width=50%%}</center>\n' % (company_data['name'], company_data['logo']))
+                md_f.write('<center>![[%s](#%s) logo.](%s){width=50%%}</center>\n' % (company_data['name'], company_data['name_safe'], company_data['logo']))
                 md_f.write('\n')
 
             # write info about each console the company made
@@ -324,6 +324,9 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                         md_f.write(' [%s]' % semicolon_separated_cites(console_data['date_end_cite']))
                 md_f.write('\n')
                 md_f.write('\n')
+                if 'image' in console_data:
+                    md_f.write('<center>![[%s](#%s) [%s](#%s)](%s){width=50%%}</center>\n' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'], console_data['image']))
+                    md_f.write('\n')
         md_f.write('\n')
 
         # write "People" section

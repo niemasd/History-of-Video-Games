@@ -5,4 +5,5 @@ This directory contains all video game consoles, which are organized into sub-fo
 
 The following attributes are optional:
 
+* **`image`** — The path to an image of the console as a string (place images in [`data/images`](../images))
 * **`date_end`** — The discontinue date(s) of the console as a dictionary where keys are region names as strings and values are dates as strings in the format `YYYY-MM-DD`

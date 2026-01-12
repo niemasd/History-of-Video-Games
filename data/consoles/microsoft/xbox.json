@@ -1,0 +1,15 @@
+{
+    "name": "Xbox",
+    "photo": "images/microsoft_xbox.jpg",
+    "date_start": {
+        "North America": "2001-11-15",
+        "Japan": "2002-02-22",
+        "Europe": "2002-03-14"
+    },
+    "date_start_cite": ["microsoft_source_xbox_2001"],
+    "date_end": {
+        "Japan": "2005",
+        "Global": "2006"
+    },
+    "date_end_cite": ["garratt_xbox_2011", "nuttall_nvidia_2005"]
+}

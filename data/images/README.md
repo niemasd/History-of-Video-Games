@@ -13,6 +13,7 @@
 * **[`bill_gates.jpg`](bill_gates.jpg)** — [Lula Oficial](https://commons.wikimedia.org/wiki/File:Bill_Gates,_September_2024.jpg)
 * **[`masaru_ibuka.jpg`](masaru_ibuka.jpg)** — [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)
 * **[`microsoft_logo.jpg`](microsoft_logo.jpg)** — [Microsoft](https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg)
+* **[`microsoft_xbox.jpg`](microsoft_xbox.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Xbox-Console-wDuke-L.jpg)
 * **[`nintendo_logo.jpg`](nintendo_logo.jpg)** — [Nintendo](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)
 * **[`nolan_bushnell.jpg`](nolan_bushnell.jpg)** — [Tech Cocktail](https://commons.wikimedia.org/wiki/File:Nolan_Bushnell_2013_(3x4_cropped).jpg)
 * **[`paul_allen.jpg`](paul_allen.jpg)** — [Miles Harris](https://commons.wikimedia.org/wiki/File:Paul_G._Allen_(cropped).jpg)

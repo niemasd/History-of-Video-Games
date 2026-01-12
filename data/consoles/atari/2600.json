@@ -1,7 +1,7 @@
 {
     "name": "2600",
     "name_orig": "Video Computer System (VCS)",
-    "image": "images/atari_2600.jpg",
+    "photo": "images/atari_2600.jpg",
     "date_start": {
         "North America": "1977-09-11",
         "Europe": "1978",

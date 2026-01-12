@@ -1,6 +1,7 @@
 {
     "name": "Sony",
     "name_orig": "ソニ",
+    "logo": "images/sony_logo.jpg",
     "date_start": "1946-05-07",
     "date_start_cite": ["sony_group_founding_nodate"],
     "location_start": "Tokyo, Japan",

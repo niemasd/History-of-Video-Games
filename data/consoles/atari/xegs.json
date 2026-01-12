@@ -1,0 +1,12 @@
+{
+    "name": "XE Video Game System (XEGS)",
+    "photo": "images/atari_xegs.jpg",
+    "date_start": {
+        "Global": "1987"
+    },
+    "date_start_cite": ["centre_for_computing_history_atari_nodate"],
+    "date_end": {
+        "Global": "1991-12"
+    },
+    "date_end_cite": ["duarte_games_1992"]
+}

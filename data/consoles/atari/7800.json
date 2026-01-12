@@ -1,0 +1,13 @@
+{
+    "name": "7800",
+    "name_orig": "7800 ProSystem",
+    "photo": "images/atari_7800.jpg",
+    "date_start": {
+        "North America": "1986-05"
+    },
+    "date_start_cite": ["computer_entertainer_comparing_1987"],
+    "date_end": {
+        "Global": "1992-01-01"
+    },
+    "date_end_cite": ["gamesradar__us_consoles_2008"]
+}

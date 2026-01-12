@@ -1,0 +1,18 @@
+# Image Credits
+
+* **[`akio_morita.jpg`](akio_morita.jpg)** — [プレジデント社　撮影者不明](https://commons.wikimedia.org/wiki/File:Morita_Akio.jpg)
+* **[`atari_2600.jpg`](atari_2600.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg)
+* **[`atari_5200.jpg`](atari_5200.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-5200-4-Port-wController-L.jpg)
+* **[`atari_7800.jpg`](atari_7800.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-7800-Console-Set.jpg)
+* **[`atari_home_pong.jpg`](atari_home_pong.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:TeleGames-Atari-Pong.jpg)
+* **[`atari_logo.jpg`](atari_logo.jpg)** — [George Opperman](https://commons.wikimedia.org/wiki/File:Atari_logo_alt.svg)
+* **[`atari_pong.jpg`](atari_pong.jpg)** — [Chris Rand](https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg)
+* **[`atari_xegs.jpg`](atari_xegs.jpg)** — [Max Mustermann](https://en.wikipedia.org/wiki/File:Atari_XEGS_-_Computerspielemuseum-49_(17134338672).jpg)
+* **[`bill_gates.jpg`](bill_gates.jpg)** — [Lula Oficial](https://commons.wikimedia.org/wiki/File:Bill_Gates,_September_2024.jpg)
+* **[`masaru_ibuka.jpg`](masaru_ibuka.jpg)** — [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html)
+* **[`microsoft_logo.jpg`](microsoft_logo.jpg)** — [Microsoft](https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg)
+* **[`nintendo_logo.jpg`](nintendo_logo.jpg)** — [Nintendo](https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg)
+* **[`nolan_bushnell.jpg`](nolan_bushnell.jpg)** — [Tech Cocktail](https://commons.wikimedia.org/wiki/File:Nolan_Bushnell_2013_(3x4_cropped).jpg)
+* **[`paul_allen.jpg`](paul_allen.jpg)** — [Miles Harris](https://commons.wikimedia.org/wiki/File:Paul_G._Allen_(cropped).jpg)
+* **[`sony_logo.jpg`](sony_logo.jpg)** — [Yasuo Kuroki](https://commons.wikimedia.org/wiki/File:Sony_logo.svg)
+* **[`ted_dabney.jpg`](ted_dabney.jpg)** — [Computer History Museum](https://youtu.be/6arAY7cUa5I)

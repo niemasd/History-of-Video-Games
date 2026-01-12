@@ -2,6 +2,8 @@
     "name": "2600",
     "name_orig": "Video Computer System (VCS)",
     "photo": "images/atari_2600.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg",
     "date_start": {
         "North America": "1977-09-11",
         "Europe": "1978",

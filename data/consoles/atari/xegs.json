@@ -1,6 +1,8 @@
 {
     "name": "XE Video Game System (XEGS)",
     "photo": "images/atari_xegs.jpg",
+    "photo_credit": "Max Mustermann",
+    "photo_credit_url": "https://en.wikipedia.org/wiki/File:Atari_XEGS_-_Computerspielemuseum-49_(17134338672).jpg",
     "date_start": {
         "Global": "1987"
     },

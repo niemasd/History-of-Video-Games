@@ -1,6 +1,8 @@
 {
     "name": "Pong",
     "photo": "images/atari_pong.jpg",
+    "photo_credit": "Chris Rand",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg",
     "date_start": {
         "North America": "1972-11-29",
         "Japan": "1973-11",

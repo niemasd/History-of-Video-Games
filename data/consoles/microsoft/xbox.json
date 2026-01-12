@@ -1,6 +1,8 @@
 {
     "name": "Xbox",
     "photo": "images/microsoft_xbox.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Xbox-Console-wDuke-L.jpg",
     "date_start": {
         "North America": "2001-11-15",
         "Japan": "2002-02-22",

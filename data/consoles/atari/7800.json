@@ -2,6 +2,8 @@
     "name": "7800",
     "name_orig": "7800 ProSystem",
     "photo": "images/atari_7800.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Atari-7800-Console-Set.jpg",
     "date_start": {
         "North America": "1986-05"
     },

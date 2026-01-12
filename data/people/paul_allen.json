@@ -2,6 +2,8 @@
     "name": "Paul Allen",
     "name_orig": "Paul Gardner Allen",
     "photo": "images/paul_allen.jpg",
+    "photo_credit": "Miles Harris",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Paul_G._Allen_(cropped).jpg",
     "date_birth": "1953-01-21",
     "date_birth_cite": ["the_paul_g_allen_estate_and_trust_paul_2018", "lohr_paul_2018"],
     "location_birth": "Seattle, Washington, USA",

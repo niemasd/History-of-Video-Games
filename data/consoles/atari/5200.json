@@ -2,6 +2,8 @@
     "name": "5200",
     "name_orig": "5200 SuperSystem",
     "photo": "images/atari_5200.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Atari-5200-4-Port-wController-L.jpg",
     "date_start": {
         "North America": "1982-11"
     },

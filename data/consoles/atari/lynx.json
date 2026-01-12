@@ -1,6 +1,8 @@
 {
     "name": "Lynx",
     "photo": "images/atari_lynx.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Atari-Lynx-Handheld-Angled.jpg",
     "date_start": {
         "North America": "1989-09-01",
         "Europe": "1990",

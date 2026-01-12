@@ -2,6 +2,8 @@
     "name": "Nolan Bushnell",
     "name_orig": "Nolan Kay Bushnell",
     "photo": "images/nolan_bushnell.jpg",
+    "photo_credit": "Tech Cocktail",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nolan_Bushnell_2013_(3x4_cropped).jpg",
     "date_birth": "1943-02-05",
     "date_birth_cite": ["computer_history_museum_nolan_2024"],
     "location_birth": "Clearfield, Utah, USA",

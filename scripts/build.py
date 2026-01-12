@@ -339,7 +339,16 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                 md_f.write('\n')
                 md_f.write('\n')
                 if 'photo' in console_data:
-                    md_f.write('<center>![Photo of [%s](#%s) [%s](#%s).](%s){width=50%%}</center>\n' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'], console_data['photo']))
+                    if 'photo_credit' in console_data:
+                        photo_credit = ' (Credit: '
+                        if 'photo_credit_url' in console_data:
+                            photo_credit += '[%s](%s)' % (console_data['photo_credit'], console_data['photo_credit_url'])
+                        else:
+                            photo_credit += console_data['photo']
+                        photo_credit += ')'
+                    else:
+                        photo_credit = ''
+                    md_f.write('<center>![Photo of [%s](#%s) [%s](#%s)%s.](%s){width=50%%}</center>\n' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'], photo_credit, console_data['photo']))
                     md_f.write('\n')
         md_f.write('\n')
 
@@ -380,7 +389,16 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             md_f.write('.\n')
             md_f.write('\n')
             if 'photo' in person_data:
-                md_f.write('<center>![Photo of [%s](#%s).](%s){width=50%%}</center>\n' % (person_data['name'], person_data['name_safe'], person_data['photo']))
+                if 'photo_credit' in person_data:
+                    photo_credit = ' (Credit: '
+                    if 'photo_credit_url' in person_data:
+                        photo_credit += '[%s](%s)' % (person_data['photo_credit'], person_data['photo_credit_url'])
+                    else:
+                        photo_credit += person_data['photo']
+                    photo_credit += ')'
+                else:
+                    photo_credit = ''
+                md_f.write('<center>![Photo of [%s](#%s)%s.](%s){width=50%%}</center>\n' % (person_data['name'], person_data['name_safe'], photo_credit, person_data['photo']))
                 md_f.write('\n')
         md_f.write('\n')
 

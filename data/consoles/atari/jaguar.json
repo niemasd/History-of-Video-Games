@@ -1,6 +1,8 @@
 {
     "name": "Jaguar",
     "photo": "images/atari_jaguar.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.jpg",
     "date_start": {
         "North America": "1993-11-23",
         "Europe": "1994-06-27",

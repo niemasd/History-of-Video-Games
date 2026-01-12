@@ -2,7 +2,7 @@
     "name": "Lynx",
     "photo": "images/atari_lynx.jpg",
     "date_start": {
-        "Global": "1989-09-01",
+        "North America": "1989-09-01",
         "Europe": "1990",
         "Japan": "1990"
     },

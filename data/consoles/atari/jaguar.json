@@ -1,0 +1,16 @@
+{
+    "name": "Jaguar",
+    "photo": "images/atari_jaguar.jpg",
+    "date_start": {
+        "North America": "1993-11-23",
+        "Europe": "1994-06-27",
+        "Australia": "1994-08-01",
+        "Germany": "1994-09",
+        "Japan": "1994-12-08",
+        "Spain": "1995-04"
+    },
+    "date_start_cite": ["valeski_atari_1993", "hyper_jaguar_1994", "video_games_warpzone_1994", "mega_fun_next_1995", "hobby_consolas_que_1995"],
+    "date_end": {
+        "Global": "1996"
+    }
+}

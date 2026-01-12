@@ -5,6 +5,7 @@
 * **[`atari_5200.jpg`](atari_5200.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-5200-4-Port-wController-L.jpg)
 * **[`atari_7800.jpg`](atari_7800.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-7800-Console-Set.jpg)
 * **[`atari_home_pong.jpg`](atari_home_pong.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:TeleGames-Atari-Pong.jpg)
+* **[`atari_jaguar.jpg`](atari_jaguar.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.jpg)
 * **[`atari_logo.jpg`](atari_logo.jpg)** — [George Opperman](https://commons.wikimedia.org/wiki/File:Atari_logo_alt.svg)
 * **[`atari_lynx.jpg`](atari_lynx.jpg)** — [Evan Amos](https://commons.wikimedia.org/wiki/File:Atari-Lynx-Handheld-Angled.jpg)
 * **[`atari_pong.jpg`](atari_pong.jpg)** — [Chris Rand](https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg)

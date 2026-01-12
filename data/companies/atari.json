@@ -1,6 +1,8 @@
 {
     "name": "Atari",
     "logo": "images/atari_logo.jpg",
+    "logo_credit": "George Opperman",
+    "logo_credit_url": "https://commons.wikimedia.org/wiki/File:Atari_logo_alt.svg",
     "date_start": "1972-06-27",
     "date_start_cite": ["brown_articles_1972"],
     "location_start": "Sunnyvale, California, USA",

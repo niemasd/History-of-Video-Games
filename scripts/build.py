@@ -276,7 +276,16 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             md_f.write('.\n')
             md_f.write('\n')
             if 'logo' in company_data:
-                md_f.write('<center>![[%s](#%s) logo.](%s){width=50%%}</center>\n' % (company_data['name'], company_data['name_safe'], company_data['logo']))
+                if 'logo_credit' in company_data:
+                    logo_credit = ' (Credit: '
+                    if 'logo_credit_url' in company_data:
+                        logo_credit += '[%s](%s)' % (company_data['logo_credit'], company_data['logo_credit_url'])
+                    else:
+                        logo_credit += company_data['logo']
+                    logo_credit += ')'
+                else:
+                    logo_credit = ''
+                md_f.write('<center>![[%s](#%s) logo%s.](%s){width=50%%}</center>\n' % (company_data['name'], company_data['name_safe'], logo_credit, company_data['logo']))
                 md_f.write('\n')
 
             # write info about each console the company made

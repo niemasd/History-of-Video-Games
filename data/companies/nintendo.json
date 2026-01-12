@@ -2,6 +2,8 @@
     "name": "Nintendo",
     "name_orig": "任天堂",
     "logo": "images/nintendo_logo.jpg",
+    "logo_credit": "Nintendo",
+    "logo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo_red_logo.svg",
     "date_start": "1889-09-23",
     "date_start_cite": ["nintendo_corporate_nodate"],
     "location_start": "Kyoto, Japan",

@@ -2,6 +2,8 @@
     "name": "Sony",
     "name_orig": "ソニ",
     "logo": "images/sony_logo.jpg",
+    "logo_credit": "Yasuo Kuroki",
+    "logo_credit_url": "https://commons.wikimedia.org/wiki/File:Sony_logo.svg",
     "date_start": "1946-05-07",
     "date_start_cite": ["sony_group_founding_nodate"],
     "location_start": "Tokyo, Japan",

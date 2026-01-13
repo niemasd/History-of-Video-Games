@@ -434,7 +434,7 @@ def run_pandoc(md_path, refs_path, refs_style_path, pandoc_path='pandoc', verbos
         ext_path = md_path.parent / (md_path.stem + '.' + ext)
         command = command_base + ['-o', ext_path]
         if ext == 'pdf':
-            command += ['--pdf-engine=xelatex']
+            command += ['--pdf-engine=xelatex', '-V', 'colorlinks=true', '-V', 'linkcolor=blue', '-V', 'urlcolor=red', '-V', 'toccolor=gray']
         if verbose:
             print_log("%s Command: %s" % (ext.upper(), ' '.join(str(s) for s in command)))
         run(command)

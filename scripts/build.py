@@ -6,6 +6,7 @@ Build the OER in various formats from the data files
 # imports
 from datetime import datetime
 from json import load as jload
+from os import chdir
 from pathlib import Path
 from re import match
 from shutil import copytree
@@ -239,10 +240,14 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
 
     # create markdown output
     with open(md_path, 'wt') as md_f:
-        # write title block
-        md_f.write('%% %s\n' % md_title)
-        md_f.write('%% %s\n' % md_author)
-        md_f.write('%% %s\n' % md_date)
+        # write front matter
+        md_f.write('---\n')
+        md_f.write('title: "%s"\n' % md_title)
+        md_f.write('author: "%s"\n' % md_author)
+        md_f.write('date: "%s"\n' % md_date)
+        md_f.write('mainfont: "Noto Serif"\n')
+        md_f.write('CJKmainfont: "Noto Serif CJK JP"\n')
+        md_f.write('---\n')
         md_f.write('\n')
 
         # write "Consoles" section
@@ -422,12 +427,18 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
 
 # run pandoc to convert Markdown to all other formats
 def run_pandoc(md_path, refs_path, refs_style_path, pandoc_path='pandoc', verbose=True):
-    html_path = md_path.parent / (md_path.stem + '.html')
+    orig_path = Path.cwd()
+    chdir(md_path.parent)
     command_base = ['pandoc', '-s', '--toc', '--citeproc', md_path, '--bibliography', refs_path, '--csl', refs_style_path, '-M', 'reference-section-title=Bibliography', '--metadata', 'link-citations:true']
-    command_html = command_base + ['-o', html_path]
-    if verbose:
-        print_log("HTML Command: %s" % ' '.join(str(s) for s in command_html))
-    run(command_html)
+    for ext in ['html', 'pdf']:
+        ext_path = md_path.parent / (md_path.stem + '.' + ext)
+        command = command_base + ['-o', ext_path]
+        if ext == 'pdf':
+            command += ['--pdf-engine=xelatex']
+        if verbose:
+            print_log("%s Command: %s" % (ext.upper(), ' '.join(str(s) for s in command)))
+        run(command)
+    chdir(orig_path)
 
 # main program logic
 def main(verbose=True):

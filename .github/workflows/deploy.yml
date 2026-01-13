@@ -34,10 +34,11 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update && \
-          sudo apt-get install -y fonts-noto-cjk pandoc texlive-fonts-extra texlive-lang-japanese texlive-latex-extra texlive-xetex
+          sudo apt-get install -y fonts-noto-cjk pandoc texlive-fonts-extra texlive-lang-japanese texlive-latex-extra texlive-xetex zip
       - name: Build Book
         run: |
-          python3 scripts/build.py -o _build
+          python3 scripts/build.py -o _build && \
+          zip -9 -r _build/index.zip _build/index.html _build/images
       - name: Upload artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3
@@ -59,6 +60,14 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: _build/index.pdf
           asset_name: History-of-Video-Games.pdf
+          tag: ${{ steps.tag.outputs.release_tag }}
+          overwrite: true
+      - name: Upload build HTML ZIP to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: _build/index.zip
+          asset_name: History-of-Video-Games.zip
           tag: ${{ steps.tag.outputs.release_tag }}
           overwrite: true
   deploy:

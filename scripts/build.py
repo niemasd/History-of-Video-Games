@@ -281,7 +281,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                     if 'logo_credit_url' in company_data:
                         logo_credit += '[%s](%s)' % (company_data['logo_credit'], company_data['logo_credit_url'])
                     else:
-                        logo_credit += company_data['logo']
+                        logo_credit += company_data['logo_credit']
                     logo_credit += ')'
                 else:
                     logo_credit = ''
@@ -344,7 +344,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                         if 'photo_credit_url' in console_data:
                             photo_credit += '[%s](%s)' % (console_data['photo_credit'], console_data['photo_credit_url'])
                         else:
-                            photo_credit += console_data['photo']
+                            photo_credit += console_data['photo_credit']
                         photo_credit += ')'
                     else:
                         photo_credit = ''
@@ -394,7 +394,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                     if 'photo_credit_url' in person_data:
                         photo_credit += '[%s](%s)' % (person_data['photo_credit'], person_data['photo_credit_url'])
                     else:
-                        photo_credit += person_data['photo']
+                        photo_credit += person_data['photo_credit']
                     photo_credit += ')'
                 else:
                     photo_credit = ''

@@ -21,7 +21,7 @@ DEFAULT_REFS_PATH = Path(argv[0]).resolve().parent.parent / 'refs' / 'refs.bib'
 DEFAULT_CSL_PATH = Path(argv[0]).resolve().parent.parent / 'style' / 'ieee.csl'
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-REGIONS_THE = {'USA'}
+REGIONS_THE = {'Czech Republic', 'Eurozone', 'UAE', 'UK', 'USA'}
 REGEX_DATE = r'^\d{4}(-\d{2}(-\d{2})?)?$'
 
 # return the current time as a string

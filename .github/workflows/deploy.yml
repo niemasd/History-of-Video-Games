@@ -38,7 +38,8 @@ jobs:
       - name: Build Book
         run: |
           python3 scripts/build.py -o /tmp/out && \
-          zip -9 -r /tmp/index.zip /tmp/out/index.html /tmp/out/images
+          cd /tmp/out && \
+          zip -9 -r ../index.zip index.html images
       - name: Upload artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3

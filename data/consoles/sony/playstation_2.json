@@ -1,0 +1,24 @@
+{
+    "name": "PlayStation 2 (PS2)",
+    "photo": "images/sony_playstation_2.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PS2-Fat-Console-Set.jpg",
+    "date_start": {
+        "Japan": "2000-03-04",
+        "North America": "2000-10-26",
+        "Europe": "2000-11-24",
+        "Australia": "2000-11-30",
+        "Hong Kong": "2001-12-13",
+        "Taiwan": "2002-01-24",
+        "South Korea": "2002-02-22",
+        "Russia": "2002-11-07",
+        "India": "2003-08-13",
+        "China": "2004-01-01"
+    },
+    "date_start_cite": ["robinson_playstation_2020", "jensen_20_2020", "gamesindustrybiz_sony_2006", "ign_staff_australian_2000", "_ps2_nodate", "gnn_ps2_2002", "bramwell_ps2_2002", "vidyasagar_sony_2003", "playstation_press_2004"],
+    "date_end": {
+        "Japan": "2012-12-28",
+        "Global": "2013-01-04"
+    },
+    "date_end_cite": ["famitsu_220121228_2012", "stuart_playstation_2013"]
+}

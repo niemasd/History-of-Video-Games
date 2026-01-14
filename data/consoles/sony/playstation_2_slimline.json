@@ -1,0 +1,20 @@
+{
+    "name": "PlayStation 2 (PS2) Slimline",
+    "photo": "images/sony_playstation_2_slimline.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PS2-Slim-Console-Set.jpg",
+    "date_start": {
+        "Europe": "2004-10-29",
+        "Japan": "2004-11-03",
+        "North America": "2004-11-25",
+        "Australia": "2004-12-02",
+        "India": "2008-09-10",
+        "Brazil": "2009-10-15"
+    },
+    "date_start_cite": ["garratt_new_2008", "extra_online_sony_2009"],
+    "date_end": {
+        "Japan": "2012-12-28",
+        "Global": "2013-01-04"
+    },
+    "date_end_cite": ["famitsu_220121228_2012", "stuart_playstation_2013"]
+}

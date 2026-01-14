@@ -1,0 +1,17 @@
+{
+    "name": "PlayStation (PS) Vita Slim",
+    "name_orig": "PCH-2000",
+    "photo": "images/sony_playstation_vita_slim.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PlayStation-Vita-2001-FL.jpg",
+    "date_start": {
+        "Japan": "2013-10-10",
+        "Europe": "2014-02-07",
+        "North America": "2014-05-06"
+    },
+    "date_start_cite": ["moriarty_sony_2013", "moriarty_playstation_2014"],
+    "date_end": {
+        "Global": "2019-03-01"
+    },
+    "date_end_cite": ["romano_ps_2019"]
+}

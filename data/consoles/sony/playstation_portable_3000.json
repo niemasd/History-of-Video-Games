@@ -1,0 +1,19 @@
+{
+    "name": "PlayStation Portable (PSP) Brite",
+    "name_orig": "PSP-3000",
+    "photo": "images/sony_playstation_portable_3000.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PSP-3000-Silver.jpg",
+    "date_start": {
+        "North America": "2008-10-14",
+        "Japan": "2008-10-16",
+        "Europe": "2008-10-17"
+    },
+    "date_start_cite": ["wilson_sony_2008", "mcwhertor_sony_2008", "thorsen_gc_2008", "bantick_psp-3000_2008"],
+    "date_end": {
+        "North America": "2014-01",
+        "Japan": "2014-06",
+        "PAL regions": "2014-12"
+    },
+    "date_end_cite": ["kubba_psp_2014"]
+}

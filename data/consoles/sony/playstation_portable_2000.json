@@ -1,0 +1,22 @@
+{
+    "name": "PlayStation Portable (PSP) Slim & Lite",
+    "name_orig": "PSP-2000",
+    "photo": "images/sony_playstation_portable_2000.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PSP-2000.jpg",
+    "date_start": {
+        "Hong Kong": "2007-08-30",
+        "Europe": "2007-09-05",
+        "North America": "2007-09-06",
+        "South Korea": "2007-09-07",
+        "Australia": "2007-09-12",
+        "UK": "2007-09-14"
+    },
+    "date_start_cite": ["gamesradar_psp_2007"],
+    "date_end": {
+        "North America": "2014-01",
+        "Japan": "2014-06",
+        "PAL regions": "2014-12"
+    },
+    "date_end_cite": ["kubba_psp_2014"]
+}

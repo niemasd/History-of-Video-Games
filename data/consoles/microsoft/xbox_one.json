@@ -1,0 +1,19 @@
+{
+    "name": "Xbox One",
+    "photo": "images/microsoft_xbox_one.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Xbox-One-Console-wController-FL.jpg",
+    "date_start": {
+        "North America": "2013-11-22",
+        "South America": "2013-11-22",
+        "Europe": "2013-11-22",
+        "Australia": "2013-11-22",
+        "Japan": "2014-09-04",
+        "China": "2014-09-29"
+    },
+    "date_start_cite": ["bbc_news_xbox_2013"],
+    "date_end": {
+        "Global": "2020"
+    },
+    "date_end_cite": ["warren_microsoft_2022"]
+}

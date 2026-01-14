@@ -16,10 +16,11 @@ from zoneinfo import ZoneInfo
 import argparse
 
 # constants
-BUILD_TIME = datetime.now(ZoneInfo("America/Los_Angeles"))
 DEFAULT_DATA_PATH = Path(argv[0]).resolve().parent.parent / 'data'
 DEFAULT_REFS_PATH = Path(argv[0]).resolve().parent.parent / 'refs' / 'refs.bib'
 DEFAULT_CSL_PATH = Path(argv[0]).resolve().parent.parent / 'style' / 'ieee.csl'
+PANDOC_FORMATS = ['html', 'pdf']
+BUILD_TIME = datetime.now(ZoneInfo("America/Los_Angeles"))
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 REGIONS_THE = {'Czech Republic', 'Eurozone', 'UAE', 'UK', 'USA'}
@@ -60,6 +61,7 @@ def parse_args():
     parser.add_argument('-r', '--refs', required=False, type=str, default=DEFAULT_REFS_PATH, help="Input References (BIB)")
     parser.add_argument('-rs', '--refs_style', required=False, type=str, default=DEFAULT_CSL_PATH, help="References Style (CSL)")
     parser.add_argument('-o', '--output', required=True, type=str, help="Output Directory")
+    parser.add_argument('-f', '--formats', required=False, type=str, default=','.join(PANDOC_FORMATS), help="Output Formats (comma-separated)")
     parser.add_argument('--pandoc_path', required=False, type=str, default='pandoc', help="Path to 'pandoc' Executable")
     args = parser.parse_args()
 
@@ -81,6 +83,10 @@ def parse_args():
         error("Output already exists: %s" % args.output)
     if not args.output.parent.is_dir():
         error("Invalid output path: %s" % args.output)
+    args.formats = [s.strip().lower() for s in args.formats.split(',')]
+    for fmt in args.formats:
+        if fmt not in PANDOC_FORMATS:
+            error("Invalid output format: %s" % fmt)
     return args
 
 # parse all dates in `data` as (year, month, day) `tuple` objects (0 = missing)
@@ -426,11 +432,11 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
         md_f.write('\n')
 
 # run pandoc to convert Markdown to all other formats
-def run_pandoc(md_path, refs_path, refs_style_path, pandoc_path='pandoc', verbose=True):
+def run_pandoc(md_path, refs_path, refs_style_path, formats=PANDOC_FORMATS, pandoc_path='pandoc', verbose=True):
     orig_path = Path.cwd()
     chdir(md_path.parent)
     command_base = ['pandoc', '-s', '--toc', '--citeproc', md_path, '--bibliography', refs_path, '--csl', refs_style_path, '-M', 'reference-section-title=Bibliography', '--metadata', 'link-citations:true']
-    for ext in ['html', 'pdf']:
+    for ext in formats:
         ext_path = md_path.parent / (md_path.stem + '.' + ext)
         command = command_base + ['-o', ext_path]
         if ext == 'pdf':
@@ -461,7 +467,7 @@ def main(verbose=True):
     copytree(args.data / 'images', args.output / 'images')
     if verbose:
         print_log("Running Pandoc to build other outputs...")
-    run_pandoc(md_path, args.refs, args.refs_style, pandoc_path=args.pandoc_path, verbose=verbose)
+    run_pandoc(md_path, args.refs, args.refs_style, formats=args.formats, pandoc_path=args.pandoc_path, verbose=verbose)
 
 # run tool
 if __name__ == "__main__":

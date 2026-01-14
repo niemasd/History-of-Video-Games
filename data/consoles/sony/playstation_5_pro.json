@@ -1,0 +1,10 @@
+{
+    "name": "PlayStation 5 (PS5) Pro",
+    "photo": "images/sony_playstation_5_pro.jpg",
+    "photo_credit": "Bruhhed guy",
+    "photo_credit_url": "https://playstation.fandom.com/wiki/PlayStation_5_Pro?file=Ps5proitself.webp",
+    "date_start": {
+        "Global": "2024-09-10"
+    },
+    "date_start_cite": ["playstationblog_welcome_2024"]
+}

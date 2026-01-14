@@ -1,0 +1,26 @@
+{
+    "name": "PlayStation Portable (PSP)",
+    "photo": "images/sony_playstation_portable.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Psp-1000.jpg",
+    "date_start": {
+        "Japan": "2004-12-12",
+        "North America": "2005-03-24",
+        "Brazil": "2005-03-24",
+        "Indonesia": "2005-03-24",
+        "Italy": "2005-04-12",
+        "Ukraine": "2005-04-12",
+        "India": "2005-04-12",
+        "Europe": "2005-09-01",
+        "Asia": "2005-09-01",
+        "Africa": "2005-09-01",
+        "Australia": "2005-09-01"
+    },
+    "date_start_cite": ["sie_communications_psp_2004", "casamassina_psp_2005"],
+    "date_end": {
+        "North America": "2014-01",
+        "Japan": "2014-06",
+        "PAL regions": "2014-12"
+    },
+    "date_end_cite": ["kubba_psp_2014"]
+}

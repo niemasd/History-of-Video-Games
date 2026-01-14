@@ -1,0 +1,12 @@
+{
+    "name": "Xbox 360 S",
+    "photo": "images/microsoft_xbox_360_s.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Xbox-360S-Console-Set.jpg",
+    "date_start": {
+        "North America": "2010-06-18",
+        "Australia": "2010-07-01",
+        "New Zealand": "2010-07-08",
+        "Europe": "2010-07-16"
+    }
+}

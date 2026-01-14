@@ -1,0 +1,11 @@
+{
+    "name": "Xbox 360 E",
+    "photo": "images/microsoft_xbox_360_e.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-360-E-wController.jpg",
+    "date_start": {
+        "North America": "2013-06-10",
+        "Europe": "2013-06-20"
+    },
+    "date_start_cite": ["drake_e3_2016", "hide_new_2013"]
+}

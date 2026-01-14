@@ -1,0 +1,11 @@
+{
+    "name": "Xbox Series S",
+    "photo": "images/microsoft_xbox_one_s.jpg",
+    "photo_credit": "Microsoft",
+    "photo_credit_url": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+    "date_start": {
+        "Global": "2020-11-10",
+        "China": "2021-06-10"
+    },
+    "date_start_cite": ["spencer_xbox_2020"]
+}

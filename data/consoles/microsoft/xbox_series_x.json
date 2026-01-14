@@ -1,0 +1,10 @@
+{
+    "name": "Xbox Series X",
+    "photo": "images/microsoft_xbox_one_x.jpg",
+    "photo_credit": "Microsoft",
+    "photo_credit_url": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+    "date_start": {
+        "Global": "2020-11-10",
+        "China": "2021-06-10"
+    }
+}

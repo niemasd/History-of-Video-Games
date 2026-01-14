@@ -1,0 +1,10 @@
+{
+    "name": "PlayStation 4 (PS4) Slim",
+    "photo": "images/sony_playstation_4_slim.jpg",
+    "photo_credit": "Amazon",
+    "photo_credit_url": "https://www.amazon.com/PS4-Slim-PlayStation-4/dp/B01GVQVQH2",
+    "date_start": {
+        "Global": "2016-09-15"
+    },
+    "date_start_cite": ["walton_ps4_2016"]
+}

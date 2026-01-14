@@ -1,0 +1,14 @@
+{
+    "name": "PlayStation 4 (PS4)",
+    "photo": "images/sony_playstation_4.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sony-PlayStation-4-wController.jpg",
+    "date_start": {
+        "North America": "2013-11-15",
+        "Europe": "2013-11-29",
+        "South America": "2013-11-29",
+        "Australia": "2013-11-29",
+        "Japan": "2014-02-22"
+    },
+    "date_start_cite": ["obrien_playstation_2013", "moriarty_playstation_2013"]
+}

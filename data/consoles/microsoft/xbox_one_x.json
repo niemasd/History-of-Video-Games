@@ -1,0 +1,14 @@
+{
+    "name": "Xbox One X",
+    "photo": "images/microsoft_xbox_one_x.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-X-Console-Set.jpg",
+    "date_start": {
+        "Global": "2017-11-07"
+    },
+    "date_start_cite": ["warren_xbox_2017"],
+    "date_end": {
+        "Global": "2020"
+    },
+    "date_end_cite": ["warren_microsoft_2022"]
+}

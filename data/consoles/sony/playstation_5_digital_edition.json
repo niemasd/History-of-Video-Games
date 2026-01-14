@@ -1,0 +1,21 @@
+{
+    "name": "PlayStation 5 (PS5) Slim",
+    "name_orig": "PS5 Digital Edition",
+    "photo": "images/sony_playstation_5_digital_edition.jpg",
+    "photo_credit": "Doctor49",
+    "photo_credit_url": "https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-digital-edition-laying-down-flat.webp",
+    "date_start": {
+        "Australia": "2020-11-12",
+        "Japan": "2020-11-12",
+        "South Korea": "2020-11-12",
+        "North America": "2020-11-12",
+        "New Zealand": "2020-11-12",
+        "Global": "2020-11-19",
+        "Philippines": "2020-12-11",
+        "Indonesia": "2021-01-22",
+        "India": "2021-02-02",
+        "Vietnam": "2021-03-19",
+        "China": "2021-05-15"
+    },
+    "date_start_cite": ["noauthor_playstation5_nodate"]
+}

@@ -173,7 +173,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
     companies_sorted = sorted(data['companies'].values(), key=lambda x: x['name'])
     safename_to_company = {company_data['name_safe']:company_data for company_data in companies_sorted}
     people_sorted = sorted(data['people'].values(), key=lambda x: x['name'])
-    consoles_sorted = {company: sorted(company_consoles.values(), key=lambda x: min(x['date_start'].values())) for company, company_consoles in data['consoles'].items()}
+    consoles_sorted = {company: sorted(company_consoles.values(), key=lambda x: (min(x['date_start'].values()), x['name'])) for company, company_consoles in data['consoles'].items()}
 
     # precompute timeline
     events = dict() # events[decade][year][(year,month,day)] = list of event descriptions

@@ -1,0 +1,20 @@
+{
+    "name": "PS One",
+    "photo": "images/sony_ps_one.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg",
+    "date_start": {
+        "Japan": "2000-07-07",
+        "North America": "2000-09-19",
+        "Europe": "2000-09-29",
+        "Asia": "2000-11",
+        "India": "2002-01-24",
+        "South Korea": "2002-02-22"
+    },
+    "date_start_cite": ["sony_interactive_entertainment_expanded_nodate", "business_standard_sony_2002"],
+    "date_end": {
+        "Europe": "2001-10-19",
+        "Global": "2006-03-23"
+    },
+    "date_end_cite": ["_6_2012", "sony_computer_entertainment_inc_playstation_2011", "sinclair_sony_2006"]
+}

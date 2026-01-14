@@ -1,0 +1,23 @@
+{
+    "name": "PlayStation",
+    "photo": "images/sony_playstation.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg",
+    "date_start": {
+        "Japan": "1994-12-03",
+        "North America": "1995-09-09",
+        "Europe": "1995-09-29",
+        "Australia": "1995-11-15",
+        "South Africa": "1996-11",
+        "Hong Kong": "1996-12",
+        "Singapore": "1996-12",
+        "Thailand": "1996-12",
+        "Malaysia": "1996-12",
+        "Taiwan": "1997-12"
+    },
+    "date_start_cite": ["sony_computer_entertainment_inc_business_2004", "sony_computer_entertainment_inc_business_2012", "sony_computer_entertainment_inc_business_2004-1", "healey_evolution_2013", "sony_computer_entertainment_europe_playstation_1998", "sony_interactive_entertainment_expanded_nodate", "sony_computer_entertainment_inc__2007"],
+    "date_end": {
+        "Global": "2006-03-23"
+    },
+    "date_end_cite": ["sony_computer_entertainment_inc_playstation_2011", "sinclair_sony_2006"]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "PlayStation (PS) TV",
+    "name_orig": "PS Vita TV",
+    "photo": "images/sony_playstation_tv.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PlayStation-TV-FL.jpg",
+    "date_start": {
+        "Japan": "2013-11-14",
+        "Singapore": "2014-01-16",
+        "Malaysia": "2014-01-16",
+        "Thailand": "2014-01-16",
+        "Indonesia": "2014-01-16",
+        "Philippines": "2014-01-16",
+        "Hong Kong": "2014-01-16",
+        "South Korea": "2014-01-16",
+        "North America": "2014-10-15",
+        "Europe": "2014-11-14",
+        "Australia": "2014-11-14"
+    },
+    "date_start_cite": ["sony_computer_entertainment_sony_2013", "siliconera_staff_playstation_2013", "_ps4_2013", "pereira_gamescom_2014"],
+    "date_end": {
+        "United States": "2015",
+        "Europe": "2015",
+        "Japan": "2016-02-29"
+    },
+    "date_end_cite": ["makuch_playstation_2016", "fingas_sony_2016"]
+}

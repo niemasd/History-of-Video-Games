@@ -23,7 +23,7 @@ PANDOC_FORMATS = ['html', 'pdf']
 BUILD_TIME = datetime.now(ZoneInfo("America/Los_Angeles"))
 MONTHS_ABBR = [None, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 MONTHS_FULL = [None, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-REGIONS_THE = {'Czech Republic', 'Eurozone', 'UAE', 'UK', 'USA'}
+REGIONS_THE = {'Czech Republic', 'Eurozone', 'Philippines', 'UAE', 'UK', 'USA'}
 REGEX_DATE = r'^\d{4}(-\d{2}(-\d{2})?)?$'
 
 # return the current time as a string

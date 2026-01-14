@@ -1,0 +1,10 @@
+{
+    "name": "PlayStation 4 (PS4) Pro",
+    "photo": "images/sony_playstation_4_pro.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sony-PlayStation4-Pro-Console-FL.jpg",
+    "date_start": {
+        "Global": "2016-11-10"
+    },
+    "date_start_cite": ["playstationblog_playstation_2016"]
+}

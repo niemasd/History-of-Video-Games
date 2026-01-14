@@ -1,0 +1,14 @@
+{
+    "name": "PlayStation 3 (PS3) Slim",
+    "photo": "images/sony_playstation_3_slim.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-2001A-wController-L.jpg",
+    "date_start": {
+        "North America": "2009-09-01",
+        "Europe": "2009-09-01",
+        "Japan": "2009-09-03",
+        "Australia": "2009-09-03",
+        "New Zealand": "2009-09-03"
+    },
+    "date_start_cite": ["playstation_entertainment_2009", "miller_sony_2009", "carnoy_sony_2011"]
+}

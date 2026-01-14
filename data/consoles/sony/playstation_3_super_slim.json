@@ -1,0 +1,11 @@
+{
+    "name": "PlayStation 3 (PS3) Super Slim",
+    "photo": "images/sony_playstation_3_super_slim.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-4001B-wController-L.jpg",
+    "date_start": {
+        "North America": "2012-09-25",
+        "Europe": "2012-09-28"
+    },
+    "date_start_cite": ["macmanus_sony_2012", "purchese_sony_2012"]
+}

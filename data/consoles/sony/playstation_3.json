@@ -1,0 +1,19 @@
+{
+    "name": "PlayStation 3 (PS3)",
+    "photo": "images/sony_playstation_3.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-CECHA01-wController-L.jpg",
+    "date_start": {
+        "Japan": "2006-11-11",
+        "North America": "2006-11-17",
+        "Europe": "2007-03-23"
+    },
+    "date_start_cite": ["playstation_2007_nodate"],
+    "date_end": {
+        "New Zealand": "2015-09-29",
+        "PAL regions": "2016-03",
+        "North America": "2016-10",
+        "Japan": "2017-05-29"
+    },
+    "date_end_cite": ["codd_playstation_2015", "ashcraft_sony_2017", "ackerman_at_2017"]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Xbox One S",
+    "photo": "images/microsoft_xbox_one_s.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-S-Console-wController-L.jpg",
+    "date_start": {
+        "Global": "2016-08-02"
+    },
+    "date_start_cite": ["orland_slimmed_2016"],
+    "date_end": {
+        "Global": "2020"
+    },
+    "date_end_cite": ["warren_microsoft_2022"]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "PlayStation 5 (PS5) Slim",
+    "photo": "images/sony_playstation_5_slim.jpg",
+    "photo_credit": "Doctor49",
+    "photo_credit_url": "https://playstation.fandom.com/wiki/User:Doctor49?file=PS5-Hero-1.webp",
+    "date_start": {
+        "Global": "2023-11-10"
+    },
+    "date_start_cite": ["romano_ps5_2023"]
+}

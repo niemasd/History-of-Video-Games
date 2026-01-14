@@ -1,0 +1,22 @@
+{
+    "name": "PlayStation (PS) Vita",
+    "photo": "images/sony_playstation_vita.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PlayStation-Vita-1101-FL.jpg",
+    "date_start": {
+        "Japan": "2011-12-17",
+        "North America": "2012-02-15",
+        "Europe": "2012-02-22",
+        "Argentina": "2012-02-22",
+        "Chile": "2012-02-22",
+        "Russia": "2012-02-22",
+        "Australia": "2012-02-23",
+        "Brazil": "2012-03-02",
+        "China": "2015-03-20"
+    },
+    "date_start_cite": ["sony_interactive_entertainment_playstationvita_2011", "koller_get_2011", "parker_sony_2011", "playstation_playstation_2011", "rogers_communications_inc_rogers_2012", "takada_censors_2014", "karmali_ps4_2015"],
+    "date_end": {
+        "Global": "2019-03-01"
+    },
+    "date_end_cite": ["romano_ps_2019"]
+}

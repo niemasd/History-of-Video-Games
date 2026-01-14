@@ -1,0 +1,18 @@
+{
+    "name": "PlayStation Portable (PSP) Go",
+    "name_orig": "PSP-N1000",
+    "photo": "images/sony_playstation_portable_go.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PSP-Go-FL-Open.jpg",
+    "date_start": {
+        "North America": "2009-10-01",
+        "Europe": "2009-10-01",
+        "Japan": "2009-10-31"
+    },
+    "date_start_cite": ["playstation_psp_2009"],
+    "date_end": {
+        "Europe": "2011-04-20",
+        "Japan": "2011-04-20"
+    },
+    "date_end_cite": ["phile_web_scepsp_2011", "reilly_psp_2011", "yin-poole_sony_2011", "narcisse_sony_2011", "sliwinski_sony_2011"]
+}

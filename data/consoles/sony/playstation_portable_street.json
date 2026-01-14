@@ -1,0 +1,11 @@
+{
+    "name": "PlayStation Portable (PSP) Street",
+    "name_orig": "PSP-E1000",
+    "photo": "images/sony_playstation_portable_street.jpg",
+    "photo_credit": "Tokyoship",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PSP_E1000_illustration.svg",
+    "date_start": {
+        "PAL regions": "2011-10-26"
+    },
+    "date_start_cite": ["gallagher_new_2011"]
+}

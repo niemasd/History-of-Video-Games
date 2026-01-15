@@ -1,0 +1,10 @@
+{
+    "name": "New-Style Super NES (SNES)",
+    "name_orig": "SNS-101",
+    "photo": "images/nintendo_new_style_super_nes.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:SNES-Model-2-Set.jpg",
+    "date_start": {
+        "North America": "1997-10-20"
+    }
+}

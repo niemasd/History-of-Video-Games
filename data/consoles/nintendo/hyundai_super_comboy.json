@@ -1,0 +1,14 @@
+{
+    "name": "Hyundai Super Comboy",
+    "name_orig": "슈퍼 컴보이",
+    "photo": "images/nintendo_hyundai_super_comboy.jpg",
+    "photo_credit": "Ilhuday",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Hyundai_Super_Comboy_-_Main_Body.jpg",
+    "date_start": {
+        "South Korea": "1990-12"
+    },
+    "date_end": {
+        "South Korea": "2003-04-01"
+    },
+    "date_end_cite": ["wolf_routledge_2019"]
+}

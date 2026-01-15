@@ -1,0 +1,11 @@
+{
+    "name": "iQue Game Boy Advance (GBA) SP Backlit",
+    "variant_of": "Game Boy Advance (GBA) SP Backlit",
+    "photo": "images/ique_game_boy_advance_sp_backlit.jpg",
+    "photo_credit": "GPASP",
+    "photo_credit_url": "https://gbasp.ru/historyiquemicro-en.html",
+    "date_start": {
+        "China": "2006-04"
+    },
+    "date_start_cite": ["gbasp_history_nodate-3"]
+}

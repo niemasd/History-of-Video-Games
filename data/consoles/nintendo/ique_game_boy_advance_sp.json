@@ -1,0 +1,11 @@
+{
+    "name": "iQue Game Boy Advance (GBA) SP",
+    "variant_of": "Game Boy Advance (GBA) SP",
+    "photo": "images/ique_game_boy_advance_sp.jpg",
+    "photo_credit": "GBASP",
+    "photo_credit_url": "https://gbasp.ru/historyiquesp-en.html",
+    "date_start": {
+        "China": "2004-10-27"
+    },
+    "date_start_cite": ["gbasp_history_nodate-1"]
+}

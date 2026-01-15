@@ -1,0 +1,17 @@
+{
+    "name": "GameCube (GCN)",
+    "photo": "images/nintendo_gamecube.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:GameCube-Set.jpg",
+    "date_start": {
+        "Japan": "2001-09-14",
+        "North America": "2001-11-18",
+        "Europe": "2002-05-03",
+        "Australia": "2002-05-17"
+    },
+    "date_start_cite": ["williams_nintendo_2001", "becker_nintendo_2001", "bbc_news_gamecube_2002", "cameron_gamecube_2022"],
+    "date_end": {
+        "Global": "2007-02"
+    },
+    "date_end_cite": ["thorsen_nintendo_2007"]
+}

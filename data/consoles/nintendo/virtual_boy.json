@@ -1,0 +1,18 @@
+{
+    "name": "Virtual Boy",
+    "photo": "images/virtual_boy.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Virtual-Boy-wController.jpg",
+    "date_start": {
+        "Japan": "1995-07-21",
+        "North America": "1995-08-14",
+        "Brazil": "1995-09"
+    },
+    "date_start_cite": ["reuters_introduction_1995", "nintendo_of_america_inc_virtual_1995", "sposito_virtual_1995"],
+    "date_end": {
+        "Japan": "1995-12-22",
+        "North America": "1996-08",
+        "Brazil": "1996"
+    },
+    "date_end_cite": ["boyer_virtual_2009", "snow_feature_2007", "edwards_unraveling_2015"]
+}

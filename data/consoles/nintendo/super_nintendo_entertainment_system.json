@@ -4,22 +4,11 @@
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:SNES-Mod1-Console-Set.jpg",
     "date_start": {
-        "North America": "1991-08-23",
-        "UK": "1992-04-11",
-        "Ireland": "1992-04-11",
-        "Europe": "1992-06",
-        "Chile": "1992-06-08",
-        "Australia": "1992-07-03",
-        "Brazil": "1993-08-30",
-        "Russia": "1994-11-15"
+        "North America": "1991-08-23"
     },
-    "date_start_cite": ["campbell_super_1991", "electronic_gaming_monthly_super_1991", "giant_bomb_wiki_super_nodate", "nintendo_nintendo_2024", "portilla_juegos_2015", "noauthor_nintendo_1993", "noauthor__1994"],
+    "date_start_cite": ["campbell_super_1991", "electronic_gaming_monthly_super_1991"],
     "date_end": {
-        "Russia": "1996",
-        "Europe": "1998",
-        "North America": "1999-11-30",
-        "Brazil": "2003",
-        "South Korea": "2003-04-01"
+        "North America": "1999-11-30"
     },
     "date_end_cite": ["reisinger_does_2009"]
 }

@@ -359,7 +359,10 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                         photo_credit += ')'
                     else:
                         photo_credit = ''
-                    md_f.write('<center>![Photo of [%s](#%s) [%s](#%s)%s.](%s){width=50%%}</center>\n' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe'], photo_credit, console_data['photo']))
+                    md_f.write('<center>![Photo of ')
+                    if not console_data['name'].startswith(company_data['name']): # avoid e.g. "Nintendo Nintendo Entertainment System"
+                        md_f.write('[%s](#%s) ' % (company_data['name'], company_data['name_safe']))
+                    md_f.write('[%s](#%s)%s.](%s){width=50%%}</center>\n' % (console_data['name'], console_data['name_safe'], photo_credit, console_data['photo']))
                     md_f.write('\n')
         md_f.write('\n')
 

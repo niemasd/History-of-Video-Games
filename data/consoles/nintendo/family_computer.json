@@ -1,0 +1,10 @@
+{
+    "name": "Family Computer (Famicom)",
+    "photo": "images/nintendo_family_computer.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-Famicom-Console-Set-FL.jpg",
+    "date_start": {
+        "Japan": "1983-07-15"
+    },
+    "date_start_cite": ["nintendo_family_nodate"]
+}

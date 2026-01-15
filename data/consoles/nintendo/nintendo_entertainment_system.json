@@ -1,0 +1,32 @@
+{
+    "name": "Nintendo Entertainment System (NES)",
+    "photo": "images/nintendo_entertainment_system.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg",
+    "date_start": {
+        "USA": "1985-10-18",
+        "Europe": "1986-09-01",
+        "North America": "1986-09-27",
+        "UK": "1987",
+        "Ireland": "1987",
+        "Italy": "1987",
+        "Australia": "1987",
+        "India": "1987",
+        "Taiwan": "1987",
+        "South Korea": "1989",
+        "Chile": "1991",
+        "South Africa": "1993",
+        "Brazil": "1993-03"
+    },
+    "date_start_cite": ["kohler_oct_2010", "bjarneby_historien_2006", "noauthor_nintendos_2008", "the_clinic_nes_2023"],
+    "date_end": {
+        "North America": "1995-08-14",
+        "Europe": "1995-08-14",
+        "Australia": "1995-08-14",
+        "Brazil": "2003",
+        "South Korea": "2003",
+        "Taiwan": "2003",
+        "Japan": "2003-09-25"
+    },
+    "date_end_cite": ["classicgaming_museum_nintendo_2012", "nintendo_x_2004"]
+}

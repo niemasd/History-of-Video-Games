@@ -1,0 +1,15 @@
+{
+    "name": "Game Boy Color (GBC)",
+    "photo": "images/game_boy_color.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Color-FL.jpg",
+    "date_start": {
+        "Japan": "1998-10-21",
+        "North America": "1998-11-18",
+        "Europe": "1998-11-23",
+        "Australia": "1998-11-27"
+    },
+    "date_end": {
+        "Global": "2003-03-31"
+    }
+}

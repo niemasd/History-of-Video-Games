@@ -1,0 +1,15 @@
+{
+    "name": "Game Boy",
+    "photo": "images/game_boy.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.jpg",
+    "date_start": {
+        "Japan": "1989-04-21",
+        "North America": "1989-07-31",
+        "Europe": "1990-09-28"
+    },
+    "date_start_cite": ["retro_gamer_retrodiary_2011", "white_gameboy_1989"],
+    "date_end": {
+        "Global": "2003-03-31"
+    }
+}

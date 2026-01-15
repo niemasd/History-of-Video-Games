@@ -1,0 +1,10 @@
+{
+    "name": "Game Boy Pocket",
+    "photo": "images/game_boy_pocket.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Game-Boy-Pocket-FL.jpg",
+    "date_start": {
+        "Japan": "1996-07-20",
+        "North America": "1996-09-02"
+    }
+}

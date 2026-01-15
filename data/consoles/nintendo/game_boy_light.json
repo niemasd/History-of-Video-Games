@@ -1,0 +1,10 @@
+{
+    "name": "Game Boy Light",
+    "photo": "images/game_boy_light.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Game-Boy-Light-FL.jpg",
+    "date_start": {
+        "Japan": "1998-04-14"
+    },
+    "date_start_cite": ["nintendo_game_1998"]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Game Boy Advance (GBA)",
+    "photo": "images/game_boy_advance.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+    "date_start": {
+        "Japan": "2001-03-21",
+        "North America": "2001-06-11",
+        "PAL regions": "2001-06-22"
+    },
+    "date_start_cite": ["ign_staff_game_2000", "fielder_e3_2001", "bramwell_gba_2001", "hyper_game_2001"],
+    "date_end": {
+        "Global": "2010"
+    },
+    "date_end_cite": ["nintendo_co_ltd_consolidated_2016"]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Nintendo 64 (N64)",
+    "photo": "images/nintendo_64.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-64-wController-L.jpg",
+    "date_start": {
+        "Japan": "1996-06-23",
+        "North America": "1996-09-29",
+        "Europe": "1997-03-01",
+        "Australia": "1997-03-01"
+    },
+    "date_start_cite": ["the_signal_long-awaited_1996", "ign_staff_nintendo_1996", "kohler_nintendo_nodate", "younge_battle_1997", "curtis_remember_1997"],
+    "date_end": {
+        "Global": "2002-04-30"
+    },
+    "date_end_cite": ["nintendo_consolidated_2010"]
+}

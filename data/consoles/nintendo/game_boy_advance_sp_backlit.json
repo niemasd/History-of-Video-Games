@@ -1,0 +1,16 @@
+{
+    "name": "Game Boy Advance (GBA) SP Backlit",
+    "name_orig": "AGS-101",
+    "variant_of": "Game Boy Advance (GBA) SP",
+    "photo": "images/game_boy_advance_sp_backlit.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Gameboy-Advance-SP-Mk2.jpg",
+    "date_start": {
+        "North America": "2005-09-19"
+    },
+    "date_start_cite": ["rudden_nintendo_2006"],
+    "date_end": {
+        "Global": "2010"
+    },
+    "date_end_cite": ["nintendo_co_ltd_consolidated_2016"]
+}

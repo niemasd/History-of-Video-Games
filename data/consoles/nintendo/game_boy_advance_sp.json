@@ -1,0 +1,18 @@
+{
+    "name": "Game Boy Advance (GBA) SP",
+    "name_orig": "AGS-001",
+    "variant_of": "Game Boy Advance (GBA)",
+    "photo": "images/game_boy_advance_sp.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Game-Boy-Advance-SP-Mk1-Blue.jpg",
+    "date_start": {
+        "Japan": "2003-02-14",
+        "North America": "2003-03-23",
+        "PAL regions": "2003-03-28"
+    },
+    "date_start_cite": ["harris_game_2003", "carnoy_nintendo_2003", "jones_gba_2003"],
+    "date_end": {
+        "Global": "2010"
+    },
+    "date_end_cite": ["nintendo_co_ltd_consolidated_2016"]
+}

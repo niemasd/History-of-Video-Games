@@ -1,0 +1,14 @@
+{
+    "name": "Super Famicom (SFC)",
+    "photo": "images/nintendo_super_famicom.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-Super-Famicom-Set-FL.jpg",
+    "date_start": {
+        "Japan": "1990-11-21"
+    },
+    "date_start_cite": ["retro_gamer_retro_2013"],
+    "date_end": {
+        "Japan": "2003-09-25"
+    },
+    "date_end_cite": ["niizumi_nintendo_2003"]
+}

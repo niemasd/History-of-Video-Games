@@ -1,0 +1,11 @@
+{
+    "name": "iQue DSi",
+    "variant_of": "Nintendo DSi",
+    "photo": "images/nintendo_ique_dsi.jpg",
+    "photo_credit": "Video Game Data Base",
+    "photo_credit_url": "https://www.vgdb.com.br/consoles/ique-dsi-rosa/#gallery-game-1",
+    "date_start": {
+        "China": "2009-12"
+    },
+    "date_start_cite": ["ashcraft_dsi_2009"]
+}

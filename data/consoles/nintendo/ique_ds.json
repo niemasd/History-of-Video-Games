@@ -1,0 +1,11 @@
+{
+    "name": "iQue DS",
+    "variant_of": "Nintendo DS",
+    "photo": "images/nintendo_ique_ds.jpg",
+    "photo_credit": "GBASP",
+    "photo_credit_url": "https://gbasp.ru/historyiqueds-en.html",
+    "date_start": {
+        "China": "2005-07-23"
+    },
+    "date_start_cite": ["gbasp_history_nodate-2"]
+}

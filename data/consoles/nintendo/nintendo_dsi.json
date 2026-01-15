@@ -1,0 +1,14 @@
+{
+    "name": "Nintendo DSi",
+    "variant_of": "Nintendo DS Lite",
+    "photo": "images/nintendo_dsi.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-DSi-Bl-Open.jpg",
+    "date_start": {
+        "Japan": "2008-11-01",
+        "Australia": "2009-04-02",
+        "Europe": "2009-04-03",
+        "North America": "2009-04-05"
+    },
+    "date_start_cite": ["iwata_nintendo_2009", "kozanecki_nintendo_2009", "french_nintendo_2009"]
+}

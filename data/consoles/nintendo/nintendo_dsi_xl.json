@@ -1,0 +1,15 @@
+{
+    "name": "Nintendo DSi XL",
+    "name_orig": "Nintendo DSi LL",
+    "variant_of": "Nintendo DSi",
+    "photo": "images/nintendo_dsi_xl.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-DSi-XL-Burg.jpg",
+    "date_start": {
+        "Japan": "2009-11-21",
+        "Europe": "2010-03-05",
+        "North America": "2010-03-28",
+        "Australia": "2010-04-15"
+    },
+    "date_start_cite": ["thorsen_dsi_2009", "brice_nintendo_2010", "thompson_nintendo_2010", "ghiggino_dsi_2012"]
+}

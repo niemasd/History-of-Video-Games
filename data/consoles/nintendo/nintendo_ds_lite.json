@@ -1,0 +1,19 @@
+{
+    "name": "Nintendo DS Lite",
+    "variant_of": "Nintendo DS",
+    "photo": "images/nintendo_ds_lite.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-DS-Lite-Black-Open.jpg",
+    "date_start": {
+        "Japan": "2006-03-02",
+        "Australia": "2006-06-01",
+        "North America": "2006-06-11",
+        "Europe": "2006-06-23",
+        "South Korea": "2007-01-18"
+    },
+    "date_start_cite": ["rojas_engadget_2006", "rawmeatcowboy_brain_2009", "nintendo_new_2006", "chambers_nintendo_2006"],
+    "date_end": {
+        "Global": "2011-04"
+    },
+    "date_end_cite": ["takahashi_nintendo_2011", "sliwinski_gamestop_2011"]
+}

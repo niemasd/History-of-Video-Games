@@ -1,0 +1,11 @@
+{
+    "name": "iQue DS Lite",
+    "variant_of": "Nintendo DS Lite",
+    "photo": "images/nintendo_ique_ds_lite.jpg",
+    "photo_credit": "Consolevariations",
+    "photo_credit_url": "https://consolevariations.com/collectibles/ique-ds-lite-dragon-console",
+    "date_start": {
+        "China": "2006-04"
+    },
+    "date_start_cite": ["gbasp_history_nodate-3"]
+}

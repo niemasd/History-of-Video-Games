@@ -1,0 +1,21 @@
+{
+    "name": "Game Boy Micro",
+    "name_orig": "OXY-001",
+    "variant_of": "Game Boy Advance (GBA)",
+    "photo": "images/game_boy_micro.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Game-Boy-Micro.jpg",
+    "date_start": {
+        "Japan": "2005-09-13",
+        "North America": "2005-09-19",
+        "China": "2005-10-01",
+        "Australia": "2005-11-03",
+        "Europe": "2005-11-04",
+        "South Korea": "2005-11-09"
+    },
+    "date_start_cite": ["fisher_game_2005", "ramsay_game_2005"],
+    "date_end": {
+        "Global": "2008"
+    },
+    "date_end_cite": ["vega_look_2017"]
+}

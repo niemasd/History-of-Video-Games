@@ -1,0 +1,14 @@
+{
+    "name": "Nintendo DS",
+    "photo": "images/nintendo_ds.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-DS-Fat-Blue.jpg",
+    "date_start": {
+        "North America": "2004-11-21",
+        "Japan": "2004-12-02",
+        "Australia": "2005-02-24",
+        "New Zealand": "2005-02-24",
+        "Europe": "2005-03-11"
+    },
+    "date_start_cite": ["harris_official_2004", "gantayat_nds_2004", "noauthor_australian_2009", "fahey_nintendo_2005", "__2004"]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Pokémon Mini",
+    "photo": "images/nintendo_pokemon_mini.jpg",
+    "photo_credit": "Sesu Prime",
+    "photo_credit_url": "https://en.wikipedia.org/wiki/File:Pokemon_mini.png",
+    "date_start": {
+        "North America": "2001-11-16",
+        "Japan": "2001-12-14",
+        "Europe": "2002-03-15"
+    },
+    "date_start_cite": ["pokemon_center_grand_2002", "nintendo__2002", "nintendo_nintendo_2012"]
+}

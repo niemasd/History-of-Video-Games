@@ -1,10 +1,11 @@
 {
-    "name": "New-Style NES",
+    "name": "New Famicom",
     "name_orig": "NES-101",
-    "photo": "images/nintendo_new_style_nes.jpg",
+    "variant_of": "Family Computer (Famicom)",
+    "photo": "images/nintendo_new_famicom.jpg",
     "photo_credit": "Evan Amos",
-    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:NES-101-Console-Set.jpg",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-AV-Famicom-Console-FL.jpg",
     "date_start": {
-        "North America": "1993-10-15"
+        "Japan": "1993-12-01"
     }
 }

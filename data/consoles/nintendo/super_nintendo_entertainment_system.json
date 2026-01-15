@@ -1,5 +1,7 @@
 {
     "name": "Super Nintendo Entertainment System (SNES)",
+    "name_orig": "SNS-001",
+    "variant_of": "Super Famicom (SFC)",
     "photo": "images/nintendo_super_nintendo_entertainment_system.jpg",
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:SNES-Mod1-Console-Set.jpg",

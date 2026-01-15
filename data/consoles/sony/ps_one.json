@@ -1,5 +1,6 @@
 {
     "name": "PS One",
+    "variant_of": "PlayStation (PSX)",
     "photo": "images/sony_ps_one.jpg",
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:PSone-Console-Set-NoLCD.jpg",

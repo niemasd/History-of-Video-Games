@@ -1,5 +1,6 @@
 {
     "name": "Xbox 360 E",
+    "variant_of": "Xbox 360",
     "photo": "images/microsoft_xbox_360_e.jpg",
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-360-E-wController.jpg",

@@ -1,6 +1,7 @@
 {
     "name": "Super Nintendo Entertainment System (SNES) PAL Region",
     "name_orig": "SNSP-001A",
+    "variant_of": "Super Famicom (SFC)",
     "photo": "images/nintendo_super_nintendo_entertainment_system_pal.jpg",
     "photo_credit": "JCD1981NL",
     "photo_credit_url": "https://en.wikipedia.org/wiki/File:Wikipedia_SNES_PAL.jpg",

@@ -1,5 +1,6 @@
 {
     "name": "Xbox Series S",
+    "variant_of": "Xbox Series X",
     "photo": "images/microsoft_xbox_series_s.jpg",
     "photo_credit": "Microsoft",
     "photo_credit_url": "https://www.xbox.com/en-US/consoles/xbox-series-s",

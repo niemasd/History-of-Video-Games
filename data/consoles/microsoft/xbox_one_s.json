@@ -1,5 +1,6 @@
 {
     "name": "Xbox One S",
+    "variant_of": "Xbox One",
     "photo": "images/microsoft_xbox_one_s.jpg",
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-S-Console-wController-L.jpg",

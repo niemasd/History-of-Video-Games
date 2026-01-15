@@ -1,5 +1,6 @@
 {
     "name": "Xbox One X",
+    "variant_of": "Xbox One",
     "photo": "images/microsoft_xbox_one_x.jpg",
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-X-Console-Set.jpg",

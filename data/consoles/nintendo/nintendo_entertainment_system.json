@@ -1,5 +1,7 @@
 {
     "name": "Nintendo Entertainment System (NES)",
+    "name_orig": "NES-001",
+    "variant_of": "Family Computer (Famicom)",
     "photo": "images/nintendo_entertainment_system.jpg",
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg",

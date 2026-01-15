@@ -172,8 +172,11 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
     # set things up
     companies_sorted = sorted(data['companies'].values(), key=lambda x: x['name'])
     safename_to_company = {company_data['name_safe']:company_data for company_data in companies_sorted}
+    name_to_company = {company_data['name']:company_data for company_data in companies_sorted}
     people_sorted = sorted(data['people'].values(), key=lambda x: x['name'])
-    consoles_sorted = {company: sorted(company_consoles.values(), key=lambda x: (min(x['date_start'].values()), x['name'])) for company, company_consoles in data['consoles'].items()}
+    consoles_sorted = {company_name: sorted(company_consoles.values(), key=lambda x: (min(x['date_start'].values()), 'variant_of' in x, x['name'])) for company_name, company_consoles in data['consoles'].items()}
+    console_name_to_company = {console_data['name']:safename_to_company[company_safename] for company_safename, company_consoles in consoles_sorted.items() for console_data in company_consoles}
+    console_name_to_console = {console_data['name']:console_data for company_consoles in consoles_sorted.values() for console_data in company_consoles}
 
     # precompute timeline
     events = dict() # events[decade][year][(year,month,day)] = list of event descriptions
@@ -247,6 +250,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
     # create markdown output
     with open(md_path, 'wt') as md_f:
         # write front matter
+        name_to_company = {company_data['name']:company_data for company_data in companies_sorted}
         md_f.write('---\n')
         md_f.write('title: "%s"\n' % md_title)
         md_f.write('author: "%s"\n' % md_author)
@@ -307,6 +311,15 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                 md_f.write('The [%s](#%s) [%s](#%s)' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe']))
                 if 'name_orig' in console_data:
                     md_f.write(' (%s)' % console_data['name_orig'])
+                if 'variant_of' in console_data:
+                    parent_console_name = console_data['variant_of']
+                    parent_console_safename = console_name_to_console[parent_console_name]['name_safe']
+                    parent_company_name = console_name_to_company[parent_console_name]['name']
+                    parent_company_safename = name_to_company[parent_company_name]['name_safe']
+                    md_f.write(', a variant of the')
+                    if parent_company_name not in parent_console_name:
+                        md_f.write(' [%s](#%s)' % (parent_company_name, parent_company_safename))
+                    md_f.write(' [%s](#%s),' % (parent_console_name, parent_console_safename))
                 release_dates = list()
                 for release_region, release_date in console_data['date_start'].items():
                     curr_text = ''

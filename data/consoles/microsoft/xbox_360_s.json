@@ -1,5 +1,6 @@
 {
     "name": "Xbox 360 S",
+    "variant_of": "Xbox 360",
     "photo": "images/microsoft_xbox_360_s.jpg",
     "photo_credit": "Evan Amos",
     "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Xbox-360S-Console-Set.jpg",

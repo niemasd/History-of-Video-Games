@@ -1,0 +1,15 @@
+{
+    "name": "Panasonic Q",
+    "variant_of": "GameCube (GCN)",
+    "photo": "images/nintendo_panasonic_q.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Panasonic-Q-Console-Set.jpg",
+    "date_start": {
+        "Japan": "2001-12-14"
+    },
+    "date_start_cite": ["lake_q_2001", "engadget_20011214dvdqsl-gc10_2019"],
+    "date_end": {
+        "Global": "2003-12-18"
+    },
+    "date_end_cite": ["cole_panasonic_2003"]
+}

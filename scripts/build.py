@@ -307,7 +307,7 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             if company_data['name_safe'] not in consoles_sorted:
                 continue # skip companies without consoles (for now)
             for console_data in consoles_sorted[company_data['name_safe']]:
-                md_f.write('### %s {#%s}\n' % (console_data['name'], console_data['name_safe']))
+                md_f.write('### %s %s {#%s}\n' % (company_data['name'], console_data['name'], console_data['name_safe']))
                 md_f.write('The [%s](#%s) [%s](#%s)' % (company_data['name'], company_data['name_safe'], console_data['name'], console_data['name_safe']))
                 if 'name_orig' in console_data:
                     md_f.write(' (%s)' % console_data['name_orig'])

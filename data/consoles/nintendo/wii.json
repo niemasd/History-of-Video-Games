@@ -1,0 +1,24 @@
+{
+    "name": "Wii",
+    "photo": "images/nintendo_wii.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Wii-console.jpg",
+    "date_start": {
+        "North America": "2006-11-19",
+        "Japan": "2006-12-02",
+        "Australia": "2006-12-07",
+        "Europe": "2006-12-08",
+        "South Africa": "2007-09-30",
+        "South Korea": "2008-04-26",
+        "Taiwan": "2008-07-12",
+        "India": "2008-09-30",
+        "Hong Kong": "2009-12-12"
+    },
+    "date_start_cite": ["sanders_us_2006", "sanders_japanese_2006", "bramwell_aussie_2006", "cocker_wii_2006", "iol_nintendo_2007", "desai_nintendo_2008"],
+    "date_end": {
+        "Australia": "2011-11",
+        "Japan": "2013-10-20",
+        "Europe": "2013-10-24"
+    },
+    "date_end_cite": ["fingas_nintendo_2013", "mcv_staff_time_2013"]
+}

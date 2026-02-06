@@ -1,0 +1,14 @@
+{
+    "name": "Wii Mini",
+    "name_orig": "RVL-201",
+    "variant_of": "Wii",
+    "photo": "images/nintendo_wii_mini.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Wii-Mini-Console-Set-H.jpg",
+    "date_start": {
+        "Canada": "2012-12-07",
+        "Europe": "2013-03-22",
+        "USA": "2013-11-17"
+    },
+    "date_start_cite": ["fingas_nintendo_2012", "reynolds_wii_2013", "corriea_wii_2013"]
+}

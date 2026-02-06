@@ -1,0 +1,19 @@
+{
+    "name": "Wii Family Edition",
+    "name_orig": "RVL-101",
+    "variant_of": "Wii",
+    "photo": "images/nintendo_wii_family_edition.jpg",
+    "photo_credit": "Amazon",
+    "photo_credit_url": "https://www.amazon.com/Wii-certified-refurbished-Black-Nintendo/dp/B01J4JW3X4",
+    "date_start": {
+        "North America": "2011-10-23",
+        "Europe": "2011-11-04",
+        "Australia": "2011-11-11"
+    },
+    "date_start_cite": ["east_wii_2011", "phillips_wii_2011"],
+    "date_end": {
+        "Europe": "2013-10-24",
+        "North America": "2014-05"
+    },
+    "date_end_cite": ["mcv_staff_time_2013"]
+}

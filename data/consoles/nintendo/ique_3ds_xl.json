@@ -1,0 +1,11 @@
+{
+    "name": "iQue 3DS XL",
+    "variant_of": "3DS XL",
+    "photo": "images/nintendo_ique_3ds_xl.jpg",
+    "photo_credit": "GBASP",
+    "photo_credit_url": "https://gbasp.ru/consoleique-en.html",
+    "date_start": {
+        "China": "2012-12"
+    },
+    "date_start_cite": ["gbasp_which_nodate"]
+}

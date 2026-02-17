@@ -1,0 +1,21 @@
+{
+    "name": "2DS",
+    "variant_of": "3DS",
+    "photo": "images/nintendo_2ds.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-2DS-angle.jpg",
+    "date_start": {
+        "North America": "2013-10-12",
+        "Europe": "2013-10-12",
+        "Australia": "2013-10-12",
+        "Brazil": "2013-11-26",
+        "South Korea": "2013-12-07",
+        "Japan": "2016-02-27"
+    },
+    "date_start_cite": ["conditt_nintendo_2013", "robertson_nintendo_2015"],
+    "date_end": {
+        "Japan": "2018",
+        "Global": "2020-09-16"
+    },
+    "date_end_cite": ["nintendo_nintendo_2022"]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "3DS XL",
+    "name_orig": "3DS LL",
+    "variant_of": "3DS",
+    "photo": "images/nintendo_3ds_xl.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-3DS-XL-angled.jpg",
+    "date_start": {
+        "Japan": "2012-07-28",
+        "Europe": "2012-07-28",
+        "North America": "2012-08-19",
+        "Australia": "2012-08-23",
+        "South Korea": "2012-09-20",
+        "Hong Kong": "2012-09-28",
+        "Taiwan": "2012-09-28"
+    },
+    "date_start_cite": ["east_nintendo_2012", "goldfarb_nintendo_2012", "bray_australian_2012", "nintendo_of_korea__2012", "barnett_new_2012"],
+    "date_end": {
+        "Global": "2020-09-16"
+    },
+    "date_end_cite": ["byford_nintendo_2020", "bbc_news_nintendo_2020"]
+}

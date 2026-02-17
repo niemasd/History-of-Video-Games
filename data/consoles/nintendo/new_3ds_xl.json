@@ -1,0 +1,20 @@
+{
+    "name": "New Nintendo 3DS XL",
+    "name_orig": "New Nintendo 3DS LL",
+    "variant_of": "3DS XL",
+    "photo": "images/nintendo_new_3ds_xl.jpg",
+    "photo_credit": "Ejay",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:New-3DS-XL-Black.jpg",
+    "date_start": {
+        "Japan": "2014-10-11",
+        "Australia": "2014-11-21",
+        "Europe": "2015-01-06",
+        "North America": "2015-02-13",
+        "South Korea": "2015-05-01"
+    },
+    "date_start_cite": ["phillips_nintendos_2014", "kohler_new_2014", "sato_new_2014", "summers_new_2015", "farokhmanesh_new_2015", "crossley_new_2015", "towell_new_2015"],
+    "date_end": {
+        "Global": "2020-09-16"
+    },
+    "date_end_cite": ["byford_nintendo_2020"]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "New Nintendo 2DS XL",
+    "name_orig": "New Nintendo 2DS LL",
+    "variant_of": "2DS",
+    "photo": "images/nintendo_new_2ds_xl.jpg",
+    "photo_credit": "LBDCOM12",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:New_Nintendo_2ds_XL.png",
+    "date_start": {
+        "Australia": "2017-06-15",
+        "New Zealand": "2017-06-15",
+        "Japan": "2017-07-13",
+        "North America": "2017-07-28",
+        "Europe": "2017-07-28"
+    },
+    "date_start_cite": ["sarkar_new_2017", "nintendo_of_australia_new_2017"],
+    "date_end": {
+        "Global": "2020-09-16"
+    },
+    "date_end_cite": ["byford_nintendo_2020"]
+}

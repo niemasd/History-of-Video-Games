@@ -1,0 +1,19 @@
+{
+    "name": "3DS",
+    "photo": "images/nintendo_3ds.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-3DS-AquaOpen.jpg",
+    "date_start": {
+        "Japan": "2011-02-26",
+        "Europe": "2011-03-25",
+        "North America": "2011-03-27",
+        "Australia": "2011-03-31"
+    },
+    "date_start_cite": ["harris_nintendo_2010", "nintendo_co_ltd_financial_2010", "kaluszka_3ds_2011", "vuckovic_nintendo_2011"],
+    "date_end": {
+        "Europe": "2017",
+        "Japan": "2017",
+        "Global": "2020-09-16"
+    },
+    "date_end_cite": ["frank_new_2017", "phillips_new_2017", "byford_nintendo_2020", "bbc_news_nintendo_2020"]
+}

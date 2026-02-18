@@ -1,0 +1,17 @@
+{
+    "name": "Switch 2",
+    "photo": "images/nintendo_switch_2.jpg",
+    "photo_credit": "Crisco 1492",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Handheld_Mode.jpg",
+    "date_start": {
+        "Global": "2025-06-05",
+        "Philippines": "2025-06-26",
+        "Singapore": "2025-06-26",
+        "Thailand": "2025-06-26",
+        "Malaysia": "2025-07-03",
+        "Taiwan": "2025-07-10",
+        "UAE": "2025-09-17",
+        "Argentina": "2025-10-10"
+    },
+    "date_start_cite": ["nintendo_nintendo_2025", "zhang_nintendo_2025", "arab_news_nintendo_2025", "ap_nintendo_2025", "lirio_nintendo_2025", "fam_nintendo_2025", "active_gulf_nintendomde_exciting_2025", "nintendo_latinoamerica_nintendolatam_consola_2025", "editorial_team_nintendo_2025"]
+}

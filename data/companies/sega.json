@@ -1,0 +1,13 @@
+{
+    "name": "Sega",
+    "name_orig": "株式会社セガ",
+    "logo": "images/sega.jpg",
+    "logo_credit": "SEGA",
+    "logo_credit_url": "https://commons.wikimedia.org/wiki/File:SEGA_logo.svg",
+    "date_start": "1960-06-03",
+    "date_start_cite": ["horowitz_sega_2018"],
+    "location_start": "Tokyo, Japan",
+    "location_start_cite": ["horowitz_sega_2018"],
+    "founders": ["Martin Bromley", "Richard Stewart", "David Rosen"],
+    "founders_cite": ["horowitz_sega_2018"]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "David Rosen",
+    "name_orig": "David M. Rosen",
+    "photo": "images/david_rosen.jpg",
+    "photo_credit": "Sega Retro",
+    "photo_credit_url": "https://segaretro.org/File:Davidrosen.jpg",
+    "date_birth": "1930-01-22",
+    "date_birth_cite": ["armstrong_whos_1981"],
+    "location_birth": "Brooklyn, New York, USA",
+    "location_birth_cite": ["armstrong_whos_1981"],
+    "date_death": "2025-12-25",
+    "date_death_cite": ["harding_segas_2026"],
+    "location_death": "Hollywood Hills, California, USA",
+    "location_death_cite": ["harding_segas_2026"]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Switch OLED",
+    "variant_of": "Switch",
+    "photo": "images/nintendo_switch_oled.jpg",
+    "photo_credit": "PantheraLeo1359531",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_%E2%80%93_OLED-Modell-Konsole_20230506_HOF01643_RAW-Export.png",
+    "date_start": {
+        "Global": "2021-10-10"
+    },
+    "date_start_cite": ["mcwhertor_nintendo_2021"]
+}

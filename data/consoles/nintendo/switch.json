@@ -1,0 +1,10 @@
+{
+    "name": "Switch",
+    "photo": "images/nintendo_switch.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+    "date_start": {
+        "Global": "2017-03-03"
+    },
+    "date_start_cite": ["nintendo_nintendo_2017"]
+}

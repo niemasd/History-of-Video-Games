@@ -1,0 +1,17 @@
+{
+    "name": "Wii U",
+    "photo": "images/nintendo_wii_u.jpg",
+    "photo_credit": "Takimata and Tokyoship",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Wii_U_Console_and_Gamepad.png",
+    "date_start": {
+        "North America": "2012-11-18",
+        "Europe": "2012-11-30",
+        "Australia": "2012-11-30",
+        "Japan": "2012-12-08"
+    },
+    "date_start_cite": ["pham_nintendos_2012", "vuckovic_wii_2012", "ashcraft_wii_2012"],
+    "date_end": {
+        "Global": "2017-01-31"
+    },
+    "date_end_cite": ["carter_wii_2017", "ashcraft_wii_2017"]
+}

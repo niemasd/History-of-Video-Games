@@ -1,0 +1,11 @@
+{
+    "name": "Switch Lite",
+    "variant_of": "Switch",
+    "photo": "images/nintendo_switch_lite.jpg",
+    "photo_credit": "BugWarp and Hyperba21",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_Lite_Pokemon_Zacian_and_Zamazenta_edition_White_BG.jpg",
+    "date_start": {
+        "Global": "2019-09-20"
+    },
+    "date_start_cite": ["bankhurst_nintendo_2019"]
+}

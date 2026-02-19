@@ -1,0 +1,10 @@
+{
+    "name": "Master System (SMS) II",
+    "variant_of": "Master System (SMS)",
+    "photo": "images/sega_master_system_ii.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Master-System-MkII-wController.jpg",
+    "date_start": {
+        "North America": "1990"
+    }
+}

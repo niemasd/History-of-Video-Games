@@ -1,0 +1,12 @@
+{
+    "name": "SG-1000 II",
+    "variant_of": "SG-1000",
+    "photo": "images/sega_sg_1000_ii.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-SG-1000-MkII-Console-FL.jpg",
+    "date_start": {
+        "Japan": "1984-07-31",
+        "Taiwan": "1986"
+    },
+    "date_start_cite": ["_gamers_2015"]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "SC-3000",
+    "variant_of": "SG-1000",
+    "photo": "images/sega_sc_3000.jpg",
+    "photo_credit": "Bilby and Xiejunmingsa",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega_SC-3000_wb_(shadow_removed_version).jpg",
+    "date_start": {
+        "Japan": "1983-07-15",
+        "Australia": "1983-11"
+    },
+    "date_start_cite": ["sega_sc-3000_2023", "_gamers_2015"]
+}

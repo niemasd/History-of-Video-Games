@@ -1,0 +1,13 @@
+{
+    "name": "SG-1000",
+    "photo": "images/sega_sg_1000.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-SG-1000-Console-Set.jpg",
+    "date_start": {
+        "Japan": "1983-07-15"
+    },
+    "date_start_cite": ["sega_sg-1000_2023"],
+    "date_end": {
+        "Japan": "1984-07"
+    }
+}

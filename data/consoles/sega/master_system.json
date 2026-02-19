@@ -1,0 +1,20 @@
+{
+    "name": "Master System (SMS)",
+    "variant_of": "Mark III",
+    "photo": "images/sega_master_system.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Master-System-Set.jpg",
+    "date_start": {
+        "North America": "1986-09",
+        "Europe": "1987-08",
+        "Japan": "1987-10-18",
+        "Brazil": "1989-09"
+    },
+    "date_start_cite": ["computer_entertainer_comparing_1987", "computer__video_games_sega_1987", "sega__2023-1", "suzuki_master_2009"],
+    "date_end": {
+        "Japan": "1991",
+        "North America": "1992",
+        "South Korea": "1994",
+        "Europe": "1996"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mark III",
+    "variant_of": "SG-1000",
+    "photo": "images/sega_mark_iii.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Sg-1000-MkIII-Console-FL.jpg",
+    "date_start": {
+        "Japan": "1985-10-20"
+    },
+    "date_start_cite": ["sega__2023"]
+}

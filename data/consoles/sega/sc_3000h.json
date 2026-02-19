@@ -1,0 +1,12 @@
+{
+    "name": "SC-3000H",
+    "variant_of": "SC-3000",
+    "photo": "images/sega_sc_3000h.jpg",
+    "photo_credit": "Gdx",
+    "photo_credit_url": "https://www.msx.org/wiki/File:Sega_SC-3000H-black.jpg",
+    "date_start": {
+        "Japan": "1983-07-15",
+        "Australia": "1994"
+    },
+    "date_start_cite": ["segadriven_sc-3000h_2020"]
+}

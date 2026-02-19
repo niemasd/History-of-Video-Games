@@ -89,8 +89,12 @@ def parse_args():
             error("Invalid output format: %s" % fmt)
     return args
 
-# parse all dates in `data` as (year, month, day) `tuple` objects (0 = missing)
-def parse_dates(data):
+# clean string
+def clean(s):
+    return s.replace('*', '\\*')
+
+# parse all dates in `data` as (year, month, day) `tuple` objects (0 = missing), and clean string values
+def preprocess(data):
     to_check = [data]
     while len(to_check) != 0:
         curr = to_check.pop()
@@ -99,15 +103,18 @@ def parse_dates(data):
         elif isinstance(curr, set):
             to_check += list(curr)
         elif isinstance(curr, dict):
+            # fix dates
             to_check += list(curr.values())
-            to_fix = dict()
-            for k, v in curr.items():
+            for k, v in list(curr.items()):
                 if (not k.startswith('name')) and isinstance(v, str) and match(REGEX_DATE, v):
                     parts = [int(part) for part in v.split('-')]
                     parts += ([0]*(3-len(parts)))
-                    to_fix[k] = tuple(parts)
-            for k, v_fixed in to_fix.items():
-                curr[k] = v_fixed
+                    curr[k] = tuple(parts)
+
+            # clean string values
+            for k, v in list(curr.items()):
+                if isinstance(v, str):
+                    curr[k] = clean(v)
 
 # convert a date tuple to some other date format ("yyyy-mm-dd", "text_full", or "text_abbr")
 def convert_date_tuple(date_tuple, date_format):
@@ -164,7 +171,7 @@ def load_data(data_path):
         data[data_dir_name] = curr_data_entries
 
     # preprocess data
-    parse_dates(data)
+    preprocess(data)
     return data
 
 # build markdown output

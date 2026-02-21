@@ -1,0 +1,11 @@
+{
+    "name": "Wondermega 2",
+    "variant_of": "Wondermega",
+    "photo": "images/sega_wondermega_2.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Victor-WonderMega-RG-M2-Console-Set.jpg",
+    "date_start": {
+        "Japan": "1993-07-02"
+    },
+    "date_start_cite": ["sega_timeline_sega_1983"]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Genesis",
+    "variant_of": "Mega Drive",
+    "photo": "images/sega_genesis.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Genesis-Mod1-Set.jpg",
+    "date_start": {
+        "North America": "1989-08"
+    },
+    "date_start_cite": ["computer_entertainer_early_1989"],
+    "date_end": {
+        "Global": "1997"
+    }
+}

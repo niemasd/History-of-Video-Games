@@ -1,0 +1,11 @@
+{
+    "name": "TeraDrive",
+    "variant_of": "Mega Drive",
+    "photo": "images/sega_teradrive.jpg",
+    "photo_credit": "kori2sal",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Teradrive-2007-05-19-front.jpg",
+    "date_start": {
+        "Japan": "1991-05-31"
+    },
+    "date_start_cite": ["sega__1991"]
+}

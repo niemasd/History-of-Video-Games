@@ -1,0 +1,10 @@
+{
+    "name": "Genesis 2",
+    "variant_of": "Genesis",
+    "photo": "images/sega_genesis_2.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Genesis-Mod2-Set.jpg",
+    "date_start": {
+        "North America": "1993"
+    }
+}

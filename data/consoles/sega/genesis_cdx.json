@@ -1,0 +1,10 @@
+{
+    "name": "Genesis CDX",
+    "variant_of": "Genesis",
+    "photo": "images/sega_genesis_cdx.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Genesis-CDX-Console-Set.jpg",
+    "date_start": {
+        "North America": "1994-04"
+    }
+}

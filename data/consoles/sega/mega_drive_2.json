@@ -1,0 +1,12 @@
+{
+    "name": "Mega Drive 2",
+    "variant_of": "Mega Drive",
+    "photo": "images/sega_mega_drive_2.jpg",
+    "photo_credit": "Muband",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Mega_Drive_2.jpg",
+    "date_start": {
+        "Japan": "1993",
+        "Europe": "1993",
+        "Australia": "1993"
+    }
+}

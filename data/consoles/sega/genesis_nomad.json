@@ -1,0 +1,15 @@
+{
+    "name": "Genesis Nomad",
+    "variant_of": "Genesis",
+    "photo": "images/sega_genesis_nomad.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Nomad-Front.jpg",
+    "date_start": {
+        "North America": "1995-10"
+    },
+    "date_start_cite": ["snow_10_2007", "marriott_sega_2010"],
+    "date_end": {
+        "North America": "1999"
+    },
+    "date_end_cite": ["snow_10_2007"]
+}

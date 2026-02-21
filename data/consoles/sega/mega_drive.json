@@ -1,0 +1,16 @@
+{
+    "name": "Mega Drive",
+    "photo": "images/sega_mega_drive.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Mega-Drive-JP-Mk1-Console-Set.jpg",
+    "date_start": {
+        "Japan": "1988-10-29",
+        "Europe": "1990-09",
+        "Brazil": "1990-09-01",
+        "India": "1994-04"
+    },
+    "date_start_cite": ["sega__2023-2", "edge_data_1994", "tectoy_tectoy_2010", "atmigration_shaw_1994"],
+    "date_end": {
+        "Global": "1997"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Yamaha Copera",
+    "name_orig": "ミクスト ブック プレーヤ コペラ",
+    "variant_of": "Pico",
+    "photo": "images/sega_yamaha_copera.jpg",
+    "photo_credit": "Black Squirrel",
+    "photo_credit_url": "https://segaretro.org/File:Pico_JP_MBPC_2.jpg",
+    "date_start": {
+        "Japan": "1993-12-01"
+    }
+}

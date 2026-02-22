@@ -1,0 +1,10 @@
+{
+    "name": "ePICO",
+    "photo": "images/sega_epico.jpg",
+    "photo_credit": "Sega Toys",
+    "photo_credit_url": "https://www.segatoys.co.jp/brand/epico/",
+    "date_start": {
+        "Japan": "2024-10-10"
+    },
+    "date_start_cite": ["pr_times_epico20241010_2024"]
+}

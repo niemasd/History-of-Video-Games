@@ -1,0 +1,17 @@
+{
+    "name": "Dreamcast",
+    "photo": "images/sega_dreamcast.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Dreamcast-Console-Set.jpg",
+    "date_start": {
+        "Japan": "1998-11-27",
+        "North America": "1999-09-09",
+        "Europe": "1999-10-14",
+        "Australia": "1999-11-30"
+    },
+    "date_start_cite": ["hernandez_happy_2013", "bbc_news_dreamcast_1999"],
+    "date_end": {
+        "Global": "2001-03-31"
+    },
+    "date_end_cite": ["bbc_news_sega_2001"]
+}

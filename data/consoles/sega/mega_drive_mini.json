@@ -1,0 +1,13 @@
+{
+    "name": "Mega Drive Mini",
+    "variant_of": "Mega Drive",
+    "photo": "images/sega_mega_drive_mini.jpg",
+    "photo_credit": "Sega",
+    "photo_credit_url": "https://www.theguardian.com/games/2019/sep/19/sega-mega-drive-mini-review-a-legacy-truly-honoured",
+    "date_start": {
+        "Global": "2019-09-19",
+        "Europe": "2019-10-04",
+        "Middle East": "2019-10-04"
+    },
+    "date_start_cite": ["robson_sega_2019"]
+}

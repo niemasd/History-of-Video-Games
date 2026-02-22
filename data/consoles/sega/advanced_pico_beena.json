@@ -1,0 +1,13 @@
+{
+    "name": "Advanced Pico Beena",
+    "photo": "images/sega_advanced_pico_beena.jpg",
+    "photo_credit": "Game Medium",
+    "photo_credit_url": "https://gamemedium.com/console/advanced-pico-beena",
+    "date_start": {
+        "Japan": "2005-08-06"
+    },
+    "date_start_cite": ["beena_beena_2005"],
+    "date_end": {
+        "Japan": "2011"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Genesis Mini 2",
+    "variant_of": "Mega Drive Mini 2",
+    "photo": "images/sega_genesis_mini_2.jpg",
+    "photo_credit": "Will Greenwald",
+    "photo_credit_url": "https://www.pcmag.com/reviews/sega-genesis-mini-2",
+    "date_start": {
+        "North America": "2022-10-27"
+    },
+    "date_start_cite": ["plant_sega_2022"]
+}

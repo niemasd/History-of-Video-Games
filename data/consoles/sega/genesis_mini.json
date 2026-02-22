@@ -1,0 +1,11 @@
+{
+    "name": "Genesis Mini",
+    "variant_of": "Mega Drive Mini",
+    "photo": "images/sega_genesis_mini.jpg",
+    "photo_credit": "Amazon",
+    "photo_credit_url": "https://www.amazon.com/Sega-Genesis-Mini/dp/B07PFT19MG",
+    "date_start": {
+        "North America": "2019-09-19"
+    },
+    "date_start_cite": ["robson_sega_2019"]
+}

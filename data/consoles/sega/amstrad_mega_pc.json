@@ -1,0 +1,11 @@
+{
+    "name": "Amstrad Mega PC",
+    "variant_of": "Mega Drive",
+    "photo": "images/sega_amstrad_mega_pc.jpg",
+    "photo_credit": "Staffan Vilcans",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Amstrad_Mega_PC_(5058669424).jpg",
+    "date_start": {
+        "Europe": "1993",
+        "Australia": "1993"
+    }
+}

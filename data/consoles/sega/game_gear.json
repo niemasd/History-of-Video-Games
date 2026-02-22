@@ -1,0 +1,16 @@
+{
+    "name": "Game Gear",
+    "photo": "images/sega_game_gear.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Game-Gear-Handheld.jpg",
+    "date_start": {
+        "Japan": "1990-10-06",
+        "North America": "1991-04",
+        "Europe": "1991-04",
+        "Australia": "1992"
+    },
+    "date_start_cite": ["forster_encyclopedia_2005"],
+    "date_end": {
+        "Global": "1997-04-30"
+    }
+}

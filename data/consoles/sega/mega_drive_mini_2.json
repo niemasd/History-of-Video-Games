@@ -1,0 +1,11 @@
+{
+    "name": "Mega Drive Mini 2",
+    "variant_of": "Mega Drive Mini",
+    "photo": "images/sega_mega_drive_mini_2.jpg",
+    "photo_credit": "Japanzon",
+    "photo_credit_url": "https://www.japanzon.com/en/sega/36302-sega-mega-drive-mini-2-4974365147952.html",
+    "date_start": {
+        "Japan": "2022-10-27"
+    },
+    "date_start_cite": ["scullion_sega_2022"]
+}

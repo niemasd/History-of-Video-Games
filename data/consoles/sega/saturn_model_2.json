@@ -1,0 +1,11 @@
+{
+    "name": "Saturn Model 2",
+    "variant_of": "Saturn",
+    "photo": "images/sega_saturn_model_2.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Saturn-JP-Mk2-Console-Set.jpg",
+    "date_start": {
+        "Japan": "1996",
+        "North America": "1996"
+    }
+}

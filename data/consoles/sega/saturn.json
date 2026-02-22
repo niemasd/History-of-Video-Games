@@ -1,0 +1,18 @@
+{
+    "name": "Saturn",
+    "photo": "images/sega_saturn.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Sega-Saturn-JP-Mk1-Console-Set.jpg",
+    "date_start": {
+        "Japan": "1994-11-22",
+        "North America": "1995-05-11",
+        "Europe": "1995-07-08"
+    },
+    "date_start_cite": ["sega__2023-3"],
+    "date_end": {
+        "Europe": "1998",
+        "North America": "1998-03",
+        "Japan": "2000"
+    },
+    "date_end_cite": ["strom_sega_1998"]
+}

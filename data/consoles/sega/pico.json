@@ -1,0 +1,19 @@
+{
+    "name": "Pico",
+    "name_orig": "キッズコンピューター・ピコ",
+    "photo": "images/sega_pico.jpg",
+    "photo_credit": "Muband",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Kids_Computer_Pico-01.jpg",
+    "date_start": {
+        "Japan": "1993-06",
+        "North America": "1994-11",
+        "Europe": "1994",
+        "South Korea": "1995"
+    },
+    "date_end": {
+        "Europe": "1998",
+        "North America": "1998-02",
+        "South Korea": "2002",
+        "Japan": "2005"
+    }
+}

@@ -277,7 +277,11 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             md_f.write('[%s](#%s)' % (company_data['name'], company_data['name_safe']))
             if 'name_orig' in company_data:
                 md_f.write(' (%s)' % company_data['name_orig'])
-            md_f.write(' is a company founded')
+            if 'date_end' in company_data:
+                md_f.write(' was')
+            else:
+                md_f.write(' is')
+            md_f.write(' a company founded')
             if 'location_start' in company_data:
                 md_f.write(' in %s' % company_data['location_start'])
                 if 'location_start_cite' in company_data:
@@ -296,6 +300,13 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
             if 'date_start_cite' in company_data:
                 md_f.write(' [%s]' % semicolon_separated_cites(company_data['date_start_cite']))
             md_f.write('.\n')
+            if 'date_end' in company_data:
+                md_f.write(' It closed')
+                if company_data['date_end'].count(0) == 0:
+                    md_f.write(' on ')
+                else:
+                    md_f.write(' in ')
+                md_f.write('[%s](#%s)' % (convert_date_tuple(company_data['date_end'],'text'), convert_date_tuple(company_data['date_end'],'yyyy-mm-dd')))
             md_f.write('\n')
             if 'logo' in company_data:
                 if 'logo_credit' in company_data:

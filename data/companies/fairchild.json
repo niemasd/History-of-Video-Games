@@ -1,0 +1,11 @@
+{
+    "name": "Fairchild",
+    "name_orig": "Fairchild Semiconductor International, Inc.",
+    "logo": "images/fairchild_logo.jpg",
+    "logo_credit": "Fairchild Semiconductor",
+    "logo_credit_url": "https://commons.wikimedia.org/wiki/File:Fairchild_Semiconductor_Logo.svg",
+    "date_start": "1957-10-01",
+    "location_start": "Santa Clara, California, USA",
+    "date_end": "2016-09-19",
+    "founders": ["Julius Blank", "Victor Grinich", "Jean Hoerni", "Eugene Kleiner", "Jay Last", "Gordon Moore", "Robert Noyce", "Sheldon Roberts"]
+}

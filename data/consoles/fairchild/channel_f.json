@@ -9,5 +9,8 @@
         "North America": "1976-11",
         "Japan": "1977-10"
     },
-    "date_start_cite": ["fnd_collectables_fairchild_2009"]
+    "date_start_cite": ["fnd_collectables_fairchild_2009"],
+    "date_end": {
+        "Global": "1983"
+    }
 }

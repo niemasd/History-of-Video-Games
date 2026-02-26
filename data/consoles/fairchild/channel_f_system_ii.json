@@ -1,0 +1,13 @@
+{
+    "name": "Channel F System II",
+    "variant_of": "Channel F",
+    "photo": "images/fairchild_channel_f_system_ii.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Fairchild-Channel-F-System-II-Console.jpg",
+    "date_start": {
+        "Global": "1979"
+    },
+    "date_end": {
+        "Global": "1983"
+    }
+}

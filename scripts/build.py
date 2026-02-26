@@ -378,6 +378,12 @@ def build_markdown(data, md_path, md_title="History of Video Games", md_author="
                     md_f.write(' It was discontinued %s.' % comma_separated(discontinue_dates))
                     if 'date_end_cite' in console_data:
                         md_f.write(' [%s]' % semicolon_separated_cites(console_data['date_end_cite']))
+                if 'creators' in console_data:
+                    creators = comma_separated(['[%s](#%s)' % (data['people'][creator]['name'], data['people'][creator]['name_safe']) for creator in console_data['creators']])
+                    if len(creators) != 0:
+                        md_f.write(' It was created by ' + creators + '.')
+                        if 'creators_cite' in console_data:
+                            md_f.write(' [%s]' % semicolon_separated_cites(console_data['creators_cite']))
                 md_f.write('\n')
                 md_f.write('\n')
                 if 'photo' in console_data:

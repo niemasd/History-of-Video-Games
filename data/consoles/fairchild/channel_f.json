@@ -1,0 +1,13 @@
+{
+    "name": "Channel F",
+    "name_orig": "Channel Fun",
+    "creators": ["Jerry Lawson"],
+    "photo": "images/fairchild_channel_f.jpg",
+    "photo_credit": "Evan Amos",
+    "photo_credit_url": "https://commons.wikimedia.org/wiki/File:Fairchild-Channel-F.jpg",
+    "date_start": {
+        "North America": "1976-11",
+        "Japan": "1977-10"
+    },
+    "date_start_cite": ["fnd_collectables_fairchild_2009"]
+}
